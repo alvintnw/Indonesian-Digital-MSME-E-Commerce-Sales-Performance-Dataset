@@ -1,0 +1,1501 @@
+order_id,order_date,province,product_category,sales_channel,unit_price_idr,quantity,total_revenue_idr,customer_rating,payment_method
+ORD-1000,2026-09-08,Bali,Beauty & Skincare,Shopee,229352,2,458704,4.0,QRIS
+ORD-1001,2026-08-02,Jawa Barat,Gadgets & Accessories,TikTok Shop,353988,3,1061964,4.5,Virtual Account
+ORD-1002,2026-09-28,DKI Jakarta,Fashion & Apparel,Shopee,233448,5,1167240,5.0,QRIS
+ORD-1003,2026-09-17,Banten,Fashion & Apparel,Tokopedia,224369,2,448738,4.5,Bank Transfer
+ORD-1004,2026-08-08,Jawa Barat,Food & Beverage,Shopee,49578,3,148734,4.5,QRIS
+ORD-1005,2026-10-09,DKI Jakarta,Fashion & Apparel,Tokopedia,109701,3,329103,4.8,COD
+ORD-1006,2026-10-13,Jawa Barat,Beauty & Skincare,WhatsApp Business,115160,1,115160,5.0,QRIS
+ORD-1007,2026-10-01,DKI Jakarta,Fashion & Apparel,Tokopedia,156121,1,156121,4.8,Bank Transfer
+ORD-1008,2026-10-01,DKI Jakarta,Gadgets & Accessories,WhatsApp Business,91873,1,91873,4.5,Virtual Account
+ORD-1009,2026-10-14,Jawa Timur,Gadgets & Accessories,Tokopedia,175991,3,527973,4.8,QRIS
+ORD-1010,2026-08-11,DI Yogyakarta,Beauty & Skincare,WhatsApp Business,211633,2,423266,5.0,COD
+ORD-1011,2026-07-21,Jawa Tengah,Beauty & Skincare,WhatsApp Business,248747,3,746241,5.0,COD
+ORD-1012,2026-08-09,Jawa Tengah,Beauty & Skincare,Tokopedia,207364,2,414728,5.0,QRIS
+ORD-1013,2026-09-09,Jawa Tengah,Gadgets & Accessories,TikTok Shop,124553,1,124553,5.0,QRIS
+ORD-1014,2026-07-20,DKI Jakarta,Beauty & Skincare,Tokopedia,92534,1,92534,5.0,Virtual Account
+ORD-1015,2026-10-14,Banten,Gadgets & Accessories,WhatsApp Business,125713,1,125713,5.0,Bank Transfer
+ORD-1016,2026-08-17,Bali,Fashion & Apparel,WhatsApp Business,243383,2,486766,5.0,Bank Transfer
+ORD-1017,2026-08-25,DKI Jakarta,Food & Beverage,Tokopedia,38281,1,38281,5.0,COD
+ORD-1018,2026-07-20,Sumatera Utara,Gadgets & Accessories,Shopee,253667,2,507334,4.0,COD
+ORD-1019,2026-09-20,Jawa Barat,Fashion & Apparel,WhatsApp Business,148609,1,148609,4.0,Virtual Account
+ORD-1020,2026-09-16,DKI Jakarta,Food & Beverage,Shopee,62567,2,125134,4.8,Virtual Account
+ORD-1021,2026-08-08,Jawa Timur,Home & Living,Tokopedia,748074,3,2244222,4.8,COD
+ORD-1022,2026-08-20,Banten,Beauty & Skincare,Shopee,225641,1,225641,4.8,Bank Transfer
+ORD-1023,2026-10-02,Sumatera Utara,Beauty & Skincare,Tokopedia,249950,2,499900,5.0,QRIS
+ORD-1024,2026-09-14,DKI Jakarta,Food & Beverage,TikTok Shop,77307,2,154614,4.5,Virtual Account
+ORD-1025,2026-08-09,Sumatera Utara,Home & Living,WhatsApp Business,395900,4,1583600,4.8,COD
+ORD-1026,2026-10-15,Jawa Timur,Beauty & Skincare,Tokopedia,178386,1,178386,4.8,QRIS
+ORD-1027,2026-09-05,Jawa Tengah,Food & Beverage,Tokopedia,51431,3,154293,5.0,Bank Transfer
+ORD-1028,2026-09-15,Jawa Timur,Home & Living,WhatsApp Business,383707,1,383707,5.0,Bank Transfer
+ORD-1029,2026-08-29,Jawa Tengah,Beauty & Skincare,Shopee,211779,1,211779,5.0,Virtual Account
+ORD-1030,2026-09-16,DKI Jakarta,Home & Living,Shopee,746701,1,746701,4.0,Bank Transfer
+ORD-1031,2026-10-06,Jawa Timur,Home & Living,WhatsApp Business,370856,1,370856,4.8,COD
+ORD-1032,2026-08-02,DKI Jakarta,Gadgets & Accessories,Tokopedia,366759,1,366759,5.0,Virtual Account
+ORD-1033,2026-09-18,DKI Jakarta,Gadgets & Accessories,Shopee,211087,1,211087,5.0,Virtual Account
+ORD-1034,2026-09-18,Jawa Tengah,Beauty & Skincare,Tokopedia,114288,5,571440,5.0,QRIS
+ORD-1035,2026-09-03,Jawa Tengah,Beauty & Skincare,WhatsApp Business,224480,1,224480,4.8,QRIS
+ORD-1036,2026-09-18,DKI Jakarta,Home & Living,WhatsApp Business,436585,2,873170,5.0,QRIS
+ORD-1037,2026-09-07,DKI Jakarta,Fashion & Apparel,Tokopedia,251076,1,251076,5.0,QRIS
+ORD-1038,2026-09-11,Jawa Barat,Food & Beverage,Shopee,75861,2,151722,5.0,Bank Transfer
+ORD-1039,2026-09-20,DKI Jakarta,Home & Living,Tokopedia,495141,2,990282,5.0,COD
+ORD-1040,2026-07-21,Jawa Timur,Fashion & Apparel,Shopee,334931,3,1004793,4.8,COD
+ORD-1041,2026-09-07,Banten,Beauty & Skincare,WhatsApp Business,247507,2,495014,5.0,COD
+ORD-1042,2026-07-25,Jawa Barat,Fashion & Apparel,WhatsApp Business,111877,1,111877,4.0,Virtual Account
+ORD-1043,2026-08-08,DKI Jakarta,Gadgets & Accessories,Tokopedia,133186,1,133186,5.0,QRIS
+ORD-1044,2026-09-29,Jawa Barat,Gadgets & Accessories,TikTok Shop,120326,1,120326,4.5,QRIS
+ORD-1045,2026-08-26,DKI Jakarta,Beauty & Skincare,Shopee,52920,1,52920,4.0,QRIS
+ORD-1046,2026-08-05,Jawa Barat,Gadgets & Accessories,Tokopedia,105230,1,105230,5.0,Virtual Account
+ORD-1047,2026-07-22,DKI Jakarta,Gadgets & Accessories,TikTok Shop,182028,3,546084,5.0,Virtual Account
+ORD-1048,2026-10-15,Jawa Tengah,Home & Living,WhatsApp Business,476369,3,1429107,4.8,COD
+ORD-1049,2026-09-16,Jawa Barat,Gadgets & Accessories,Shopee,93585,2,187170,5.0,COD
+ORD-1050,2026-08-01,Jawa Timur,Beauty & Skincare,TikTok Shop,92229,1,92229,4.8,Virtual Account
+ORD-1051,2026-07-27,Jawa Barat,Gadgets & Accessories,TikTok Shop,470706,2,941412,4.8,QRIS
+ORD-1052,2026-10-16,Jawa Timur,Food & Beverage,WhatsApp Business,113397,2,226794,4.8,Virtual Account
+ORD-1053,2026-09-09,DKI Jakarta,Fashion & Apparel,Shopee,171059,1,171059,4.8,Virtual Account
+ORD-1054,2026-07-20,Jawa Timur,Home & Living,Shopee,201520,1,201520,5.0,Bank Transfer
+ORD-1055,2026-10-10,DKI Jakarta,Gadgets & Accessories,Tokopedia,194832,2,389664,4.5,Bank Transfer
+ORD-1056,2026-09-16,Sumatera Utara,Beauty & Skincare,Shopee,83397,1,83397,4.8,Bank Transfer
+ORD-1057,2026-09-27,Jawa Barat,Fashion & Apparel,Tokopedia,320011,2,640022,5.0,QRIS
+ORD-1058,2026-08-31,DKI Jakarta,Home & Living,WhatsApp Business,398090,2,796180,5.0,QRIS
+ORD-1059,2026-07-26,Jawa Barat,Fashion & Apparel,WhatsApp Business,191891,3,575673,4.8,COD
+ORD-1060,2026-09-03,Jawa Barat,Home & Living,Shopee,453299,1,453299,5.0,Virtual Account
+ORD-1061,2026-08-22,DKI Jakarta,Gadgets & Accessories,Tokopedia,210928,2,421856,4.0,Bank Transfer
+ORD-1062,2026-10-04,DKI Jakarta,Gadgets & Accessories,Shopee,284746,1,284746,5.0,COD
+ORD-1063,2026-10-07,Jawa Timur,Fashion & Apparel,TikTok Shop,81570,1,81570,5.0,Bank Transfer
+ORD-1064,2026-08-23,DKI Jakarta,Gadgets & Accessories,WhatsApp Business,51969,1,51969,5.0,COD
+ORD-1065,2026-09-06,Sumatera Utara,Fashion & Apparel,TikTok Shop,229268,1,229268,5.0,COD
+ORD-1066,2026-07-22,DKI Jakarta,Food & Beverage,Tokopedia,40577,1,40577,4.0,Bank Transfer
+ORD-1067,2026-07-20,DKI Jakarta,Food & Beverage,WhatsApp Business,119795,1,119795,5.0,Bank Transfer
+ORD-1068,2026-07-24,DI Yogyakarta,Fashion & Apparel,TikTok Shop,318341,1,318341,5.0,Bank Transfer
+ORD-1069,2026-09-10,DKI Jakarta,Home & Living,Shopee,599653,1,599653,5.0,Virtual Account
+ORD-1070,2026-07-22,Bali,Gadgets & Accessories,Tokopedia,247096,1,247096,5.0,QRIS
+ORD-1071,2026-09-10,Jawa Tengah,Home & Living,Shopee,136321,2,272642,5.0,Bank Transfer
+ORD-1072,2026-09-19,Jawa Barat,Beauty & Skincare,Tokopedia,165142,1,165142,4.8,COD
+ORD-1073,2026-08-05,Jawa Barat,Gadgets & Accessories,TikTok Shop,212396,1,212396,4.5,COD
+ORD-1074,2026-10-16,Jawa Barat,Home & Living,Shopee,734122,2,1468244,5.0,Virtual Account
+ORD-1075,2026-08-31,Jawa Timur,Fashion & Apparel,TikTok Shop,300049,5,1500245,5.0,QRIS
+ORD-1076,2026-08-21,DI Yogyakarta,Gadgets & Accessories,Shopee,344923,1,344923,4.8,QRIS
+ORD-1077,2026-09-30,DKI Jakarta,Home & Living,TikTok Shop,520182,3,1560546,5.0,Bank Transfer
+ORD-1078,2026-09-18,Sumatera Utara,Gadgets & Accessories,Tokopedia,376250,1,376250,5.0,Bank Transfer
+ORD-1079,2026-08-01,DI Yogyakarta,Fashion & Apparel,WhatsApp Business,120379,4,481516,4.8,Bank Transfer
+ORD-1080,2026-09-04,DKI Jakarta,Gadgets & Accessories,WhatsApp Business,107716,1,107716,4.8,COD
+ORD-1081,2026-08-02,Banten,Beauty & Skincare,WhatsApp Business,164793,2,329586,5.0,COD
+ORD-1082,2026-09-28,DKI Jakarta,Home & Living,Shopee,186365,1,186365,5.0,QRIS
+ORD-1083,2026-10-04,DKI Jakarta,Gadgets & Accessories,TikTok Shop,330887,2,661774,4.5,Bank Transfer
+ORD-1084,2026-10-13,DI Yogyakarta,Home & Living,WhatsApp Business,462246,3,1386738,4.8,Virtual Account
+ORD-1085,2026-09-18,Jawa Barat,Beauty & Skincare,Tokopedia,246501,3,739503,5.0,Bank Transfer
+ORD-1086,2026-08-27,DKI Jakarta,Fashion & Apparel,TikTok Shop,151153,1,151153,5.0,Virtual Account
+ORD-1087,2026-10-11,Jawa Tengah,Fashion & Apparel,Shopee,109084,1,109084,5.0,Bank Transfer
+ORD-1088,2026-10-06,Banten,Food & Beverage,Tokopedia,106571,1,106571,4.8,Virtual Account
+ORD-1089,2026-10-08,DKI Jakarta,Fashion & Apparel,TikTok Shop,92633,1,92633,4.8,COD
+ORD-1090,2026-09-09,DKI Jakarta,Gadgets & Accessories,TikTok Shop,214827,1,214827,5.0,Bank Transfer
+ORD-1091,2026-08-11,DKI Jakarta,Gadgets & Accessories,Tokopedia,319565,1,319565,4.5,QRIS
+ORD-1092,2026-08-13,Jawa Timur,Food & Beverage,TikTok Shop,57117,1,57117,5.0,Virtual Account
+ORD-1093,2026-10-15,DKI Jakarta,Home & Living,Shopee,396037,2,792074,4.5,Bank Transfer
+ORD-1094,2026-09-16,DKI Jakarta,Gadgets & Accessories,Tokopedia,457426,1,457426,4.8,COD
+ORD-1095,2026-08-28,Jawa Barat,Home & Living,Tokopedia,426459,1,426459,5.0,QRIS
+ORD-1096,2026-08-16,DKI Jakarta,Gadgets & Accessories,WhatsApp Business,215575,2,431150,4.8,Virtual Account
+ORD-1097,2026-08-02,Jawa Barat,Beauty & Skincare,Shopee,186321,5,931605,5.0,Virtual Account
+ORD-1098,2026-09-01,Jawa Timur,Food & Beverage,TikTok Shop,78363,1,78363,4.8,Virtual Account
+ORD-1099,2026-09-21,Sumatera Utara,Gadgets & Accessories,Tokopedia,381054,1,381054,4.8,Bank Transfer
+ORD-1100,2026-10-15,DKI Jakarta,Fashion & Apparel,TikTok Shop,143619,1,143619,5.0,COD
+ORD-1101,2026-09-27,Jawa Tengah,Gadgets & Accessories,TikTok Shop,236994,1,236994,5.0,COD
+ORD-1102,2026-07-27,DI Yogyakarta,Home & Living,Tokopedia,317029,1,317029,5.0,QRIS
+ORD-1103,2026-10-14,Banten,Gadgets & Accessories,WhatsApp Business,246133,1,246133,4.0,COD
+ORD-1104,2026-07-19,DKI Jakarta,Food & Beverage,Tokopedia,109328,1,109328,5.0,Virtual Account
+ORD-1105,2026-07-26,Jawa Timur,Beauty & Skincare,TikTok Shop,223757,1,223757,5.0,COD
+ORD-1106,2026-10-14,Jawa Barat,Beauty & Skincare,Shopee,60382,5,301910,5.0,Bank Transfer
+ORD-1107,2026-09-19,DKI Jakarta,Fashion & Apparel,Shopee,162468,1,162468,5.0,Virtual Account
+ORD-1108,2026-07-29,Banten,Beauty & Skincare,WhatsApp Business,90461,1,90461,4.8,Bank Transfer
+ORD-1109,2026-10-07,DKI Jakarta,Food & Beverage,TikTok Shop,97909,5,489545,5.0,Virtual Account
+ORD-1110,2026-07-26,Banten,Fashion & Apparel,Tokopedia,104984,4,419936,4.8,Virtual Account
+ORD-1111,2026-08-22,Jawa Timur,Gadgets & Accessories,WhatsApp Business,216370,1,216370,4.5,Bank Transfer
+ORD-1112,2026-08-22,Jawa Barat,Gadgets & Accessories,Shopee,197992,1,197992,4.0,COD
+ORD-1113,2026-08-20,Jawa Tengah,Home & Living,Tokopedia,264685,3,794055,4.5,Bank Transfer
+ORD-1114,2026-07-23,Banten,Gadgets & Accessories,TikTok Shop,110545,2,221090,4.5,Virtual Account
+ORD-1115,2026-08-28,DKI Jakarta,Beauty & Skincare,Shopee,154792,1,154792,5.0,Virtual Account
+ORD-1116,2026-08-15,DKI Jakarta,Fashion & Apparel,TikTok Shop,119936,1,119936,4.5,Bank Transfer
+ORD-1117,2026-07-25,Jawa Barat,Beauty & Skincare,TikTok Shop,173279,1,173279,4.8,COD
+ORD-1118,2026-09-29,Bali,Fashion & Apparel,Tokopedia,274900,2,549800,4.8,Bank Transfer
+ORD-1119,2026-09-28,Jawa Barat,Gadgets & Accessories,WhatsApp Business,383373,2,766746,4.8,Bank Transfer
+ORD-1120,2026-07-30,Jawa Barat,Gadgets & Accessories,Tokopedia,381396,1,381396,4.8,Virtual Account
+ORD-1121,2026-08-21,Jawa Barat,Gadgets & Accessories,Shopee,156297,1,156297,5.0,Bank Transfer
+ORD-1122,2026-08-20,Jawa Barat,Food & Beverage,Shopee,81532,1,81532,4.0,QRIS
+ORD-1123,2026-09-04,DKI Jakarta,Fashion & Apparel,TikTok Shop,210870,1,210870,4.5,QRIS
+ORD-1124,2026-08-10,DKI Jakarta,Home & Living,Shopee,399631,2,799262,4.8,COD
+ORD-1125,2026-09-18,Jawa Barat,Home & Living,Tokopedia,356553,2,713106,5.0,Virtual Account
+ORD-1126,2026-10-14,Sumatera Utara,Fashion & Apparel,WhatsApp Business,179576,3,538728,4.0,QRIS
+ORD-1127,2026-08-24,DKI Jakarta,Food & Beverage,Shopee,76431,1,76431,5.0,COD
+ORD-1128,2026-08-31,Jawa Timur,Beauty & Skincare,Shopee,204544,2,409088,4.0,COD
+ORD-1129,2026-10-12,Jawa Barat,Beauty & Skincare,Tokopedia,113936,1,113936,4.0,COD
+ORD-1130,2026-08-22,DKI Jakarta,Beauty & Skincare,Tokopedia,78082,1,78082,4.0,QRIS
+ORD-1131,2026-09-21,Sumatera Utara,Gadgets & Accessories,WhatsApp Business,191214,1,191214,4.8,Virtual Account
+ORD-1132,2026-09-03,Jawa Tengah,Beauty & Skincare,WhatsApp Business,209210,1,209210,4.8,Bank Transfer
+ORD-1133,2026-10-04,Banten,Food & Beverage,Shopee,103815,2,207630,5.0,Bank Transfer
+ORD-1134,2026-07-21,Jawa Tengah,Fashion & Apparel,Tokopedia,297146,1,297146,5.0,Virtual Account
+ORD-1135,2026-07-19,Jawa Tengah,Fashion & Apparel,Tokopedia,344054,5,1720270,5.0,Virtual Account
+ORD-1136,2026-07-23,DKI Jakarta,Food & Beverage,Shopee,64071,2,128142,5.0,QRIS
+ORD-1137,2026-10-16,Jawa Timur,Beauty & Skincare,Shopee,175200,4,700800,4.5,Bank Transfer
+ORD-1138,2026-08-01,Jawa Barat,Beauty & Skincare,Shopee,230217,2,460434,5.0,COD
+ORD-1139,2026-08-14,DKI Jakarta,Gadgets & Accessories,WhatsApp Business,377090,3,1131270,5.0,COD
+ORD-1140,2026-07-27,DKI Jakarta,Fashion & Apparel,WhatsApp Business,262921,2,525842,4.5,QRIS
+ORD-1141,2026-10-05,Bali,Home & Living,WhatsApp Business,551157,2,1102314,4.5,Bank Transfer
+ORD-1142,2026-08-02,Jawa Barat,Gadgets & Accessories,Shopee,114028,2,228056,4.0,Virtual Account
+ORD-1143,2026-10-16,Sumatera Utara,Beauty & Skincare,TikTok Shop,210811,2,421622,4.8,COD
+ORD-1144,2026-08-29,Jawa Timur,Beauty & Skincare,TikTok Shop,133986,1,133986,4.0,Virtual Account
+ORD-1145,2026-10-03,Jawa Timur,Fashion & Apparel,WhatsApp Business,235878,1,235878,4.8,QRIS
+ORD-1146,2026-09-07,Banten,Home & Living,Tokopedia,575584,1,575584,4.5,Bank Transfer
+ORD-1147,2026-09-19,Banten,Food & Beverage,TikTok Shop,28081,2,56162,5.0,QRIS
+ORD-1148,2026-09-08,Jawa Timur,Food & Beverage,Tokopedia,62900,2,125800,4.8,COD
+ORD-1149,2026-07-22,Banten,Food & Beverage,Shopee,51832,1,51832,5.0,COD
+ORD-1150,2026-08-10,Jawa Tengah,Home & Living,TikTok Shop,547557,3,1642671,5.0,COD
+ORD-1151,2026-08-02,Jawa Barat,Gadgets & Accessories,WhatsApp Business,68313,3,204939,4.8,COD
+ORD-1152,2026-08-30,Jawa Barat,Gadgets & Accessories,Shopee,169654,1,169654,5.0,COD
+ORD-1153,2026-08-16,Jawa Barat,Fashion & Apparel,Tokopedia,143099,2,286198,5.0,COD
+ORD-1154,2026-08-23,DKI Jakarta,Food & Beverage,TikTok Shop,118059,1,118059,4.8,COD
+ORD-1155,2026-07-31,Jawa Timur,Beauty & Skincare,TikTok Shop,209803,1,209803,5.0,COD
+ORD-1156,2026-08-19,DKI Jakarta,Gadgets & Accessories,WhatsApp Business,202889,2,405778,5.0,Virtual Account
+ORD-1157,2026-09-27,Jawa Barat,Gadgets & Accessories,WhatsApp Business,340998,2,681996,4.5,Virtual Account
+ORD-1158,2026-09-15,Jawa Barat,Fashion & Apparel,TikTok Shop,317634,2,635268,4.5,COD
+ORD-1159,2026-10-12,DKI Jakarta,Home & Living,WhatsApp Business,228046,1,228046,4.8,COD
+ORD-1160,2026-08-15,Banten,Beauty & Skincare,TikTok Shop,53471,1,53471,4.8,QRIS
+ORD-1161,2026-09-22,Bali,Beauty & Skincare,Tokopedia,143808,2,287616,4.8,Bank Transfer
+ORD-1162,2026-08-29,Jawa Timur,Beauty & Skincare,Tokopedia,73284,1,73284,5.0,Bank Transfer
+ORD-1163,2026-09-01,DKI Jakarta,Gadgets & Accessories,Tokopedia,334580,1,334580,4.8,COD
+ORD-1164,2026-09-18,Sumatera Utara,Home & Living,Shopee,250787,1,250787,5.0,Virtual Account
+ORD-1165,2026-09-13,DI Yogyakarta,Fashion & Apparel,WhatsApp Business,200736,1,200736,5.0,Virtual Account
+ORD-1166,2026-07-24,DKI Jakarta,Home & Living,WhatsApp Business,407747,1,407747,4.5,QRIS
+ORD-1167,2026-08-15,DKI Jakarta,Home & Living,TikTok Shop,119675,2,239350,5.0,Bank Transfer
+ORD-1168,2026-08-15,Jawa Barat,Food & Beverage,Tokopedia,74733,1,74733,4.8,QRIS
+ORD-1169,2026-08-31,DKI Jakarta,Home & Living,Shopee,466008,1,466008,4.8,Virtual Account
+ORD-1170,2026-10-10,Jawa Tengah,Food & Beverage,WhatsApp Business,73330,5,366650,4.8,COD
+ORD-1171,2026-08-17,Sumatera Utara,Food & Beverage,Shopee,47669,2,95338,5.0,COD
+ORD-1172,2026-09-18,DKI Jakarta,Beauty & Skincare,TikTok Shop,172788,2,345576,4.8,Virtual Account
+ORD-1173,2026-10-01,Bali,Home & Living,Tokopedia,452680,1,452680,5.0,QRIS
+ORD-1174,2026-10-15,Jawa Barat,Fashion & Apparel,TikTok Shop,339480,2,678960,4.5,Virtual Account
+ORD-1175,2026-09-18,Banten,Food & Beverage,TikTok Shop,80718,2,161436,4.8,QRIS
+ORD-1176,2026-07-19,DKI Jakarta,Food & Beverage,Tokopedia,38140,1,38140,5.0,Virtual Account
+ORD-1177,2026-08-14,DKI Jakarta,Food & Beverage,Shopee,103258,2,206516,4.8,COD
+ORD-1178,2026-09-18,DKI Jakarta,Home & Living,TikTok Shop,248066,1,248066,5.0,Virtual Account
+ORD-1179,2026-10-03,DKI Jakarta,Gadgets & Accessories,WhatsApp Business,113870,2,227740,5.0,Virtual Account
+ORD-1180,2026-07-21,DKI Jakarta,Gadgets & Accessories,TikTok Shop,458155,1,458155,5.0,Virtual Account
+ORD-1181,2026-09-26,Jawa Timur,Home & Living,Shopee,391262,2,782524,4.0,QRIS
+ORD-1182,2026-09-28,Jawa Barat,Home & Living,Tokopedia,141971,2,283942,4.8,Virtual Account
+ORD-1183,2026-08-14,Jawa Barat,Beauty & Skincare,Shopee,213730,1,213730,4.5,Bank Transfer
+ORD-1184,2026-07-27,DKI Jakarta,Home & Living,WhatsApp Business,419972,2,839944,5.0,QRIS
+ORD-1185,2026-09-18,Jawa Barat,Food & Beverage,Shopee,54139,2,108278,4.5,COD
+ORD-1186,2026-08-24,Jawa Timur,Gadgets & Accessories,TikTok Shop,260545,1,260545,4.8,Bank Transfer
+ORD-1187,2026-09-07,Jawa Timur,Gadgets & Accessories,WhatsApp Business,329215,1,329215,4.8,COD
+ORD-1188,2026-08-31,Jawa Timur,Beauty & Skincare,WhatsApp Business,112987,2,225974,4.8,QRIS
+ORD-1189,2026-08-11,Bali,Gadgets & Accessories,TikTok Shop,364900,2,729800,4.8,QRIS
+ORD-1190,2026-10-05,Bali,Food & Beverage,TikTok Shop,33438,1,33438,5.0,Bank Transfer
+ORD-1191,2026-09-15,DKI Jakarta,Home & Living,Tokopedia,621121,1,621121,4.8,COD
+ORD-1192,2026-08-19,Bali,Home & Living,Tokopedia,195665,1,195665,5.0,QRIS
+ORD-1193,2026-10-14,Bali,Food & Beverage,TikTok Shop,51475,1,51475,4.5,COD
+ORD-1194,2026-09-08,Banten,Home & Living,WhatsApp Business,529332,1,529332,4.0,Virtual Account
+ORD-1195,2026-09-18,Jawa Tengah,Beauty & Skincare,WhatsApp Business,226168,2,452336,4.5,Virtual Account
+ORD-1196,2026-09-14,Jawa Timur,Fashion & Apparel,Tokopedia,264139,2,528278,4.5,COD
+ORD-1197,2026-09-08,Jawa Barat,Home & Living,TikTok Shop,700517,3,2101551,4.5,Bank Transfer
+ORD-1198,2026-07-30,Banten,Beauty & Skincare,WhatsApp Business,137960,1,137960,4.8,Virtual Account
+ORD-1199,2026-08-26,DKI Jakarta,Fashion & Apparel,Tokopedia,261339,3,784017,5.0,QRIS
+ORD-1200,2026-07-20,Jawa Tengah,Gadgets & Accessories,TikTok Shop,100290,4,401160,5.0,Virtual Account
+ORD-1201,2026-07-21,Jawa Timur,Beauty & Skincare,Shopee,183669,1,183669,4.8,COD
+ORD-1202,2026-09-12,DKI Jakarta,Beauty & Skincare,Shopee,62109,1,62109,4.0,Bank Transfer
+ORD-1203,2026-10-07,Jawa Barat,Food & Beverage,Shopee,78909,3,236727,4.5,Bank Transfer
+ORD-1204,2026-09-15,DI Yogyakarta,Food & Beverage,TikTok Shop,84675,1,84675,5.0,QRIS
+ORD-1205,2026-07-20,Jawa Tengah,Beauty & Skincare,WhatsApp Business,144840,1,144840,5.0,Bank Transfer
+ORD-1206,2026-07-20,DKI Jakarta,Gadgets & Accessories,Tokopedia,474871,1,474871,4.0,COD
+ORD-1207,2026-09-10,Jawa Timur,Home & Living,Tokopedia,195028,1,195028,4.5,Virtual Account
+ORD-1208,2026-10-13,Jawa Tengah,Home & Living,TikTok Shop,281211,3,843633,5.0,COD
+ORD-1209,2026-07-19,Jawa Timur,Fashion & Apparel,WhatsApp Business,110292,3,330876,4.5,Bank Transfer
+ORD-1210,2026-08-06,Jawa Barat,Beauty & Skincare,WhatsApp Business,240001,2,480002,5.0,Virtual Account
+ORD-1211,2026-07-20,DKI Jakarta,Gadgets & Accessories,TikTok Shop,328432,2,656864,4.8,COD
+ORD-1212,2026-09-09,DKI Jakarta,Beauty & Skincare,Tokopedia,99879,5,499395,4.0,Virtual Account
+ORD-1213,2026-08-31,Jawa Timur,Home & Living,Shopee,433997,2,867994,5.0,COD
+ORD-1214,2026-10-16,DI Yogyakarta,Gadgets & Accessories,Shopee,402050,1,402050,5.0,COD
+ORD-1215,2026-08-19,Jawa Timur,Home & Living,WhatsApp Business,655083,1,655083,5.0,COD
+ORD-1216,2026-09-26,Sumatera Utara,Food & Beverage,TikTok Shop,87824,2,175648,5.0,Bank Transfer
+ORD-1217,2026-08-19,DKI Jakarta,Fashion & Apparel,Shopee,210450,1,210450,4.5,QRIS
+ORD-1218,2026-09-24,Bali,Gadgets & Accessories,Tokopedia,407218,1,407218,5.0,QRIS
+ORD-1219,2026-09-11,DKI Jakarta,Fashion & Apparel,Tokopedia,129245,3,387735,4.0,QRIS
+ORD-1220,2026-10-01,Banten,Home & Living,WhatsApp Business,509940,1,509940,4.5,QRIS
+ORD-1221,2026-09-12,Jawa Barat,Fashion & Apparel,Tokopedia,318236,1,318236,5.0,COD
+ORD-1222,2026-08-04,Jawa Barat,Beauty & Skincare,TikTok Shop,118648,1,118648,5.0,Bank Transfer
+ORD-1223,2026-08-25,DKI Jakarta,Beauty & Skincare,Tokopedia,102781,1,102781,4.8,Bank Transfer
+ORD-1224,2026-08-11,Jawa Tengah,Gadgets & Accessories,Tokopedia,253196,1,253196,5.0,QRIS
+ORD-1225,2026-09-25,Sumatera Utara,Food & Beverage,Tokopedia,103682,1,103682,5.0,COD
+ORD-1226,2026-09-26,Banten,Fashion & Apparel,TikTok Shop,113211,1,113211,4.8,COD
+ORD-1227,2026-10-12,Jawa Barat,Beauty & Skincare,TikTok Shop,149239,2,298478,4.0,COD
+ORD-1228,2026-07-29,DKI Jakarta,Fashion & Apparel,TikTok Shop,216130,2,432260,4.8,Virtual Account
+ORD-1229,2026-08-03,DKI Jakarta,Fashion & Apparel,Tokopedia,252691,1,252691,5.0,Bank Transfer
+ORD-1230,2026-09-29,Jawa Tengah,Gadgets & Accessories,Shopee,187103,5,935515,5.0,Bank Transfer
+ORD-1231,2026-09-15,Jawa Timur,Home & Living,TikTok Shop,320972,1,320972,5.0,Bank Transfer
+ORD-1232,2026-09-26,Banten,Fashion & Apparel,TikTok Shop,82461,3,247383,5.0,COD
+ORD-1233,2026-10-06,Jawa Barat,Beauty & Skincare,Tokopedia,217860,3,653580,4.8,Bank Transfer
+ORD-1234,2026-07-21,DKI Jakarta,Beauty & Skincare,TikTok Shop,233467,4,933868,4.8,COD
+ORD-1235,2026-08-07,Jawa Barat,Food & Beverage,TikTok Shop,91677,2,183354,5.0,QRIS
+ORD-1236,2026-09-15,Jawa Barat,Home & Living,Tokopedia,168803,1,168803,5.0,Bank Transfer
+ORD-1237,2026-08-23,Sumatera Utara,Beauty & Skincare,Tokopedia,90379,1,90379,4.0,Virtual Account
+ORD-1238,2026-08-06,Jawa Barat,Beauty & Skincare,Shopee,61120,2,122240,5.0,Bank Transfer
+ORD-1239,2026-10-16,Jawa Barat,Home & Living,WhatsApp Business,607365,1,607365,5.0,COD
+ORD-1240,2026-09-23,DKI Jakarta,Gadgets & Accessories,Shopee,200871,2,401742,5.0,COD
+ORD-1241,2026-08-06,Jawa Barat,Beauty & Skincare,Shopee,218298,1,218298,4.5,Virtual Account
+ORD-1242,2026-08-07,DKI Jakarta,Beauty & Skincare,Tokopedia,234233,4,936932,4.5,Bank Transfer
+ORD-1243,2026-09-27,Sumatera Utara,Gadgets & Accessories,TikTok Shop,204245,2,408490,5.0,Bank Transfer
+ORD-1244,2026-09-08,Bali,Gadgets & Accessories,TikTok Shop,458189,1,458189,4.8,Bank Transfer
+ORD-1245,2026-08-20,Jawa Barat,Home & Living,Tokopedia,509064,2,1018128,4.8,QRIS
+ORD-1246,2026-08-27,Jawa Tengah,Beauty & Skincare,TikTok Shop,245458,1,245458,4.5,Bank Transfer
+ORD-1247,2026-08-26,DKI Jakarta,Fashion & Apparel,Tokopedia,157302,1,157302,5.0,Virtual Account
+ORD-1248,2026-10-08,Jawa Timur,Beauty & Skincare,Tokopedia,211726,1,211726,4.8,COD
+ORD-1249,2026-07-19,Jawa Timur,Beauty & Skincare,WhatsApp Business,220492,5,1102460,5.0,Bank Transfer
+ORD-1250,2026-07-29,Jawa Timur,Fashion & Apparel,WhatsApp Business,159754,1,159754,4.8,Virtual Account
+ORD-1251,2026-09-13,DKI Jakarta,Fashion & Apparel,Tokopedia,281846,5,1409230,5.0,COD
+ORD-1252,2026-10-15,Jawa Tengah,Gadgets & Accessories,TikTok Shop,126021,1,126021,5.0,COD
+ORD-1253,2026-09-06,DKI Jakarta,Fashion & Apparel,WhatsApp Business,141093,1,141093,5.0,COD
+ORD-1254,2026-08-10,Sumatera Utara,Food & Beverage,WhatsApp Business,63635,2,127270,4.8,COD
+ORD-1255,2026-08-18,Jawa Barat,Home & Living,Shopee,521280,2,1042560,4.8,Bank Transfer
+ORD-1256,2026-08-29,Jawa Timur,Fashion & Apparel,TikTok Shop,111304,3,333912,5.0,Virtual Account
+ORD-1257,2026-07-25,Jawa Barat,Beauty & Skincare,TikTok Shop,209470,2,418940,5.0,Bank Transfer
+ORD-1258,2026-08-03,DKI Jakarta,Fashion & Apparel,WhatsApp Business,345160,2,690320,4.5,COD
+ORD-1259,2026-10-16,DKI Jakarta,Beauty & Skincare,TikTok Shop,206590,2,413180,5.0,QRIS
+ORD-1260,2026-09-16,DKI Jakarta,Gadgets & Accessories,Shopee,479890,2,959780,4.5,Bank Transfer
+ORD-1261,2026-07-20,DKI Jakarta,Home & Living,Shopee,705730,1,705730,5.0,QRIS
+ORD-1262,2026-07-19,DKI Jakarta,Beauty & Skincare,Shopee,134761,3,404283,4.5,COD
+ORD-1263,2026-09-04,DKI Jakarta,Fashion & Apparel,WhatsApp Business,331910,1,331910,5.0,QRIS
+ORD-1264,2026-07-30,Jawa Tengah,Fashion & Apparel,TikTok Shop,221110,1,221110,4.8,QRIS
+ORD-1265,2026-09-25,DKI Jakarta,Home & Living,Shopee,494597,1,494597,4.8,Bank Transfer
+ORD-1266,2026-08-24,Jawa Timur,Gadgets & Accessories,Tokopedia,268401,1,268401,4.5,COD
+ORD-1267,2026-08-19,Banten,Food & Beverage,WhatsApp Business,84766,3,254298,4.5,QRIS
+ORD-1268,2026-07-27,Jawa Barat,Food & Beverage,Shopee,71092,2,142184,4.5,Virtual Account
+ORD-1269,2026-08-06,Banten,Beauty & Skincare,WhatsApp Business,173853,1,173853,4.5,Bank Transfer
+ORD-1270,2026-09-04,DKI Jakarta,Gadgets & Accessories,TikTok Shop,179936,2,359872,5.0,QRIS
+ORD-1271,2026-10-06,Jawa Timur,Gadgets & Accessories,TikTok Shop,436328,1,436328,5.0,QRIS
+ORD-1272,2026-07-21,Jawa Barat,Food & Beverage,Shopee,26589,1,26589,5.0,COD
+ORD-1273,2026-08-07,DKI Jakarta,Home & Living,Shopee,114743,1,114743,4.8,COD
+ORD-1274,2026-08-11,DKI Jakarta,Beauty & Skincare,TikTok Shop,124763,1,124763,4.5,COD
+ORD-1275,2026-09-10,DKI Jakarta,Food & Beverage,TikTok Shop,32016,2,64032,4.8,Bank Transfer
+ORD-1276,2026-08-20,DKI Jakarta,Food & Beverage,Tokopedia,75961,1,75961,5.0,Virtual Account
+ORD-1277,2026-08-11,DKI Jakarta,Food & Beverage,WhatsApp Business,60205,1,60205,5.0,QRIS
+ORD-1278,2026-10-01,Jawa Barat,Beauty & Skincare,Tokopedia,82402,2,164804,5.0,QRIS
+ORD-1279,2026-09-28,Jawa Timur,Food & Beverage,TikTok Shop,68148,1,68148,4.8,Bank Transfer
+ORD-1280,2026-08-23,Sumatera Utara,Beauty & Skincare,Tokopedia,82441,1,82441,4.8,QRIS
+ORD-1281,2026-08-25,Sumatera Utara,Fashion & Apparel,WhatsApp Business,218252,3,654756,4.5,Bank Transfer
+ORD-1282,2026-10-10,DKI Jakarta,Beauty & Skincare,Tokopedia,161022,4,644088,4.5,COD
+ORD-1283,2026-10-15,Jawa Barat,Beauty & Skincare,WhatsApp Business,175737,1,175737,4.8,QRIS
+ORD-1284,2026-08-12,Jawa Barat,Fashion & Apparel,TikTok Shop,142055,1,142055,4.8,Bank Transfer
+ORD-1285,2026-08-05,Jawa Barat,Home & Living,TikTok Shop,102257,2,204514,4.8,QRIS
+ORD-1286,2026-10-08,Jawa Tengah,Fashion & Apparel,Tokopedia,193581,3,580743,4.5,Virtual Account
+ORD-1287,2026-09-22,Jawa Timur,Gadgets & Accessories,Tokopedia,398040,1,398040,5.0,Virtual Account
+ORD-1288,2026-09-10,Jawa Tengah,Home & Living,Shopee,578356,2,1156712,4.8,COD
+ORD-1289,2026-08-22,Jawa Timur,Gadgets & Accessories,WhatsApp Business,338816,1,338816,4.8,Bank Transfer
+ORD-1290,2026-10-06,DKI Jakarta,Gadgets & Accessories,Shopee,340316,1,340316,4.8,Virtual Account
+ORD-1291,2026-09-17,DKI Jakarta,Home & Living,Shopee,600098,1,600098,4.8,Virtual Account
+ORD-1292,2026-08-28,Jawa Timur,Gadgets & Accessories,TikTok Shop,182473,2,364946,5.0,QRIS
+ORD-1293,2026-08-20,Jawa Barat,Home & Living,WhatsApp Business,438384,2,876768,5.0,Bank Transfer
+ORD-1294,2026-09-24,DKI Jakarta,Gadgets & Accessories,Shopee,101374,3,304122,4.5,Bank Transfer
+ORD-1295,2026-08-20,DKI Jakarta,Gadgets & Accessories,Tokopedia,105350,2,210700,4.8,QRIS
+ORD-1296,2026-08-01,Jawa Barat,Beauty & Skincare,Tokopedia,231196,5,1155980,5.0,COD
+ORD-1297,2026-08-08,DKI Jakarta,Beauty & Skincare,WhatsApp Business,77606,2,155212,4.8,QRIS
+ORD-1298,2026-09-04,Jawa Barat,Home & Living,WhatsApp Business,626492,1,626492,4.8,Bank Transfer
+ORD-1299,2026-08-07,Jawa Tengah,Home & Living,Shopee,212217,5,1061085,4.5,COD
+ORD-1300,2026-07-26,Jawa Barat,Home & Living,Shopee,623406,2,1246812,5.0,Bank Transfer
+ORD-1301,2026-07-25,DKI Jakarta,Food & Beverage,WhatsApp Business,102240,2,204480,5.0,Bank Transfer
+ORD-1302,2026-09-23,Jawa Timur,Beauty & Skincare,Tokopedia,236823,2,473646,4.8,QRIS
+ORD-1303,2026-08-04,Jawa Timur,Beauty & Skincare,Tokopedia,82430,4,329720,4.5,QRIS
+ORD-1304,2026-08-20,Jawa Barat,Fashion & Apparel,Shopee,217105,1,217105,4.0,Virtual Account
+ORD-1305,2026-09-04,Jawa Timur,Beauty & Skincare,WhatsApp Business,208117,2,416234,4.5,Virtual Account
+ORD-1306,2026-10-02,Jawa Barat,Gadgets & Accessories,Shopee,303317,1,303317,5.0,QRIS
+ORD-1307,2026-09-15,Jawa Barat,Food & Beverage,Shopee,69254,1,69254,4.5,QRIS
+ORD-1308,2026-10-12,Jawa Barat,Home & Living,Tokopedia,239883,3,719649,5.0,Bank Transfer
+ORD-1309,2026-08-09,Jawa Tengah,Beauty & Skincare,TikTok Shop,78328,1,78328,5.0,COD
+ORD-1310,2026-08-17,Bali,Beauty & Skincare,Shopee,139080,1,139080,4.8,Virtual Account
+ORD-1311,2026-08-25,DI Yogyakarta,Food & Beverage,Shopee,83627,3,250881,5.0,Virtual Account
+ORD-1312,2026-09-07,Jawa Barat,Fashion & Apparel,TikTok Shop,143431,5,717155,5.0,Bank Transfer
+ORD-1313,2026-09-10,DKI Jakarta,Home & Living,TikTok Shop,514758,2,1029516,5.0,Virtual Account
+ORD-1314,2026-07-26,Jawa Tengah,Gadgets & Accessories,Shopee,127960,3,383880,5.0,COD
+ORD-1315,2026-08-14,Jawa Barat,Home & Living,Shopee,470858,1,470858,5.0,Bank Transfer
+ORD-1316,2026-08-14,DKI Jakarta,Beauty & Skincare,Shopee,131050,1,131050,4.8,QRIS
+ORD-1317,2026-08-08,Jawa Timur,Food & Beverage,WhatsApp Business,65695,5,328475,5.0,QRIS
+ORD-1318,2026-08-17,Jawa Barat,Fashion & Apparel,Tokopedia,160744,2,321488,4.0,Bank Transfer
+ORD-1319,2026-08-15,DKI Jakarta,Beauty & Skincare,Tokopedia,201130,1,201130,5.0,Bank Transfer
+ORD-1320,2026-09-20,Bali,Gadgets & Accessories,WhatsApp Business,298922,1,298922,5.0,QRIS
+ORD-1321,2026-09-25,DI Yogyakarta,Food & Beverage,Tokopedia,54961,3,164883,5.0,COD
+ORD-1322,2026-09-17,DKI Jakarta,Fashion & Apparel,Tokopedia,109540,1,109540,4.8,Virtual Account
+ORD-1323,2026-09-04,Jawa Tengah,Beauty & Skincare,Tokopedia,241051,2,482102,4.5,Bank Transfer
+ORD-1324,2026-08-06,Jawa Barat,Food & Beverage,WhatsApp Business,86844,2,173688,5.0,QRIS
+ORD-1325,2026-07-22,DI Yogyakarta,Food & Beverage,WhatsApp Business,45700,1,45700,4.5,QRIS
+ORD-1326,2026-08-22,Jawa Timur,Home & Living,Shopee,514170,1,514170,5.0,QRIS
+ORD-1327,2026-09-20,Jawa Barat,Beauty & Skincare,TikTok Shop,159850,3,479550,4.8,COD
+ORD-1328,2026-09-05,Jawa Timur,Food & Beverage,WhatsApp Business,41673,3,125019,4.8,Bank Transfer
+ORD-1329,2026-08-04,DKI Jakarta,Gadgets & Accessories,Tokopedia,304205,2,608410,4.8,Bank Transfer
+ORD-1330,2026-08-31,Jawa Timur,Home & Living,Shopee,618823,1,618823,4.8,Virtual Account
+ORD-1331,2026-08-17,Jawa Barat,Beauty & Skincare,WhatsApp Business,140453,2,280906,5.0,Bank Transfer
+ORD-1332,2026-09-02,DKI Jakarta,Home & Living,TikTok Shop,257636,2,515272,5.0,QRIS
+ORD-1333,2026-07-24,DI Yogyakarta,Gadgets & Accessories,Tokopedia,80106,1,80106,4.5,COD
+ORD-1334,2026-08-24,Jawa Barat,Home & Living,TikTok Shop,520343,2,1040686,4.8,COD
+ORD-1335,2026-08-11,DKI Jakarta,Beauty & Skincare,TikTok Shop,245497,2,490994,4.5,Bank Transfer
+ORD-1336,2026-09-02,Jawa Tengah,Fashion & Apparel,Tokopedia,144087,1,144087,4.5,Bank Transfer
+ORD-1337,2026-09-09,Jawa Timur,Home & Living,TikTok Shop,351514,2,703028,4.5,QRIS
+ORD-1338,2026-09-16,Jawa Barat,Fashion & Apparel,TikTok Shop,108872,4,435488,5.0,COD
+ORD-1339,2026-09-19,Jawa Timur,Beauty & Skincare,Shopee,141118,2,282236,5.0,QRIS
+ORD-1340,2026-10-11,Banten,Fashion & Apparel,Shopee,141216,1,141216,4.8,Bank Transfer
+ORD-1341,2026-08-19,Jawa Barat,Home & Living,Tokopedia,403664,2,807328,4.8,Bank Transfer
+ORD-1342,2026-10-13,Sumatera Utara,Fashion & Apparel,Tokopedia,204887,2,409774,4.8,Bank Transfer
+ORD-1343,2026-08-20,DKI Jakarta,Home & Living,TikTok Shop,471513,2,943026,5.0,COD
+ORD-1344,2026-09-23,DKI Jakarta,Beauty & Skincare,Tokopedia,120533,2,241066,5.0,Bank Transfer
+ORD-1345,2026-08-05,DKI Jakarta,Fashion & Apparel,Tokopedia,317188,5,1585940,5.0,Bank Transfer
+ORD-1346,2026-08-12,Sumatera Utara,Beauty & Skincare,TikTok Shop,106408,1,106408,4.8,Virtual Account
+ORD-1347,2026-09-10,DKI Jakarta,Beauty & Skincare,Tokopedia,177815,1,177815,5.0,QRIS
+ORD-1348,2026-09-14,Jawa Timur,Beauty & Skincare,TikTok Shop,103747,2,207494,4.0,Virtual Account
+ORD-1349,2026-09-23,Jawa Barat,Gadgets & Accessories,TikTok Shop,278634,1,278634,5.0,QRIS
+ORD-1350,2026-09-02,Jawa Barat,Home & Living,Shopee,363031,2,726062,4.5,QRIS
+ORD-1351,2026-08-11,Jawa Barat,Beauty & Skincare,Shopee,172746,1,172746,4.8,QRIS
+ORD-1352,2026-08-19,Sumatera Utara,Gadgets & Accessories,WhatsApp Business,429270,2,858540,4.5,Virtual Account
+ORD-1353,2026-09-03,Jawa Barat,Gadgets & Accessories,WhatsApp Business,139116,1,139116,5.0,COD
+ORD-1354,2026-10-12,DI Yogyakarta,Food & Beverage,Shopee,80312,1,80312,4.8,QRIS
+ORD-1355,2026-08-10,Bali,Fashion & Apparel,Tokopedia,203467,1,203467,4.8,Virtual Account
+ORD-1356,2026-09-22,Jawa Barat,Beauty & Skincare,TikTok Shop,72625,1,72625,4.5,Virtual Account
+ORD-1357,2026-08-14,DKI Jakarta,Food & Beverage,Shopee,115265,2,230530,4.0,Virtual Account
+ORD-1358,2026-07-20,DKI Jakarta,Home & Living,TikTok Shop,211541,2,423082,4.8,QRIS
+ORD-1359,2026-10-16,DKI Jakarta,Food & Beverage,Shopee,44233,2,88466,4.8,QRIS
+ORD-1360,2026-08-04,Jawa Timur,Fashion & Apparel,Tokopedia,169767,2,339534,4.8,COD
+ORD-1361,2026-08-20,DKI Jakarta,Food & Beverage,Tokopedia,99816,1,99816,4.8,COD
+ORD-1362,2026-07-27,Jawa Timur,Beauty & Skincare,Shopee,175844,1,175844,4.8,Bank Transfer
+ORD-1363,2026-08-30,Jawa Tengah,Fashion & Apparel,Tokopedia,268984,1,268984,4.8,COD
+ORD-1364,2026-09-04,DKI Jakarta,Home & Living,TikTok Shop,206121,1,206121,5.0,QRIS
+ORD-1365,2026-08-26,DKI Jakarta,Fashion & Apparel,Shopee,191506,1,191506,4.0,Virtual Account
+ORD-1366,2026-08-29,Jawa Tengah,Fashion & Apparel,WhatsApp Business,266758,3,800274,4.8,Bank Transfer
+ORD-1367,2026-08-13,Jawa Barat,Beauty & Skincare,WhatsApp Business,94816,2,189632,5.0,COD
+ORD-1368,2026-09-06,Jawa Tengah,Gadgets & Accessories,WhatsApp Business,271552,3,814656,4.0,Bank Transfer
+ORD-1369,2026-08-12,DI Yogyakarta,Fashion & Apparel,Tokopedia,308540,1,308540,5.0,Virtual Account
+ORD-1370,2026-08-11,Jawa Barat,Food & Beverage,TikTok Shop,75489,2,150978,4.8,Virtual Account
+ORD-1371,2026-07-31,Jawa Barat,Food & Beverage,Shopee,85030,3,255090,5.0,Virtual Account
+ORD-1372,2026-09-16,Jawa Barat,Beauty & Skincare,Shopee,147088,1,147088,5.0,Virtual Account
+ORD-1373,2026-07-25,DKI Jakarta,Food & Beverage,Tokopedia,68516,2,137032,4.8,QRIS
+ORD-1374,2026-09-13,DKI Jakarta,Home & Living,Tokopedia,511473,2,1022946,4.8,Virtual Account
+ORD-1375,2026-08-23,Jawa Timur,Beauty & Skincare,TikTok Shop,157237,1,157237,4.8,COD
+ORD-1376,2026-09-01,Jawa Timur,Gadgets & Accessories,TikTok Shop,385377,3,1156131,4.5,COD
+ORD-1377,2026-08-07,Jawa Barat,Fashion & Apparel,Tokopedia,172493,2,344986,4.0,COD
+ORD-1378,2026-09-21,Jawa Barat,Home & Living,WhatsApp Business,238368,2,476736,4.8,Bank Transfer
+ORD-1379,2026-07-26,Jawa Timur,Fashion & Apparel,Shopee,342247,2,684494,5.0,Virtual Account
+ORD-1380,2026-08-03,Sumatera Utara,Food & Beverage,TikTok Shop,60436,3,181308,4.8,Bank Transfer
+ORD-1381,2026-08-01,Banten,Fashion & Apparel,WhatsApp Business,227297,2,454594,4.8,COD
+ORD-1382,2026-10-02,Jawa Barat,Home & Living,WhatsApp Business,453827,2,907654,4.8,QRIS
+ORD-1383,2026-10-13,DKI Jakarta,Fashion & Apparel,Tokopedia,206208,1,206208,5.0,QRIS
+ORD-1384,2026-08-02,Jawa Barat,Fashion & Apparel,Shopee,336545,3,1009635,4.8,QRIS
+ORD-1385,2026-09-22,Jawa Barat,Fashion & Apparel,TikTok Shop,265920,1,265920,5.0,Virtual Account
+ORD-1386,2026-08-19,DKI Jakarta,Home & Living,TikTok Shop,613942,1,613942,5.0,COD
+ORD-1387,2026-10-13,Banten,Gadgets & Accessories,Shopee,225121,1,225121,4.8,COD
+ORD-1388,2026-09-19,Jawa Barat,Beauty & Skincare,WhatsApp Business,91458,1,91458,4.8,Virtual Account
+ORD-1389,2026-10-12,DKI Jakarta,Home & Living,Shopee,472251,1,472251,4.5,QRIS
+ORD-1390,2026-09-07,DKI Jakarta,Beauty & Skincare,Shopee,53453,5,267265,5.0,Bank Transfer
+ORD-1391,2026-08-12,Jawa Timur,Fashion & Apparel,Shopee,124170,2,248340,4.8,QRIS
+ORD-1392,2026-09-14,Jawa Tengah,Gadgets & Accessories,Shopee,448834,2,897668,4.8,Virtual Account
+ORD-1393,2026-09-19,DKI Jakarta,Gadgets & Accessories,WhatsApp Business,472132,1,472132,4.8,QRIS
+ORD-1394,2026-09-18,DKI Jakarta,Food & Beverage,Tokopedia,83692,2,167384,5.0,Bank Transfer
+ORD-1395,2026-08-09,Jawa Tengah,Gadgets & Accessories,Tokopedia,86413,2,172826,4.0,QRIS
+ORD-1396,2026-09-14,Jawa Barat,Gadgets & Accessories,Tokopedia,191727,2,383454,5.0,Bank Transfer
+ORD-1397,2026-09-14,Jawa Tengah,Fashion & Apparel,WhatsApp Business,324664,1,324664,5.0,COD
+ORD-1398,2026-10-12,DKI Jakarta,Home & Living,TikTok Shop,333192,2,666384,4.8,Virtual Account
+ORD-1399,2026-09-05,Banten,Fashion & Apparel,Tokopedia,79994,1,79994,4.8,Bank Transfer
+ORD-1400,2026-09-08,Jawa Timur,Food & Beverage,TikTok Shop,76759,1,76759,4.0,COD
+ORD-1401,2026-08-29,Jawa Barat,Fashion & Apparel,WhatsApp Business,193094,1,193094,5.0,COD
+ORD-1402,2026-09-26,DKI Jakarta,Food & Beverage,Tokopedia,115101,1,115101,5.0,QRIS
+ORD-1403,2026-08-02,Jawa Timur,Gadgets & Accessories,TikTok Shop,295762,1,295762,4.8,Bank Transfer
+ORD-1404,2026-09-10,DKI Jakarta,Home & Living,TikTok Shop,450067,1,450067,4.8,COD
+ORD-1405,2026-09-16,DI Yogyakarta,Beauty & Skincare,Shopee,223311,1,223311,4.0,Virtual Account
+ORD-1406,2026-07-26,Banten,Gadgets & Accessories,WhatsApp Business,366463,1,366463,5.0,Bank Transfer
+ORD-1407,2026-09-09,Jawa Timur,Gadgets & Accessories,WhatsApp Business,151158,2,302316,5.0,QRIS
+ORD-1408,2026-09-16,DKI Jakarta,Beauty & Skincare,WhatsApp Business,69996,1,69996,5.0,COD
+ORD-1409,2026-07-23,Jawa Barat,Gadgets & Accessories,Shopee,274655,2,549310,4.8,QRIS
+ORD-1410,2026-09-24,Jawa Timur,Home & Living,Shopee,712084,2,1424168,4.5,QRIS
+ORD-1411,2026-07-24,Jawa Barat,Gadgets & Accessories,TikTok Shop,494943,1,494943,4.8,Virtual Account
+ORD-1412,2026-09-03,DKI Jakarta,Beauty & Skincare,Shopee,56859,2,113718,5.0,Virtual Account
+ORD-1413,2026-09-11,Jawa Timur,Food & Beverage,Shopee,97075,1,97075,4.8,Virtual Account
+ORD-1414,2026-08-27,Sumatera Utara,Fashion & Apparel,WhatsApp Business,282352,1,282352,5.0,Virtual Account
+ORD-1415,2026-09-08,Jawa Timur,Fashion & Apparel,Shopee,112019,1,112019,4.5,QRIS
+ORD-1416,2026-08-03,Jawa Timur,Food & Beverage,TikTok Shop,68395,1,68395,5.0,QRIS
+ORD-1417,2026-07-31,Jawa Tengah,Food & Beverage,Tokopedia,25203,1,25203,4.5,COD
+ORD-1418,2026-08-17,Jawa Barat,Gadgets & Accessories,Tokopedia,420180,2,840360,5.0,COD
+ORD-1419,2026-08-06,Jawa Tengah,Fashion & Apparel,WhatsApp Business,318386,2,636772,5.0,Virtual Account
+ORD-1420,2026-08-04,Jawa Barat,Gadgets & Accessories,Shopee,147537,2,295074,5.0,Virtual Account
+ORD-1421,2026-09-19,Jawa Tengah,Beauty & Skincare,WhatsApp Business,222330,4,889320,5.0,COD
+ORD-1422,2026-08-06,Jawa Timur,Beauty & Skincare,Tokopedia,227826,2,455652,4.8,Bank Transfer
+ORD-1423,2026-09-14,Jawa Barat,Beauty & Skincare,WhatsApp Business,111114,3,333342,4.8,Bank Transfer
+ORD-1424,2026-09-11,DKI Jakarta,Home & Living,WhatsApp Business,463298,1,463298,4.0,QRIS
+ORD-1425,2026-10-16,DI Yogyakarta,Fashion & Apparel,WhatsApp Business,242679,2,485358,4.8,COD
+ORD-1426,2026-10-16,Jawa Timur,Gadgets & Accessories,Tokopedia,439458,2,878916,5.0,Virtual Account
+ORD-1427,2026-09-18,Jawa Tengah,Beauty & Skincare,Shopee,83340,1,83340,4.5,Virtual Account
+ORD-1428,2026-08-10,Jawa Timur,Beauty & Skincare,Shopee,172564,2,345128,4.8,Virtual Account
+ORD-1429,2026-07-27,Jawa Barat,Food & Beverage,WhatsApp Business,30232,1,30232,5.0,Virtual Account
+ORD-1430,2026-07-30,Jawa Barat,Beauty & Skincare,Tokopedia,69610,2,139220,4.8,Virtual Account
+ORD-1431,2026-07-19,Sumatera Utara,Gadgets & Accessories,WhatsApp Business,348326,2,696652,5.0,QRIS
+ORD-1432,2026-09-14,Jawa Timur,Food & Beverage,Shopee,89575,3,268725,4.8,Bank Transfer
+ORD-1433,2026-07-19,DKI Jakarta,Food & Beverage,TikTok Shop,84821,1,84821,4.0,QRIS
+ORD-1434,2026-08-21,Jawa Tengah,Beauty & Skincare,TikTok Shop,136795,1,136795,5.0,Bank Transfer
+ORD-1435,2026-09-04,DI Yogyakarta,Home & Living,WhatsApp Business,236285,3,708855,4.8,Virtual Account
+ORD-1436,2026-10-15,Banten,Food & Beverage,WhatsApp Business,49519,1,49519,4.8,Virtual Account
+ORD-1437,2026-07-19,Jawa Tengah,Gadgets & Accessories,WhatsApp Business,448237,4,1792948,5.0,Virtual Account
+ORD-1438,2026-08-03,DKI Jakarta,Beauty & Skincare,TikTok Shop,139132,5,695660,5.0,COD
+ORD-1439,2026-09-17,Jawa Barat,Fashion & Apparel,TikTok Shop,248860,3,746580,5.0,Bank Transfer
+ORD-1440,2026-09-20,Bali,Gadgets & Accessories,Shopee,367715,1,367715,4.8,Virtual Account
+ORD-1441,2026-09-19,Jawa Barat,Fashion & Apparel,WhatsApp Business,166036,1,166036,4.8,Virtual Account
+ORD-1442,2026-09-25,DKI Jakarta,Home & Living,Shopee,518554,1,518554,4.5,Virtual Account
+ORD-1443,2026-08-09,DKI Jakarta,Home & Living,TikTok Shop,512755,5,2563775,5.0,QRIS
+ORD-1444,2026-09-23,Sumatera Utara,Home & Living,WhatsApp Business,452365,2,904730,4.5,Bank Transfer
+ORD-1445,2026-10-02,DKI Jakarta,Food & Beverage,TikTok Shop,40408,1,40408,4.8,COD
+ORD-1446,2026-08-13,Bali,Food & Beverage,Shopee,69254,2,138508,4.0,COD
+ORD-1447,2026-08-03,Bali,Food & Beverage,TikTok Shop,70066,2,140132,5.0,Bank Transfer
+ORD-1448,2026-09-07,DKI Jakarta,Food & Beverage,WhatsApp Business,47765,1,47765,4.0,COD
+ORD-1449,2026-10-12,DKI Jakarta,Fashion & Apparel,Tokopedia,327084,1,327084,4.8,Bank Transfer
+ORD-1450,2026-09-13,Jawa Tengah,Food & Beverage,TikTok Shop,70991,2,141982,4.5,COD
+ORD-1451,2026-08-16,DKI Jakarta,Gadgets & Accessories,Tokopedia,81379,1,81379,4.8,COD
+ORD-1452,2026-10-04,Jawa Barat,Fashion & Apparel,TikTok Shop,189091,2,378182,5.0,COD
+ORD-1453,2026-09-25,DKI Jakarta,Food & Beverage,WhatsApp Business,84174,1,84174,5.0,Bank Transfer
+ORD-1454,2026-09-03,DKI Jakarta,Gadgets & Accessories,Tokopedia,378932,2,757864,5.0,QRIS
+ORD-1455,2026-09-18,Jawa Barat,Home & Living,WhatsApp Business,542136,2,1084272,4.5,Bank Transfer
+ORD-1456,2026-09-25,DKI Jakarta,Home & Living,Tokopedia,154722,1,154722,4.5,Virtual Account
+ORD-1457,2026-10-02,Banten,Gadgets & Accessories,Shopee,265286,2,530572,4.5,COD
+ORD-1458,2026-08-03,Jawa Barat,Beauty & Skincare,Shopee,64079,1,64079,4.8,Bank Transfer
+ORD-1459,2026-10-16,Banten,Gadgets & Accessories,Shopee,200872,1,200872,4.5,COD
+ORD-1460,2026-10-16,Jawa Barat,Home & Living,TikTok Shop,373813,2,747626,5.0,Bank Transfer
+ORD-1461,2026-09-04,Jawa Timur,Fashion & Apparel,WhatsApp Business,167876,1,167876,4.5,COD
+ORD-1462,2026-10-11,Jawa Timur,Gadgets & Accessories,Tokopedia,249737,1,249737,5.0,COD
+ORD-1463,2026-08-26,Sumatera Utara,Beauty & Skincare,Shopee,235100,1,235100,4.8,Bank Transfer
+ORD-1464,2026-08-20,Jawa Tengah,Food & Beverage,Shopee,81830,2,163660,5.0,Virtual Account
+ORD-1465,2026-08-10,Jawa Tengah,Gadgets & Accessories,Shopee,487585,1,487585,4.0,Virtual Account
+ORD-1466,2026-07-28,DKI Jakarta,Fashion & Apparel,WhatsApp Business,147307,2,294614,4.8,Bank Transfer
+ORD-1467,2026-09-25,Jawa Tengah,Gadgets & Accessories,TikTok Shop,171757,2,343514,4.8,COD
+ORD-1468,2026-08-21,Banten,Fashion & Apparel,WhatsApp Business,275399,1,275399,4.0,Bank Transfer
+ORD-1469,2026-09-08,Jawa Tengah,Fashion & Apparel,Tokopedia,263487,4,1053948,5.0,COD
+ORD-1470,2026-07-28,Jawa Timur,Food & Beverage,Shopee,53810,2,107620,5.0,Bank Transfer
+ORD-1471,2026-08-06,DKI Jakarta,Food & Beverage,Tokopedia,94460,3,283380,5.0,QRIS
+ORD-1472,2026-09-14,Jawa Barat,Gadgets & Accessories,Tokopedia,402754,2,805508,5.0,COD
+ORD-1473,2026-07-19,DKI Jakarta,Beauty & Skincare,WhatsApp Business,73666,1,73666,4.0,QRIS
+ORD-1474,2026-09-25,Jawa Timur,Beauty & Skincare,Tokopedia,192482,1,192482,4.5,Virtual Account
+ORD-1475,2026-07-22,Jawa Timur,Gadgets & Accessories,TikTok Shop,278931,1,278931,5.0,COD
+ORD-1476,2026-08-03,Jawa Barat,Gadgets & Accessories,WhatsApp Business,276256,2,552512,5.0,Virtual Account
+ORD-1477,2026-08-11,Bali,Food & Beverage,WhatsApp Business,80021,1,80021,4.8,Bank Transfer
+ORD-1478,2026-10-06,DKI Jakarta,Food & Beverage,WhatsApp Business,101384,4,405536,4.5,COD
+ORD-1479,2026-07-20,Jawa Barat,Home & Living,Shopee,485946,1,485946,4.5,COD
+ORD-1480,2026-08-19,Jawa Timur,Gadgets & Accessories,Tokopedia,278129,1,278129,4.0,Bank Transfer
+ORD-1481,2026-10-10,DKI Jakarta,Fashion & Apparel,Shopee,119041,1,119041,4.5,COD
+ORD-1482,2026-08-11,DKI Jakarta,Beauty & Skincare,WhatsApp Business,230494,1,230494,5.0,QRIS
+ORD-1483,2026-07-30,DKI Jakarta,Food & Beverage,TikTok Shop,103257,3,309771,5.0,Bank Transfer
+ORD-1484,2026-09-06,Jawa Barat,Fashion & Apparel,Shopee,341909,4,1367636,5.0,QRIS
+ORD-1485,2026-08-22,Banten,Home & Living,Shopee,368733,1,368733,4.5,QRIS
+ORD-1486,2026-08-20,Jawa Timur,Food & Beverage,Shopee,79195,2,158390,5.0,Virtual Account
+ORD-1487,2026-08-20,Jawa Timur,Food & Beverage,Tokopedia,60440,1,60440,4.5,Virtual Account
+ORD-1488,2026-09-17,DKI Jakarta,Beauty & Skincare,Shopee,194098,2,388196,5.0,QRIS
+ORD-1489,2026-09-07,DI Yogyakarta,Food & Beverage,Shopee,32347,1,32347,5.0,QRIS
+ORD-1490,2026-08-30,Banten,Gadgets & Accessories,Shopee,477700,1,477700,4.5,QRIS
+ORD-1491,2026-07-30,Bali,Gadgets & Accessories,Tokopedia,342410,2,684820,5.0,QRIS
+ORD-1492,2026-09-23,DKI Jakarta,Beauty & Skincare,WhatsApp Business,54006,1,54006,4.8,COD
+ORD-1493,2026-09-21,DKI Jakarta,Gadgets & Accessories,Tokopedia,419371,5,2096855,4.5,Virtual Account
+ORD-1494,2026-08-20,Sumatera Utara,Gadgets & Accessories,WhatsApp Business,144881,1,144881,4.0,Bank Transfer
+ORD-1495,2026-08-27,Jawa Timur,Gadgets & Accessories,TikTok Shop,266896,1,266896,5.0,QRIS
+ORD-1496,2026-09-30,DI Yogyakarta,Fashion & Apparel,Shopee,118618,1,118618,4.8,Virtual Account
+ORD-1497,2026-08-30,Banten,Fashion & Apparel,Shopee,203652,1,203652,4.8,Virtual Account
+ORD-1498,2026-08-31,Jawa Barat,Beauty & Skincare,Shopee,92222,1,92222,4.8,Virtual Account
+ORD-1499,2026-08-16,Jawa Tengah,Gadgets & Accessories,Tokopedia,321604,1,321604,4.0,Bank Transfer
+ORD-1500,2026-07-31,Jawa Timur,Food & Beverage,Tokopedia,97920,2,195840,5.0,Bank Transfer
+ORD-1501,2026-07-30,Jawa Barat,Beauty & Skincare,WhatsApp Business,138209,1,138209,5.0,Virtual Account
+ORD-1502,2026-09-02,Banten,Home & Living,TikTok Shop,112306,2,224612,4.0,Bank Transfer
+ORD-1503,2026-07-20,Jawa Timur,Beauty & Skincare,TikTok Shop,68019,2,136038,5.0,COD
+ORD-1504,2026-08-22,DKI Jakarta,Gadgets & Accessories,Tokopedia,438422,1,438422,4.5,QRIS
+ORD-1505,2026-10-13,Jawa Barat,Gadgets & Accessories,Shopee,321487,2,642974,4.0,Virtual Account
+ORD-1506,2026-10-07,Jawa Barat,Home & Living,WhatsApp Business,540015,3,1620045,4.0,Bank Transfer
+ORD-1507,2026-10-16,Jawa Barat,Home & Living,WhatsApp Business,211362,1,211362,4.8,QRIS
+ORD-1508,2026-07-26,Jawa Tengah,Fashion & Apparel,TikTok Shop,261950,4,1047800,5.0,QRIS
+ORD-1509,2026-08-13,Jawa Timur,Fashion & Apparel,WhatsApp Business,102877,2,205754,5.0,Bank Transfer
+ORD-1510,2026-09-30,Jawa Barat,Home & Living,Shopee,271389,1,271389,5.0,Bank Transfer
+ORD-1511,2026-10-16,Jawa Barat,Food & Beverage,Tokopedia,64531,1,64531,5.0,Virtual Account
+ORD-1512,2026-08-21,DKI Jakarta,Food & Beverage,TikTok Shop,96545,2,193090,4.8,COD
+ORD-1513,2026-07-25,Jawa Timur,Beauty & Skincare,TikTok Shop,184794,2,369588,5.0,Bank Transfer
+ORD-1514,2026-09-24,Jawa Barat,Fashion & Apparel,Tokopedia,134807,2,269614,5.0,Bank Transfer
+ORD-1515,2026-09-14,Sumatera Utara,Home & Living,Shopee,354730,1,354730,5.0,COD
+ORD-1516,2026-10-01,Bali,Home & Living,TikTok Shop,345984,1,345984,4.8,Virtual Account
+ORD-1517,2026-08-16,DKI Jakarta,Food & Beverage,TikTok Shop,110166,1,110166,4.8,QRIS
+ORD-1518,2026-08-23,DI Yogyakarta,Fashion & Apparel,WhatsApp Business,238052,2,476104,4.8,Virtual Account
+ORD-1519,2026-10-15,Jawa Tengah,Food & Beverage,Tokopedia,55009,1,55009,5.0,Virtual Account
+ORD-1520,2026-08-08,DKI Jakarta,Beauty & Skincare,WhatsApp Business,158297,1,158297,4.0,COD
+ORD-1521,2026-08-23,Banten,Gadgets & Accessories,TikTok Shop,178447,1,178447,4.5,Bank Transfer
+ORD-1522,2026-07-28,DKI Jakarta,Food & Beverage,Shopee,115895,2,231790,4.8,Bank Transfer
+ORD-1523,2026-09-29,DKI Jakarta,Food & Beverage,WhatsApp Business,104211,1,104211,4.5,Virtual Account
+ORD-1524,2026-08-11,Jawa Timur,Home & Living,Tokopedia,139553,1,139553,4.8,COD
+ORD-1525,2026-09-20,Jawa Timur,Home & Living,WhatsApp Business,478621,1,478621,4.5,QRIS
+ORD-1526,2026-09-05,Jawa Barat,Home & Living,Tokopedia,411385,1,411385,4.8,COD
+ORD-1527,2026-08-23,Jawa Barat,Home & Living,Tokopedia,215657,2,431314,5.0,Virtual Account
+ORD-1528,2026-10-08,Jawa Tengah,Gadgets & Accessories,TikTok Shop,226355,2,452710,4.8,Bank Transfer
+ORD-1529,2026-08-11,DKI Jakarta,Gadgets & Accessories,WhatsApp Business,174954,4,699816,4.8,QRIS
+ORD-1530,2026-08-10,Jawa Tengah,Home & Living,Shopee,431999,2,863998,4.0,Virtual Account
+ORD-1531,2026-09-18,DKI Jakarta,Gadgets & Accessories,TikTok Shop,376284,1,376284,5.0,Bank Transfer
+ORD-1532,2026-08-24,Jawa Barat,Home & Living,WhatsApp Business,276968,1,276968,4.8,Bank Transfer
+ORD-1533,2026-07-30,DKI Jakarta,Fashion & Apparel,WhatsApp Business,289303,3,867909,4.8,QRIS
+ORD-1534,2026-09-11,DKI Jakarta,Beauty & Skincare,Tokopedia,76553,1,76553,5.0,Virtual Account
+ORD-1535,2026-07-31,DKI Jakarta,Fashion & Apparel,Shopee,150910,1,150910,4.5,Bank Transfer
+ORD-1536,2026-08-10,Jawa Barat,Beauty & Skincare,Tokopedia,104460,2,208920,5.0,QRIS
+ORD-1537,2026-10-15,Jawa Tengah,Beauty & Skincare,WhatsApp Business,150667,2,301334,4.8,Virtual Account
+ORD-1538,2026-08-17,Jawa Timur,Gadgets & Accessories,TikTok Shop,81831,3,245493,4.8,Bank Transfer
+ORD-1539,2026-08-04,Jawa Tengah,Food & Beverage,TikTok Shop,83251,1,83251,5.0,Virtual Account
+ORD-1540,2026-09-18,Bali,Fashion & Apparel,TikTok Shop,227756,2,455512,4.5,COD
+ORD-1541,2026-10-10,Banten,Home & Living,TikTok Shop,734151,1,734151,5.0,Virtual Account
+ORD-1542,2026-10-15,DKI Jakarta,Beauty & Skincare,Shopee,65216,4,260864,5.0,Bank Transfer
+ORD-1543,2026-10-12,DKI Jakarta,Home & Living,Shopee,214456,1,214456,4.8,COD
+ORD-1544,2026-07-31,Sumatera Utara,Fashion & Apparel,Tokopedia,109152,2,218304,4.5,COD
+ORD-1545,2026-09-15,Jawa Timur,Gadgets & Accessories,Shopee,398627,2,797254,4.5,QRIS
+ORD-1546,2026-08-06,Bali,Food & Beverage,Tokopedia,30543,1,30543,4.0,Virtual Account
+ORD-1547,2026-09-05,Jawa Timur,Fashion & Apparel,Shopee,161803,1,161803,5.0,COD
+ORD-1548,2026-07-30,Jawa Timur,Home & Living,WhatsApp Business,244282,2,488564,5.0,Virtual Account
+ORD-1549,2026-09-17,Jawa Barat,Home & Living,Tokopedia,656371,2,1312742,4.8,COD
+ORD-1550,2026-08-06,DKI Jakarta,Gadgets & Accessories,Shopee,119517,3,358551,5.0,COD
+ORD-1551,2026-10-02,DKI Jakarta,Home & Living,Tokopedia,238261,2,476522,5.0,COD
+ORD-1552,2026-07-27,DI Yogyakarta,Fashion & Apparel,WhatsApp Business,102564,2,205128,5.0,QRIS
+ORD-1553,2026-09-27,DKI Jakarta,Gadgets & Accessories,TikTok Shop,448276,2,896552,5.0,COD
+ORD-1554,2026-08-15,Jawa Timur,Home & Living,WhatsApp Business,172684,3,518052,4.5,QRIS
+ORD-1555,2026-10-04,DKI Jakarta,Home & Living,Tokopedia,657665,1,657665,5.0,QRIS
+ORD-1556,2026-09-08,Jawa Timur,Beauty & Skincare,Shopee,160634,1,160634,5.0,Bank Transfer
+ORD-1557,2026-10-09,Jawa Barat,Beauty & Skincare,Shopee,119590,3,358770,5.0,Virtual Account
+ORD-1558,2026-08-03,Banten,Gadgets & Accessories,Tokopedia,459925,3,1379775,4.8,QRIS
+ORD-1559,2026-09-25,Jawa Timur,Gadgets & Accessories,WhatsApp Business,328104,1,328104,4.8,Bank Transfer
+ORD-1560,2026-07-30,DKI Jakarta,Beauty & Skincare,TikTok Shop,100519,1,100519,4.0,Bank Transfer
+ORD-1561,2026-08-12,DKI Jakarta,Home & Living,Shopee,257753,1,257753,4.8,Bank Transfer
+ORD-1562,2026-09-08,Jawa Barat,Home & Living,Shopee,331452,2,662904,4.8,COD
+ORD-1563,2026-10-11,Jawa Tengah,Gadgets & Accessories,TikTok Shop,319515,2,639030,4.5,COD
+ORD-1564,2026-09-09,Banten,Beauty & Skincare,Shopee,155573,1,155573,5.0,Bank Transfer
+ORD-1565,2026-08-10,Jawa Timur,Fashion & Apparel,Shopee,249131,1,249131,5.0,COD
+ORD-1566,2026-08-03,DKI Jakarta,Home & Living,WhatsApp Business,641529,1,641529,4.8,Virtual Account
+ORD-1567,2026-09-13,Jawa Timur,Home & Living,Tokopedia,294999,1,294999,4.5,COD
+ORD-1568,2026-08-26,Jawa Timur,Beauty & Skincare,Shopee,110197,2,220394,4.5,Virtual Account
+ORD-1569,2026-09-09,Jawa Barat,Home & Living,Shopee,583241,1,583241,5.0,QRIS
+ORD-1570,2026-08-29,Jawa Barat,Home & Living,Shopee,428055,1,428055,5.0,Bank Transfer
+ORD-1571,2026-09-14,Bali,Home & Living,Shopee,392717,1,392717,5.0,Virtual Account
+ORD-1572,2026-08-26,Jawa Barat,Gadgets & Accessories,WhatsApp Business,403548,2,807096,5.0,COD
+ORD-1573,2026-08-01,Jawa Barat,Home & Living,TikTok Shop,745424,2,1490848,4.8,COD
+ORD-1574,2026-07-23,Jawa Barat,Fashion & Apparel,TikTok Shop,157666,5,788330,4.8,QRIS
+ORD-1575,2026-08-22,DKI Jakarta,Beauty & Skincare,Tokopedia,208477,1,208477,5.0,COD
+ORD-1576,2026-10-13,Bali,Home & Living,Tokopedia,232018,1,232018,5.0,QRIS
+ORD-1577,2026-10-01,Jawa Timur,Home & Living,Shopee,361439,3,1084317,5.0,Virtual Account
+ORD-1578,2026-08-05,Jawa Timur,Food & Beverage,Tokopedia,54001,1,54001,5.0,QRIS
+ORD-1579,2026-10-02,Jawa Timur,Beauty & Skincare,WhatsApp Business,55867,1,55867,4.5,QRIS
+ORD-1580,2026-07-27,Jawa Tengah,Beauty & Skincare,Shopee,100435,2,200870,4.8,Virtual Account
+ORD-1581,2026-09-30,Banten,Beauty & Skincare,WhatsApp Business,193314,1,193314,4.8,QRIS
+ORD-1582,2026-09-14,Jawa Timur,Fashion & Apparel,Shopee,337651,3,1012953,4.8,COD
+ORD-1583,2026-08-04,Banten,Home & Living,Tokopedia,595919,1,595919,4.8,QRIS
+ORD-1584,2026-07-25,Jawa Barat,Beauty & Skincare,Shopee,121947,3,365841,5.0,COD
+ORD-1585,2026-09-02,DKI Jakarta,Gadgets & Accessories,Tokopedia,99593,5,497965,4.8,Bank Transfer
+ORD-1586,2026-07-31,Jawa Barat,Home & Living,WhatsApp Business,741621,1,741621,4.8,COD
+ORD-1587,2026-08-27,Bali,Fashion & Apparel,Shopee,232195,5,1160975,4.0,QRIS
+ORD-1588,2026-08-29,Bali,Gadgets & Accessories,WhatsApp Business,76140,1,76140,4.5,Bank Transfer
+ORD-1589,2026-07-27,Jawa Barat,Home & Living,TikTok Shop,116555,1,116555,4.8,QRIS
+ORD-1590,2026-09-06,DI Yogyakarta,Home & Living,Shopee,191321,1,191321,4.0,QRIS
+ORD-1591,2026-08-14,Banten,Home & Living,TikTok Shop,389987,1,389987,5.0,Virtual Account
+ORD-1592,2026-09-22,Jawa Timur,Home & Living,TikTok Shop,322633,2,645266,4.8,Virtual Account
+ORD-1593,2026-07-23,Jawa Barat,Home & Living,WhatsApp Business,374864,2,749728,4.5,COD
+ORD-1594,2026-08-16,DKI Jakarta,Gadgets & Accessories,Shopee,419119,3,1257357,4.8,QRIS
+ORD-1595,2026-08-24,Jawa Barat,Gadgets & Accessories,TikTok Shop,121042,1,121042,4.5,Bank Transfer
+ORD-1596,2026-08-25,Jawa Barat,Home & Living,TikTok Shop,197628,1,197628,4.8,Virtual Account
+ORD-1597,2026-10-09,Banten,Home & Living,TikTok Shop,142674,1,142674,4.0,COD
+ORD-1598,2026-07-26,Jawa Timur,Gadgets & Accessories,TikTok Shop,306008,2,612016,5.0,COD
+ORD-1599,2026-09-21,DKI Jakarta,Food & Beverage,Tokopedia,69439,2,138878,4.8,Virtual Account
+ORD-1600,2026-10-12,Jawa Barat,Fashion & Apparel,Tokopedia,172624,1,172624,4.5,Virtual Account
+ORD-1601,2026-08-04,Jawa Barat,Fashion & Apparel,WhatsApp Business,177166,5,885830,5.0,QRIS
+ORD-1602,2026-09-27,Sumatera Utara,Food & Beverage,Shopee,90066,2,180132,4.0,QRIS
+ORD-1603,2026-10-15,DKI Jakarta,Fashion & Apparel,WhatsApp Business,170386,2,340772,4.8,Bank Transfer
+ORD-1604,2026-09-01,Jawa Timur,Home & Living,Tokopedia,444877,5,2224385,4.0,COD
+ORD-1605,2026-07-22,Sumatera Utara,Gadgets & Accessories,Tokopedia,229736,1,229736,5.0,QRIS
+ORD-1606,2026-08-23,DKI Jakarta,Food & Beverage,TikTok Shop,94806,4,379224,4.0,QRIS
+ORD-1607,2026-09-26,DKI Jakarta,Fashion & Apparel,TikTok Shop,96650,5,483250,4.5,Bank Transfer
+ORD-1608,2026-08-18,Banten,Gadgets & Accessories,WhatsApp Business,224312,2,448624,5.0,COD
+ORD-1609,2026-08-06,Jawa Timur,Beauty & Skincare,Shopee,201990,1,201990,5.0,COD
+ORD-1610,2026-09-17,Jawa Barat,Home & Living,TikTok Shop,414493,1,414493,5.0,COD
+ORD-1611,2026-09-10,DKI Jakarta,Beauty & Skincare,WhatsApp Business,226421,1,226421,4.8,COD
+ORD-1612,2026-08-26,Bali,Home & Living,WhatsApp Business,120923,5,604615,4.0,Bank Transfer
+ORD-1613,2026-09-30,Jawa Tengah,Gadgets & Accessories,Shopee,78756,5,393780,4.5,COD
+ORD-1614,2026-10-16,Jawa Barat,Beauty & Skincare,TikTok Shop,182447,1,182447,4.8,Bank Transfer
+ORD-1615,2026-08-06,Jawa Timur,Fashion & Apparel,Tokopedia,96398,1,96398,4.5,QRIS
+ORD-1616,2026-08-26,DKI Jakarta,Beauty & Skincare,Shopee,51073,1,51073,5.0,Bank Transfer
+ORD-1617,2026-09-23,Jawa Barat,Gadgets & Accessories,Tokopedia,483950,1,483950,4.8,QRIS
+ORD-1618,2026-09-01,DKI Jakarta,Fashion & Apparel,TikTok Shop,212844,1,212844,5.0,COD
+ORD-1619,2026-07-31,DKI Jakarta,Food & Beverage,Shopee,76448,1,76448,4.0,QRIS
+ORD-1620,2026-09-14,Jawa Barat,Food & Beverage,WhatsApp Business,30622,2,61244,4.0,Bank Transfer
+ORD-1621,2026-08-07,DKI Jakarta,Fashion & Apparel,WhatsApp Business,114255,2,228510,5.0,QRIS
+ORD-1622,2026-09-28,DKI Jakarta,Gadgets & Accessories,Tokopedia,439610,2,879220,4.8,COD
+ORD-1623,2026-09-17,Jawa Timur,Beauty & Skincare,Tokopedia,188421,4,753684,4.8,COD
+ORD-1624,2026-08-26,DKI Jakarta,Food & Beverage,WhatsApp Business,72975,1,72975,4.8,COD
+ORD-1625,2026-07-19,Jawa Timur,Gadgets & Accessories,Shopee,326319,3,978957,4.5,Virtual Account
+ORD-1626,2026-07-21,Jawa Tengah,Food & Beverage,Shopee,48283,2,96566,4.0,QRIS
+ORD-1627,2026-10-03,Jawa Barat,Home & Living,TikTok Shop,408360,1,408360,4.5,COD
+ORD-1628,2026-09-18,Jawa Barat,Fashion & Apparel,WhatsApp Business,171502,2,343004,5.0,QRIS
+ORD-1629,2026-09-19,DI Yogyakarta,Gadgets & Accessories,Tokopedia,55033,2,110066,4.5,COD
+ORD-1630,2026-08-12,DKI Jakarta,Beauty & Skincare,WhatsApp Business,57533,1,57533,4.5,Bank Transfer
+ORD-1631,2026-09-12,DKI Jakarta,Gadgets & Accessories,Tokopedia,492252,1,492252,4.8,Virtual Account
+ORD-1632,2026-08-20,Jawa Barat,Home & Living,WhatsApp Business,132966,1,132966,4.8,QRIS
+ORD-1633,2026-08-25,DKI Jakarta,Gadgets & Accessories,TikTok Shop,225309,1,225309,5.0,QRIS
+ORD-1634,2026-07-24,DKI Jakarta,Food & Beverage,WhatsApp Business,70264,1,70264,5.0,COD
+ORD-1635,2026-09-14,Jawa Barat,Home & Living,Shopee,363749,1,363749,4.5,Bank Transfer
+ORD-1636,2026-08-31,DKI Jakarta,Home & Living,WhatsApp Business,301682,1,301682,4.0,QRIS
+ORD-1637,2026-09-01,Jawa Barat,Fashion & Apparel,WhatsApp Business,325072,1,325072,5.0,Bank Transfer
+ORD-1638,2026-08-19,DKI Jakarta,Beauty & Skincare,Shopee,172374,1,172374,5.0,COD
+ORD-1639,2026-09-01,DI Yogyakarta,Beauty & Skincare,WhatsApp Business,51577,2,103154,5.0,Virtual Account
+ORD-1640,2026-09-17,Banten,Food & Beverage,Shopee,86957,2,173914,5.0,COD
+ORD-1641,2026-09-03,Jawa Timur,Fashion & Apparel,TikTok Shop,270245,2,540490,4.8,QRIS
+ORD-1642,2026-08-08,DKI Jakarta,Food & Beverage,WhatsApp Business,38386,3,115158,4.5,Bank Transfer
+ORD-1643,2026-10-06,Sumatera Utara,Gadgets & Accessories,Shopee,166582,2,333164,5.0,COD
+ORD-1644,2026-10-11,Sumatera Utara,Beauty & Skincare,TikTok Shop,152272,2,304544,4.0,QRIS
+ORD-1645,2026-10-01,Jawa Timur,Beauty & Skincare,TikTok Shop,201285,1,201285,5.0,Bank Transfer
+ORD-1646,2026-08-23,Sumatera Utara,Home & Living,TikTok Shop,170474,2,340948,5.0,QRIS
+ORD-1647,2026-08-06,Jawa Barat,Gadgets & Accessories,Tokopedia,328910,1,328910,5.0,Bank Transfer
+ORD-1648,2026-08-07,Bali,Beauty & Skincare,WhatsApp Business,58802,3,176406,5.0,Bank Transfer
+ORD-1649,2026-09-13,Jawa Timur,Fashion & Apparel,WhatsApp Business,253838,2,507676,4.8,COD
+ORD-1650,2026-08-05,Jawa Barat,Beauty & Skincare,TikTok Shop,171635,1,171635,5.0,Virtual Account
+ORD-1651,2026-09-03,Jawa Timur,Gadgets & Accessories,Tokopedia,268599,1,268599,4.5,Virtual Account
+ORD-1652,2026-09-05,DKI Jakarta,Fashion & Apparel,Tokopedia,116505,1,116505,4.8,QRIS
+ORD-1653,2026-08-01,Jawa Barat,Food & Beverage,Shopee,59758,3,179274,4.8,Virtual Account
+ORD-1654,2026-08-02,Jawa Barat,Beauty & Skincare,Shopee,194740,2,389480,4.8,Virtual Account
+ORD-1655,2026-08-18,Jawa Barat,Gadgets & Accessories,Tokopedia,195698,3,587094,5.0,QRIS
+ORD-1656,2026-07-19,Jawa Timur,Beauty & Skincare,Tokopedia,232774,2,465548,4.8,COD
+ORD-1657,2026-09-10,Jawa Barat,Fashion & Apparel,TikTok Shop,234379,1,234379,4.8,QRIS
+ORD-1658,2026-07-21,Jawa Timur,Fashion & Apparel,Tokopedia,205744,1,205744,4.8,Virtual Account
+ORD-1659,2026-08-03,Jawa Barat,Food & Beverage,TikTok Shop,34637,2,69274,5.0,QRIS
+ORD-1660,2026-10-13,Jawa Tengah,Fashion & Apparel,Tokopedia,348667,1,348667,4.0,COD
+ORD-1661,2026-09-13,Jawa Tengah,Fashion & Apparel,WhatsApp Business,108896,2,217792,5.0,Virtual Account
+ORD-1662,2026-10-01,DKI Jakarta,Food & Beverage,TikTok Shop,29567,1,29567,4.8,Virtual Account
+ORD-1663,2026-07-30,Banten,Gadgets & Accessories,Tokopedia,263286,3,789858,5.0,QRIS
+ORD-1664,2026-09-30,Jawa Tengah,Beauty & Skincare,Shopee,222857,1,222857,5.0,Virtual Account
+ORD-1665,2026-08-03,Jawa Barat,Food & Beverage,Tokopedia,64405,1,64405,5.0,COD
+ORD-1666,2026-09-28,DKI Jakarta,Food & Beverage,Shopee,87894,1,87894,4.5,QRIS
+ORD-1667,2026-10-02,Banten,Home & Living,WhatsApp Business,570949,5,2854745,5.0,Bank Transfer
+ORD-1668,2026-08-11,DKI Jakarta,Beauty & Skincare,Shopee,152072,1,152072,4.8,Bank Transfer
+ORD-1669,2026-08-15,Jawa Barat,Beauty & Skincare,WhatsApp Business,209132,2,418264,4.8,Virtual Account
+ORD-1670,2026-07-26,Banten,Food & Beverage,TikTok Shop,29368,1,29368,5.0,Virtual Account
+ORD-1671,2026-08-23,Banten,Beauty & Skincare,WhatsApp Business,74466,1,74466,4.0,Bank Transfer
+ORD-1672,2026-10-16,Jawa Tengah,Fashion & Apparel,WhatsApp Business,110525,1,110525,5.0,QRIS
+ORD-1673,2026-07-26,DKI Jakarta,Gadgets & Accessories,WhatsApp Business,82634,3,247902,4.0,COD
+ORD-1674,2026-09-14,Jawa Barat,Fashion & Apparel,WhatsApp Business,179127,4,716508,5.0,Virtual Account
+ORD-1675,2026-09-16,DI Yogyakarta,Home & Living,Tokopedia,298763,1,298763,4.8,Bank Transfer
+ORD-1676,2026-09-06,Jawa Barat,Beauty & Skincare,Shopee,74700,1,74700,5.0,Virtual Account
+ORD-1677,2026-08-15,Jawa Timur,Fashion & Apparel,WhatsApp Business,124589,1,124589,4.8,QRIS
+ORD-1678,2026-08-28,Jawa Tengah,Gadgets & Accessories,Tokopedia,105830,1,105830,5.0,Bank Transfer
+ORD-1679,2026-09-20,Sumatera Utara,Food & Beverage,Tokopedia,74699,1,74699,4.8,Bank Transfer
+ORD-1680,2026-08-14,Sumatera Utara,Gadgets & Accessories,Shopee,260809,1,260809,5.0,Bank Transfer
+ORD-1681,2026-09-19,Jawa Barat,Gadgets & Accessories,Shopee,163218,1,163218,4.5,Bank Transfer
+ORD-1682,2026-08-04,Sumatera Utara,Beauty & Skincare,Shopee,171118,3,513354,4.0,COD
+ORD-1683,2026-09-29,Jawa Barat,Home & Living,WhatsApp Business,103174,2,206348,5.0,Virtual Account
+ORD-1684,2026-08-20,Jawa Timur,Gadgets & Accessories,Shopee,335904,1,335904,5.0,COD
+ORD-1685,2026-10-10,Jawa Timur,Beauty & Skincare,WhatsApp Business,157215,2,314430,4.8,COD
+ORD-1686,2026-10-03,Banten,Fashion & Apparel,WhatsApp Business,227049,1,227049,4.8,Virtual Account
+ORD-1687,2026-08-16,Jawa Barat,Gadgets & Accessories,TikTok Shop,188454,1,188454,4.0,QRIS
+ORD-1688,2026-07-31,Jawa Timur,Beauty & Skincare,Shopee,95156,1,95156,4.0,QRIS
+ORD-1689,2026-09-02,DKI Jakarta,Fashion & Apparel,Tokopedia,331228,3,993684,4.8,COD
+ORD-1690,2026-08-22,DKI Jakarta,Fashion & Apparel,WhatsApp Business,236040,1,236040,5.0,QRIS
+ORD-1691,2026-07-24,DKI Jakarta,Beauty & Skincare,Tokopedia,246497,3,739491,4.8,QRIS
+ORD-1692,2026-10-08,Jawa Barat,Food & Beverage,Shopee,69755,4,279020,4.8,COD
+ORD-1693,2026-09-25,Jawa Barat,Fashion & Apparel,Tokopedia,302459,5,1512295,5.0,Bank Transfer
+ORD-1694,2026-09-03,Jawa Timur,Beauty & Skincare,WhatsApp Business,127004,1,127004,4.8,QRIS
+ORD-1695,2026-08-12,DKI Jakarta,Beauty & Skincare,Shopee,130409,1,130409,4.8,COD
+ORD-1696,2026-09-22,Sumatera Utara,Food & Beverage,WhatsApp Business,88456,4,353824,4.8,QRIS
+ORD-1697,2026-07-28,Jawa Tengah,Fashion & Apparel,WhatsApp Business,132986,1,132986,5.0,Bank Transfer
+ORD-1698,2026-09-12,Jawa Barat,Home & Living,WhatsApp Business,382229,2,764458,5.0,QRIS
+ORD-1699,2026-08-17,Banten,Gadgets & Accessories,Shopee,190416,1,190416,4.8,Virtual Account
+ORD-1700,2026-07-23,Jawa Timur,Food & Beverage,WhatsApp Business,29582,1,29582,5.0,QRIS
+ORD-1701,2026-08-20,DKI Jakarta,Fashion & Apparel,Shopee,290705,1,290705,4.5,Bank Transfer
+ORD-1702,2026-09-21,Jawa Tengah,Gadgets & Accessories,WhatsApp Business,249618,5,1248090,5.0,Bank Transfer
+ORD-1703,2026-08-05,Sumatera Utara,Home & Living,Shopee,125739,5,628695,4.8,QRIS
+ORD-1704,2026-09-05,Jawa Timur,Food & Beverage,WhatsApp Business,89148,1,89148,4.0,Virtual Account
+ORD-1705,2026-07-29,DKI Jakarta,Fashion & Apparel,TikTok Shop,258500,2,517000,5.0,Bank Transfer
+ORD-1706,2026-10-11,Jawa Timur,Home & Living,WhatsApp Business,312235,2,624470,5.0,Bank Transfer
+ORD-1707,2026-08-13,Jawa Barat,Beauty & Skincare,Shopee,166220,2,332440,4.8,COD
+ORD-1708,2026-09-19,DKI Jakarta,Food & Beverage,WhatsApp Business,70178,2,140356,4.8,COD
+ORD-1709,2026-10-15,DKI Jakarta,Beauty & Skincare,Shopee,139242,3,417726,4.0,COD
+ORD-1710,2026-10-12,Jawa Barat,Gadgets & Accessories,TikTok Shop,259087,3,777261,5.0,Bank Transfer
+ORD-1711,2026-09-15,Jawa Tengah,Fashion & Apparel,TikTok Shop,121233,1,121233,4.8,Bank Transfer
+ORD-1712,2026-08-14,Jawa Timur,Food & Beverage,WhatsApp Business,33738,1,33738,4.5,QRIS
+ORD-1713,2026-09-05,Jawa Timur,Home & Living,TikTok Shop,496456,3,1489368,4.5,Virtual Account
+ORD-1714,2026-10-03,Jawa Tengah,Beauty & Skincare,Tokopedia,175865,1,175865,4.8,COD
+ORD-1715,2026-08-20,Jawa Timur,Home & Living,Shopee,460466,4,1841864,5.0,QRIS
+ORD-1716,2026-07-19,Jawa Timur,Gadgets & Accessories,TikTok Shop,430350,1,430350,4.5,Bank Transfer
+ORD-1717,2026-08-08,Jawa Barat,Food & Beverage,TikTok Shop,91275,1,91275,5.0,COD
+ORD-1718,2026-09-11,DKI Jakarta,Gadgets & Accessories,Shopee,453708,2,907416,4.8,COD
+ORD-1719,2026-07-24,DKI Jakarta,Gadgets & Accessories,WhatsApp Business,124205,4,496820,5.0,Virtual Account
+ORD-1720,2026-10-07,Jawa Barat,Fashion & Apparel,Shopee,345012,1,345012,4.8,Virtual Account
+ORD-1721,2026-09-25,DI Yogyakarta,Food & Beverage,Shopee,87514,2,175028,4.8,QRIS
+ORD-1722,2026-07-23,DKI Jakarta,Gadgets & Accessories,WhatsApp Business,266916,1,266916,4.8,Virtual Account
+ORD-1723,2026-07-21,Jawa Barat,Food & Beverage,WhatsApp Business,111840,1,111840,5.0,COD
+ORD-1724,2026-09-09,DKI Jakarta,Food & Beverage,Shopee,65115,1,65115,5.0,QRIS
+ORD-1725,2026-08-10,Jawa Barat,Food & Beverage,Tokopedia,66302,1,66302,4.0,COD
+ORD-1726,2026-09-09,Jawa Barat,Gadgets & Accessories,Shopee,474622,1,474622,4.0,Virtual Account
+ORD-1727,2026-08-24,Jawa Barat,Food & Beverage,Tokopedia,62265,1,62265,4.8,Virtual Account
+ORD-1728,2026-09-30,DKI Jakarta,Home & Living,Tokopedia,534352,5,2671760,5.0,Virtual Account
+ORD-1729,2026-09-30,Banten,Gadgets & Accessories,WhatsApp Business,262803,3,788409,5.0,QRIS
+ORD-1730,2026-10-09,DKI Jakarta,Food & Beverage,TikTok Shop,112759,1,112759,5.0,Bank Transfer
+ORD-1731,2026-08-04,DKI Jakarta,Food & Beverage,Tokopedia,74156,1,74156,4.0,COD
+ORD-1732,2026-10-11,Jawa Barat,Beauty & Skincare,Shopee,110282,1,110282,5.0,COD
+ORD-1733,2026-10-04,DI Yogyakarta,Home & Living,WhatsApp Business,241900,3,725700,5.0,Virtual Account
+ORD-1734,2026-09-29,DKI Jakarta,Food & Beverage,Shopee,38515,1,38515,4.8,COD
+ORD-1735,2026-07-19,Jawa Tengah,Gadgets & Accessories,Tokopedia,311578,3,934734,5.0,QRIS
+ORD-1736,2026-09-07,DKI Jakarta,Food & Beverage,TikTok Shop,42143,4,168572,5.0,Virtual Account
+ORD-1737,2026-09-01,Jawa Timur,Home & Living,Tokopedia,258272,1,258272,5.0,Virtual Account
+ORD-1738,2026-10-03,Sumatera Utara,Gadgets & Accessories,Tokopedia,432188,1,432188,5.0,COD
+ORD-1739,2026-07-22,DKI Jakarta,Beauty & Skincare,WhatsApp Business,128012,5,640060,5.0,Virtual Account
+ORD-1740,2026-09-18,Banten,Food & Beverage,Tokopedia,45836,1,45836,4.0,COD
+ORD-1741,2026-09-21,Jawa Barat,Gadgets & Accessories,Shopee,193029,2,386058,4.5,COD
+ORD-1742,2026-08-19,Bali,Food & Beverage,Tokopedia,109585,1,109585,5.0,Bank Transfer
+ORD-1743,2026-08-21,DKI Jakarta,Home & Living,Tokopedia,390886,2,781772,5.0,QRIS
+ORD-1744,2026-09-28,DI Yogyakarta,Food & Beverage,TikTok Shop,113741,1,113741,4.8,QRIS
+ORD-1745,2026-08-26,DKI Jakarta,Food & Beverage,WhatsApp Business,51627,4,206508,4.0,Virtual Account
+ORD-1746,2026-08-13,Jawa Barat,Home & Living,Shopee,739548,3,2218644,5.0,COD
+ORD-1747,2026-08-21,Jawa Barat,Fashion & Apparel,TikTok Shop,240837,1,240837,5.0,Virtual Account
+ORD-1748,2026-09-10,Jawa Barat,Home & Living,Shopee,565483,1,565483,4.5,COD
+ORD-1749,2026-07-21,Jawa Barat,Food & Beverage,Tokopedia,105730,3,317190,4.8,COD
+ORD-1750,2026-09-06,Jawa Timur,Food & Beverage,Tokopedia,47821,2,95642,4.0,Virtual Account
+ORD-1751,2026-07-30,DKI Jakarta,Home & Living,TikTok Shop,223777,4,895108,4.5,Bank Transfer
+ORD-1752,2026-09-21,Jawa Tengah,Beauty & Skincare,TikTok Shop,152326,4,609304,5.0,Virtual Account
+ORD-1753,2026-09-10,Jawa Timur,Gadgets & Accessories,TikTok Shop,483603,4,1934412,4.5,Bank Transfer
+ORD-1754,2026-07-23,Jawa Barat,Beauty & Skincare,Shopee,188069,3,564207,5.0,QRIS
+ORD-1755,2026-09-13,Jawa Barat,Home & Living,TikTok Shop,401763,3,1205289,4.5,QRIS
+ORD-1756,2026-08-04,Banten,Gadgets & Accessories,WhatsApp Business,355302,5,1776510,4.8,Bank Transfer
+ORD-1757,2026-09-03,DKI Jakarta,Food & Beverage,Tokopedia,90938,1,90938,4.5,QRIS
+ORD-1758,2026-08-10,DKI Jakarta,Home & Living,WhatsApp Business,599730,1,599730,4.5,COD
+ORD-1759,2026-10-05,DKI Jakarta,Home & Living,TikTok Shop,139236,1,139236,4.8,Virtual Account
+ORD-1760,2026-10-11,Jawa Barat,Gadgets & Accessories,Shopee,379061,1,379061,5.0,Virtual Account
+ORD-1761,2026-08-01,Jawa Barat,Fashion & Apparel,WhatsApp Business,274757,1,274757,4.0,QRIS
+ORD-1762,2026-09-22,DKI Jakarta,Gadgets & Accessories,Shopee,364941,1,364941,5.0,QRIS
+ORD-1763,2026-10-01,Jawa Barat,Beauty & Skincare,WhatsApp Business,115184,1,115184,5.0,Virtual Account
+ORD-1764,2026-09-07,Jawa Timur,Beauty & Skincare,Tokopedia,131515,1,131515,5.0,COD
+ORD-1765,2026-08-25,DI Yogyakarta,Food & Beverage,TikTok Shop,94711,5,473555,4.8,QRIS
+ORD-1766,2026-09-20,Jawa Barat,Fashion & Apparel,WhatsApp Business,234762,1,234762,5.0,QRIS
+ORD-1767,2026-08-25,DKI Jakarta,Gadgets & Accessories,TikTok Shop,230775,1,230775,4.8,QRIS
+ORD-1768,2026-09-06,Jawa Barat,Home & Living,WhatsApp Business,327436,3,982308,4.8,COD
+ORD-1769,2026-10-08,Jawa Tengah,Beauty & Skincare,Tokopedia,153920,4,615680,4.0,QRIS
+ORD-1770,2026-08-17,Banten,Beauty & Skincare,WhatsApp Business,91662,2,183324,5.0,Bank Transfer
+ORD-1771,2026-10-05,Jawa Tengah,Beauty & Skincare,TikTok Shop,243085,2,486170,5.0,Virtual Account
+ORD-1772,2026-09-07,Bali,Gadgets & Accessories,Shopee,140054,2,280108,4.8,Bank Transfer
+ORD-1773,2026-09-19,DKI Jakarta,Fashion & Apparel,Tokopedia,255427,3,766281,4.0,Virtual Account
+ORD-1774,2026-09-08,DKI Jakarta,Gadgets & Accessories,Shopee,268168,2,536336,4.5,Virtual Account
+ORD-1775,2026-08-25,Banten,Beauty & Skincare,TikTok Shop,202192,1,202192,4.8,Bank Transfer
+ORD-1776,2026-10-14,Jawa Tengah,Home & Living,Tokopedia,413045,2,826090,4.8,Bank Transfer
+ORD-1777,2026-10-05,Jawa Tengah,Gadgets & Accessories,Tokopedia,199001,1,199001,4.0,QRIS
+ORD-1778,2026-08-17,Jawa Timur,Home & Living,Shopee,405007,5,2025035,4.8,Virtual Account
+ORD-1779,2026-09-07,Banten,Fashion & Apparel,Tokopedia,331427,1,331427,5.0,Virtual Account
+ORD-1780,2026-10-07,Jawa Timur,Home & Living,Shopee,686789,1,686789,4.8,COD
+ORD-1781,2026-07-23,Jawa Tengah,Beauty & Skincare,TikTok Shop,101588,2,203176,5.0,Virtual Account
+ORD-1782,2026-08-16,Banten,Fashion & Apparel,WhatsApp Business,290757,2,581514,4.5,COD
+ORD-1783,2026-07-22,Jawa Tengah,Home & Living,TikTok Shop,327544,1,327544,4.8,COD
+ORD-1784,2026-07-28,Jawa Barat,Gadgets & Accessories,WhatsApp Business,405113,1,405113,5.0,Virtual Account
+ORD-1785,2026-09-12,Jawa Barat,Food & Beverage,TikTok Shop,38419,5,192095,4.5,Virtual Account
+ORD-1786,2026-08-04,Jawa Timur,Beauty & Skincare,WhatsApp Business,120134,1,120134,4.0,Bank Transfer
+ORD-1787,2026-09-30,Jawa Barat,Gadgets & Accessories,Shopee,189133,1,189133,5.0,Bank Transfer
+ORD-1788,2026-08-04,Banten,Gadgets & Accessories,Shopee,301842,4,1207368,5.0,COD
+ORD-1789,2026-10-10,DKI Jakarta,Gadgets & Accessories,WhatsApp Business,239103,1,239103,4.5,QRIS
+ORD-1790,2026-10-14,Banten,Food & Beverage,TikTok Shop,79800,1,79800,5.0,COD
+ORD-1791,2026-09-25,Jawa Tengah,Fashion & Apparel,TikTok Shop,235020,1,235020,5.0,QRIS
+ORD-1792,2026-08-21,Sumatera Utara,Beauty & Skincare,WhatsApp Business,239607,2,479214,4.8,QRIS
+ORD-1793,2026-07-24,DKI Jakarta,Fashion & Apparel,WhatsApp Business,275003,2,550006,4.0,QRIS
+ORD-1794,2026-09-09,Jawa Timur,Home & Living,WhatsApp Business,591874,2,1183748,5.0,QRIS
+ORD-1795,2026-09-22,Jawa Tengah,Food & Beverage,WhatsApp Business,102994,3,308982,4.8,COD
+ORD-1796,2026-10-03,DKI Jakarta,Beauty & Skincare,TikTok Shop,210185,5,1050925,5.0,COD
+ORD-1797,2026-08-30,Banten,Gadgets & Accessories,Tokopedia,421380,2,842760,4.8,QRIS
+ORD-1798,2026-10-01,Jawa Barat,Fashion & Apparel,WhatsApp Business,209479,2,418958,4.0,Virtual Account
+ORD-1799,2026-08-10,DKI Jakarta,Food & Beverage,TikTok Shop,51505,2,103010,4.8,Virtual Account
+ORD-1800,2026-09-11,DKI Jakarta,Beauty & Skincare,Tokopedia,149397,1,149397,4.8,Bank Transfer
+ORD-1801,2026-10-06,Jawa Barat,Food & Beverage,WhatsApp Business,85102,1,85102,4.8,QRIS
+ORD-1802,2026-10-01,DKI Jakarta,Beauty & Skincare,Shopee,231413,3,694239,5.0,Virtual Account
+ORD-1803,2026-08-03,DKI Jakarta,Home & Living,Tokopedia,257255,2,514510,5.0,QRIS
+ORD-1804,2026-07-26,Jawa Barat,Gadgets & Accessories,TikTok Shop,251893,1,251893,5.0,Virtual Account
+ORD-1805,2026-07-22,Jawa Barat,Food & Beverage,TikTok Shop,40994,2,81988,5.0,Virtual Account
+ORD-1806,2026-07-22,DKI Jakarta,Beauty & Skincare,Shopee,163153,2,326306,4.8,COD
+ORD-1807,2026-09-12,DKI Jakarta,Home & Living,Tokopedia,361420,2,722840,5.0,Bank Transfer
+ORD-1808,2026-08-12,Jawa Barat,Gadgets & Accessories,TikTok Shop,191439,1,191439,5.0,Virtual Account
+ORD-1809,2026-09-23,DKI Jakarta,Gadgets & Accessories,TikTok Shop,155185,5,775925,4.8,COD
+ORD-1810,2026-09-23,Jawa Barat,Beauty & Skincare,Tokopedia,107692,3,323076,4.5,COD
+ORD-1811,2026-08-14,Jawa Barat,Beauty & Skincare,WhatsApp Business,85187,2,170374,5.0,COD
+ORD-1812,2026-08-19,DKI Jakarta,Fashion & Apparel,Tokopedia,92509,5,462545,4.0,Bank Transfer
+ORD-1813,2026-09-06,Banten,Food & Beverage,TikTok Shop,50022,1,50022,5.0,QRIS
+ORD-1814,2026-09-17,Bali,Fashion & Apparel,TikTok Shop,208058,1,208058,4.0,Virtual Account
+ORD-1815,2026-09-07,DKI Jakarta,Gadgets & Accessories,WhatsApp Business,255380,3,766140,4.8,Virtual Account
+ORD-1816,2026-08-06,Jawa Tengah,Food & Beverage,Shopee,72779,2,145558,4.0,COD
+ORD-1817,2026-08-08,Bali,Fashion & Apparel,TikTok Shop,329957,3,989871,5.0,Virtual Account
+ORD-1818,2026-07-23,Jawa Timur,Home & Living,Shopee,246692,1,246692,5.0,COD
+ORD-1819,2026-10-08,DKI Jakarta,Gadgets & Accessories,TikTok Shop,211838,3,635514,4.8,COD
+ORD-1820,2026-08-29,Jawa Barat,Gadgets & Accessories,Shopee,93162,3,279486,4.5,Virtual Account
+ORD-1821,2026-09-17,Jawa Barat,Fashion & Apparel,TikTok Shop,143359,1,143359,5.0,COD
+ORD-1822,2026-08-09,Jawa Barat,Beauty & Skincare,Shopee,138916,2,277832,4.0,Bank Transfer
+ORD-1823,2026-08-08,Banten,Food & Beverage,Tokopedia,86192,1,86192,5.0,QRIS
+ORD-1824,2026-09-26,Jawa Timur,Home & Living,WhatsApp Business,207044,1,207044,4.8,QRIS
+ORD-1825,2026-07-19,Banten,Home & Living,WhatsApp Business,219156,1,219156,4.8,Virtual Account
+ORD-1826,2026-07-23,Jawa Timur,Gadgets & Accessories,Shopee,166528,2,333056,4.8,QRIS
+ORD-1827,2026-07-30,Jawa Tengah,Gadgets & Accessories,Shopee,419705,1,419705,4.5,Bank Transfer
+ORD-1828,2026-10-16,DKI Jakarta,Fashion & Apparel,Tokopedia,156494,2,312988,4.5,QRIS
+ORD-1829,2026-09-02,DKI Jakarta,Beauty & Skincare,Shopee,214404,2,428808,5.0,QRIS
+ORD-1830,2026-08-21,Banten,Home & Living,Shopee,197382,5,986910,4.5,QRIS
+ORD-1831,2026-09-05,DKI Jakarta,Beauty & Skincare,Tokopedia,210371,5,1051855,4.5,QRIS
+ORD-1832,2026-10-04,Jawa Tengah,Beauty & Skincare,WhatsApp Business,96015,1,96015,5.0,Virtual Account
+ORD-1833,2026-10-16,DKI Jakarta,Food & Beverage,TikTok Shop,64451,1,64451,4.5,COD
+ORD-1834,2026-09-01,Jawa Tengah,Beauty & Skincare,Shopee,145119,2,290238,4.8,Bank Transfer
+ORD-1835,2026-08-14,Banten,Food & Beverage,TikTok Shop,42706,4,170824,4.5,COD
+ORD-1836,2026-09-29,DKI Jakarta,Food & Beverage,TikTok Shop,106110,3,318330,4.8,QRIS
+ORD-1837,2026-08-13,DKI Jakarta,Fashion & Apparel,Shopee,222631,2,445262,5.0,QRIS
+ORD-1838,2026-09-03,DKI Jakarta,Home & Living,WhatsApp Business,689428,4,2757712,5.0,Virtual Account
+ORD-1839,2026-10-12,Jawa Barat,Beauty & Skincare,WhatsApp Business,84808,2,169616,4.8,Virtual Account
+ORD-1840,2026-09-12,Jawa Barat,Gadgets & Accessories,WhatsApp Business,356709,1,356709,5.0,Bank Transfer
+ORD-1841,2026-09-19,Banten,Home & Living,WhatsApp Business,733123,1,733123,4.5,COD
+ORD-1842,2026-09-04,DKI Jakarta,Food & Beverage,Shopee,26044,1,26044,4.0,Virtual Account
+ORD-1843,2026-09-17,DKI Jakarta,Gadgets & Accessories,Shopee,51620,1,51620,4.8,Virtual Account
+ORD-1844,2026-10-07,DKI Jakarta,Fashion & Apparel,Tokopedia,97259,1,97259,4.8,Virtual Account
+ORD-1845,2026-08-13,Jawa Timur,Food & Beverage,TikTok Shop,105818,2,211636,4.5,Virtual Account
+ORD-1846,2026-08-23,Jawa Tengah,Gadgets & Accessories,Shopee,497875,2,995750,4.8,COD
+ORD-1847,2026-07-19,Jawa Barat,Beauty & Skincare,Tokopedia,124233,4,496932,5.0,QRIS
+ORD-1848,2026-07-26,DKI Jakarta,Gadgets & Accessories,Shopee,436480,1,436480,4.0,QRIS
+ORD-1849,2026-09-08,DKI Jakarta,Fashion & Apparel,Tokopedia,227472,1,227472,5.0,QRIS
+ORD-1850,2026-10-05,DKI Jakarta,Gadgets & Accessories,WhatsApp Business,489025,1,489025,5.0,Virtual Account
+ORD-1851,2026-09-03,DKI Jakarta,Beauty & Skincare,TikTok Shop,201613,1,201613,4.0,Virtual Account
+ORD-1852,2026-09-12,Jawa Timur,Food & Beverage,TikTok Shop,48097,1,48097,5.0,COD
+ORD-1853,2026-10-12,DKI Jakarta,Fashion & Apparel,WhatsApp Business,259100,1,259100,5.0,COD
+ORD-1854,2026-08-01,Jawa Timur,Gadgets & Accessories,TikTok Shop,190319,2,380638,4.8,QRIS
+ORD-1855,2026-10-16,DKI Jakarta,Gadgets & Accessories,TikTok Shop,134664,1,134664,4.0,Virtual Account
+ORD-1856,2026-08-15,Jawa Barat,Beauty & Skincare,Shopee,149864,2,299728,5.0,COD
+ORD-1857,2026-10-13,DKI Jakarta,Fashion & Apparel,Shopee,147255,2,294510,5.0,QRIS
+ORD-1858,2026-10-04,DKI Jakarta,Gadgets & Accessories,Shopee,418697,1,418697,5.0,QRIS
+ORD-1859,2026-10-14,Bali,Fashion & Apparel,Shopee,220693,1,220693,4.8,QRIS
+ORD-1860,2026-07-20,Jawa Barat,Gadgets & Accessories,TikTok Shop,230536,3,691608,4.8,Virtual Account
+ORD-1861,2026-08-13,Jawa Tengah,Food & Beverage,Tokopedia,68723,1,68723,5.0,Virtual Account
+ORD-1862,2026-08-01,Jawa Timur,Food & Beverage,Shopee,27147,1,27147,4.0,QRIS
+ORD-1863,2026-09-15,Banten,Beauty & Skincare,Shopee,103502,1,103502,5.0,Virtual Account
+ORD-1864,2026-09-12,DI Yogyakarta,Fashion & Apparel,TikTok Shop,161296,2,322592,4.8,COD
+ORD-1865,2026-07-25,DKI Jakarta,Beauty & Skincare,TikTok Shop,111991,2,223982,4.8,Bank Transfer
+ORD-1866,2026-07-21,Jawa Barat,Food & Beverage,Shopee,102990,2,205980,4.5,QRIS
+ORD-1867,2026-08-10,Banten,Fashion & Apparel,TikTok Shop,210958,1,210958,4.5,COD
+ORD-1868,2026-08-05,Jawa Barat,Food & Beverage,WhatsApp Business,85356,2,170712,4.8,QRIS
+ORD-1869,2026-08-25,Jawa Tengah,Home & Living,Tokopedia,475574,1,475574,5.0,Bank Transfer
+ORD-1870,2026-08-02,DKI Jakarta,Food & Beverage,WhatsApp Business,64462,2,128924,4.8,QRIS
+ORD-1871,2026-09-20,DKI Jakarta,Food & Beverage,Tokopedia,52181,4,208724,4.0,Virtual Account
+ORD-1872,2026-10-15,Jawa Timur,Fashion & Apparel,WhatsApp Business,311361,1,311361,4.5,COD
+ORD-1873,2026-08-15,DKI Jakarta,Food & Beverage,TikTok Shop,83466,2,166932,5.0,COD
+ORD-1874,2026-09-30,Jawa Barat,Food & Beverage,Tokopedia,47760,1,47760,4.8,QRIS
+ORD-1875,2026-08-26,DKI Jakarta,Home & Living,Shopee,407980,4,1631920,5.0,QRIS
+ORD-1876,2026-09-13,DKI Jakarta,Beauty & Skincare,TikTok Shop,126407,3,379221,4.8,Virtual Account
+ORD-1877,2026-08-04,Jawa Timur,Beauty & Skincare,TikTok Shop,120246,1,120246,5.0,Virtual Account
+ORD-1878,2026-10-12,Sumatera Utara,Fashion & Apparel,Shopee,131017,1,131017,4.8,COD
+ORD-1879,2026-10-16,DKI Jakarta,Beauty & Skincare,Shopee,144346,2,288692,4.5,COD
+ORD-1880,2026-08-31,DKI Jakarta,Home & Living,TikTok Shop,167560,1,167560,5.0,Virtual Account
+ORD-1881,2026-08-12,Sumatera Utara,Beauty & Skincare,Shopee,100390,5,501950,5.0,COD
+ORD-1882,2026-08-04,Jawa Barat,Gadgets & Accessories,TikTok Shop,239773,2,479546,4.0,Virtual Account
+ORD-1883,2026-07-31,DKI Jakarta,Food & Beverage,Shopee,98302,1,98302,4.5,QRIS
+ORD-1884,2026-10-10,Banten,Beauty & Skincare,Shopee,249679,1,249679,4.0,Bank Transfer
+ORD-1885,2026-08-12,Jawa Timur,Beauty & Skincare,WhatsApp Business,182851,1,182851,5.0,Virtual Account
+ORD-1886,2026-09-24,DKI Jakarta,Gadgets & Accessories,Tokopedia,186260,1,186260,4.5,QRIS
+ORD-1887,2026-07-28,Jawa Barat,Fashion & Apparel,TikTok Shop,80796,5,403980,4.8,Virtual Account
+ORD-1888,2026-09-23,Jawa Barat,Fashion & Apparel,Shopee,143322,1,143322,4.8,COD
+ORD-1889,2026-08-05,Jawa Barat,Home & Living,Tokopedia,487932,2,975864,5.0,QRIS
+ORD-1890,2026-10-12,Jawa Timur,Fashion & Apparel,Shopee,127127,1,127127,4.8,QRIS
+ORD-1891,2026-08-21,Banten,Fashion & Apparel,TikTok Shop,172170,2,344340,4.5,QRIS
+ORD-1892,2026-07-26,Sumatera Utara,Home & Living,Shopee,632245,1,632245,4.0,QRIS
+ORD-1893,2026-08-27,DKI Jakarta,Home & Living,Tokopedia,627831,2,1255662,5.0,COD
+ORD-1894,2026-10-09,Jawa Barat,Home & Living,WhatsApp Business,605329,1,605329,4.5,COD
+ORD-1895,2026-08-29,DKI Jakarta,Fashion & Apparel,Shopee,172247,2,344494,4.0,COD
+ORD-1896,2026-08-28,Jawa Barat,Food & Beverage,TikTok Shop,35929,2,71858,4.8,COD
+ORD-1897,2026-07-24,Jawa Tengah,Home & Living,Tokopedia,472949,1,472949,5.0,Bank Transfer
+ORD-1898,2026-09-08,Banten,Food & Beverage,TikTok Shop,60929,1,60929,4.5,COD
+ORD-1899,2026-08-13,Jawa Barat,Food & Beverage,Shopee,102462,3,307386,4.8,QRIS
+ORD-1900,2026-09-20,DKI Jakarta,Gadgets & Accessories,Tokopedia,437128,1,437128,4.8,Bank Transfer
+ORD-1901,2026-09-15,Jawa Barat,Beauty & Skincare,Tokopedia,153863,1,153863,4.8,Bank Transfer
+ORD-1902,2026-09-12,Banten,Food & Beverage,Tokopedia,26951,1,26951,4.8,QRIS
+ORD-1903,2026-09-15,DKI Jakarta,Beauty & Skincare,WhatsApp Business,50595,2,101190,5.0,QRIS
+ORD-1904,2026-09-26,Jawa Tengah,Beauty & Skincare,TikTok Shop,204841,1,204841,4.8,COD
+ORD-1905,2026-08-20,DKI Jakarta,Beauty & Skincare,Shopee,116983,1,116983,4.5,COD
+ORD-1906,2026-09-09,Jawa Timur,Beauty & Skincare,WhatsApp Business,131029,1,131029,5.0,COD
+ORD-1907,2026-08-09,DKI Jakarta,Home & Living,Tokopedia,148037,1,148037,5.0,QRIS
+ORD-1908,2026-08-08,Jawa Barat,Fashion & Apparel,Tokopedia,298457,2,596914,4.8,Virtual Account
+ORD-1909,2026-09-26,Banten,Food & Beverage,Shopee,113877,3,341631,4.8,Bank Transfer
+ORD-1910,2026-09-26,DKI Jakarta,Gadgets & Accessories,Shopee,277600,2,555200,4.5,COD
+ORD-1911,2026-07-22,DKI Jakarta,Gadgets & Accessories,TikTok Shop,127658,1,127658,5.0,Virtual Account
+ORD-1912,2026-10-01,Jawa Barat,Food & Beverage,Tokopedia,82480,2,164960,5.0,Virtual Account
+ORD-1913,2026-09-18,DKI Jakarta,Food & Beverage,Shopee,77066,1,77066,5.0,Bank Transfer
+ORD-1914,2026-09-18,Banten,Home & Living,Shopee,706603,2,1413206,5.0,Bank Transfer
+ORD-1915,2026-08-11,DKI Jakarta,Gadgets & Accessories,Shopee,441065,1,441065,5.0,Bank Transfer
+ORD-1916,2026-09-11,Jawa Timur,Food & Beverage,Shopee,57826,3,173478,4.8,Bank Transfer
+ORD-1917,2026-07-27,Jawa Barat,Beauty & Skincare,WhatsApp Business,157658,2,315316,4.5,QRIS
+ORD-1918,2026-07-21,Jawa Barat,Food & Beverage,TikTok Shop,110474,1,110474,5.0,QRIS
+ORD-1919,2026-08-18,DKI Jakarta,Home & Living,TikTok Shop,198185,2,396370,4.5,Bank Transfer
+ORD-1920,2026-08-27,Banten,Home & Living,WhatsApp Business,420580,1,420580,4.8,COD
+ORD-1921,2026-08-23,Jawa Barat,Beauty & Skincare,TikTok Shop,79332,1,79332,4.0,QRIS
+ORD-1922,2026-08-11,Jawa Timur,Fashion & Apparel,TikTok Shop,338685,2,677370,4.8,Bank Transfer
+ORD-1923,2026-07-24,DKI Jakarta,Gadgets & Accessories,Shopee,198878,2,397756,4.5,Virtual Account
+ORD-1924,2026-09-22,DKI Jakarta,Home & Living,Shopee,518973,3,1556919,5.0,COD
+ORD-1925,2026-10-10,DKI Jakarta,Beauty & Skincare,Shopee,238644,1,238644,4.5,COD
+ORD-1926,2026-10-01,Bali,Beauty & Skincare,Shopee,85863,1,85863,5.0,Virtual Account
+ORD-1927,2026-07-22,DKI Jakarta,Home & Living,WhatsApp Business,303462,1,303462,5.0,COD
+ORD-1928,2026-10-05,Jawa Timur,Beauty & Skincare,WhatsApp Business,178041,1,178041,4.8,QRIS
+ORD-1929,2026-07-24,Jawa Barat,Food & Beverage,Shopee,64220,1,64220,4.8,QRIS
+ORD-1930,2026-09-07,Jawa Tengah,Fashion & Apparel,Shopee,302655,1,302655,4.8,Virtual Account
+ORD-1931,2026-09-18,DKI Jakarta,Food & Beverage,TikTok Shop,93519,1,93519,4.8,Bank Transfer
+ORD-1932,2026-09-13,DKI Jakarta,Gadgets & Accessories,Shopee,455123,1,455123,4.8,Virtual Account
+ORD-1933,2026-09-22,Jawa Barat,Home & Living,Tokopedia,277129,5,1385645,4.5,Bank Transfer
+ORD-1934,2026-10-05,Jawa Barat,Beauty & Skincare,TikTok Shop,52413,1,52413,5.0,Bank Transfer
+ORD-1935,2026-10-01,Jawa Barat,Beauty & Skincare,Shopee,218751,1,218751,4.0,QRIS
+ORD-1936,2026-07-26,DKI Jakarta,Fashion & Apparel,TikTok Shop,191854,1,191854,4.8,Bank Transfer
+ORD-1937,2026-08-13,DKI Jakarta,Home & Living,TikTok Shop,616379,2,1232758,5.0,Bank Transfer
+ORD-1938,2026-09-07,DKI Jakarta,Food & Beverage,TikTok Shop,30141,1,30141,5.0,Virtual Account
+ORD-1939,2026-09-01,Banten,Food & Beverage,WhatsApp Business,28845,1,28845,4.8,Virtual Account
+ORD-1940,2026-08-31,Jawa Timur,Food & Beverage,Tokopedia,82089,1,82089,5.0,Bank Transfer
+ORD-1941,2026-07-23,Sumatera Utara,Gadgets & Accessories,Shopee,494256,3,1482768,4.5,COD
+ORD-1942,2026-09-26,Banten,Beauty & Skincare,WhatsApp Business,72784,2,145568,4.5,Bank Transfer
+ORD-1943,2026-08-13,Jawa Timur,Gadgets & Accessories,Tokopedia,327255,5,1636275,4.8,Virtual Account
+ORD-1944,2026-09-24,DKI Jakarta,Beauty & Skincare,Shopee,205086,1,205086,5.0,Bank Transfer
+ORD-1945,2026-08-06,DI Yogyakarta,Home & Living,Shopee,135757,2,271514,4.8,Bank Transfer
+ORD-1946,2026-10-10,Jawa Tengah,Beauty & Skincare,TikTok Shop,231549,1,231549,4.8,QRIS
+ORD-1947,2026-08-07,Jawa Barat,Food & Beverage,WhatsApp Business,43302,1,43302,4.8,Bank Transfer
+ORD-1948,2026-07-30,Jawa Timur,Gadgets & Accessories,Tokopedia,322827,1,322827,4.8,QRIS
+ORD-1949,2026-09-03,Jawa Barat,Gadgets & Accessories,Shopee,311879,2,623758,4.8,Virtual Account
+ORD-1950,2026-07-19,DKI Jakarta,Food & Beverage,Tokopedia,98960,1,98960,4.8,QRIS
+ORD-1951,2026-10-16,DKI Jakarta,Fashion & Apparel,Tokopedia,142005,2,284010,4.8,Bank Transfer
+ORD-1952,2026-08-01,DKI Jakarta,Fashion & Apparel,WhatsApp Business,155771,4,623084,5.0,Virtual Account
+ORD-1953,2026-09-20,DKI Jakarta,Home & Living,TikTok Shop,332682,3,998046,5.0,Virtual Account
+ORD-1954,2026-08-25,Banten,Gadgets & Accessories,TikTok Shop,338480,1,338480,5.0,COD
+ORD-1955,2026-08-24,DKI Jakarta,Beauty & Skincare,TikTok Shop,77197,5,385985,4.8,Bank Transfer
+ORD-1956,2026-07-29,Jawa Barat,Gadgets & Accessories,Tokopedia,366790,1,366790,4.8,Bank Transfer
+ORD-1957,2026-10-03,DKI Jakarta,Gadgets & Accessories,TikTok Shop,386497,2,772994,4.8,QRIS
+ORD-1958,2026-07-21,DKI Jakarta,Fashion & Apparel,WhatsApp Business,345047,4,1380188,4.5,Virtual Account
+ORD-1959,2026-08-20,DKI Jakarta,Gadgets & Accessories,Tokopedia,117300,5,586500,5.0,Bank Transfer
+ORD-1960,2026-07-24,Jawa Timur,Home & Living,TikTok Shop,478226,1,478226,4.8,QRIS
+ORD-1961,2026-09-06,Jawa Timur,Beauty & Skincare,Shopee,233844,3,701532,4.8,QRIS
+ORD-1962,2026-07-28,Jawa Timur,Home & Living,TikTok Shop,278157,1,278157,4.8,QRIS
+ORD-1963,2026-07-23,Jawa Timur,Beauty & Skincare,WhatsApp Business,248139,3,744417,5.0,COD
+ORD-1964,2026-08-10,DI Yogyakarta,Gadgets & Accessories,Shopee,105823,1,105823,5.0,COD
+ORD-1965,2026-07-28,Jawa Barat,Gadgets & Accessories,Tokopedia,302515,1,302515,4.8,QRIS
+ORD-1966,2026-08-31,Banten,Fashion & Apparel,TikTok Shop,323495,1,323495,5.0,QRIS
+ORD-1967,2026-07-20,Jawa Tengah,Food & Beverage,WhatsApp Business,45595,1,45595,4.5,Bank Transfer
+ORD-1968,2026-07-31,Jawa Barat,Gadgets & Accessories,Shopee,63703,2,127406,4.8,COD
+ORD-1969,2026-08-27,DKI Jakarta,Beauty & Skincare,Shopee,164296,2,328592,5.0,COD
+ORD-1970,2026-07-20,Jawa Timur,Gadgets & Accessories,TikTok Shop,381065,1,381065,4.8,QRIS
+ORD-1971,2026-10-10,DKI Jakarta,Beauty & Skincare,WhatsApp Business,157853,2,315706,4.8,Bank Transfer
+ORD-1972,2026-09-21,Sumatera Utara,Fashion & Apparel,TikTok Shop,299309,2,598618,4.0,Bank Transfer
+ORD-1973,2026-09-19,DKI Jakarta,Fashion & Apparel,Tokopedia,282866,1,282866,4.8,Bank Transfer
+ORD-1974,2026-09-29,DKI Jakarta,Home & Living,Shopee,250635,1,250635,4.5,QRIS
+ORD-1975,2026-08-04,Sumatera Utara,Food & Beverage,TikTok Shop,42221,5,211105,5.0,Virtual Account
+ORD-1976,2026-07-27,DI Yogyakarta,Gadgets & Accessories,Tokopedia,222903,2,445806,4.5,COD
+ORD-1977,2026-10-01,Jawa Timur,Food & Beverage,Tokopedia,110311,1,110311,4.5,Bank Transfer
+ORD-1978,2026-08-02,Jawa Barat,Food & Beverage,WhatsApp Business,67495,2,134990,5.0,COD
+ORD-1979,2026-08-11,DKI Jakarta,Fashion & Apparel,Tokopedia,157212,3,471636,4.8,COD
+ORD-1980,2026-08-25,DKI Jakarta,Food & Beverage,Tokopedia,39429,2,78858,5.0,QRIS
+ORD-1981,2026-08-22,Banten,Fashion & Apparel,WhatsApp Business,112310,1,112310,4.8,Bank Transfer
+ORD-1982,2026-09-05,DKI Jakarta,Beauty & Skincare,Shopee,160502,1,160502,5.0,QRIS
+ORD-1983,2026-09-25,DKI Jakarta,Beauty & Skincare,TikTok Shop,57869,3,173607,5.0,QRIS
+ORD-1984,2026-09-18,Bali,Beauty & Skincare,Shopee,76442,1,76442,5.0,Bank Transfer
+ORD-1985,2026-09-16,Jawa Timur,Gadgets & Accessories,Tokopedia,208635,2,417270,4.0,QRIS
+ORD-1986,2026-09-06,Jawa Barat,Gadgets & Accessories,Shopee,135501,1,135501,4.8,QRIS
+ORD-1987,2026-10-04,DKI Jakarta,Fashion & Apparel,TikTok Shop,91709,1,91709,4.0,Bank Transfer
+ORD-1988,2026-10-01,Jawa Tengah,Home & Living,Shopee,251152,2,502304,4.8,Virtual Account
+ORD-1989,2026-07-27,Jawa Barat,Fashion & Apparel,Tokopedia,309622,2,619244,4.5,QRIS
+ORD-1990,2026-08-21,Jawa Tengah,Beauty & Skincare,Tokopedia,227484,1,227484,4.5,QRIS
+ORD-1991,2026-10-02,DKI Jakarta,Fashion & Apparel,Shopee,138888,1,138888,5.0,Bank Transfer
+ORD-1992,2026-08-22,Sumatera Utara,Gadgets & Accessories,Tokopedia,371020,1,371020,4.8,Virtual Account
+ORD-1993,2026-07-19,DKI Jakarta,Home & Living,Shopee,346476,2,692952,4.8,COD
+ORD-1994,2026-08-27,Jawa Tengah,Home & Living,Tokopedia,541168,1,541168,5.0,Virtual Account
+ORD-1995,2026-09-20,DI Yogyakarta,Home & Living,Tokopedia,297127,2,594254,5.0,COD
+ORD-1996,2026-08-09,Sumatera Utara,Home & Living,Shopee,728373,1,728373,4.8,Virtual Account
+ORD-1997,2026-09-16,DKI Jakarta,Food & Beverage,Tokopedia,103200,1,103200,4.8,Bank Transfer
+ORD-1998,2026-09-20,Jawa Barat,Fashion & Apparel,Shopee,96182,1,96182,4.5,Bank Transfer
+ORD-1999,2026-09-28,DI Yogyakarta,Fashion & Apparel,WhatsApp Business,209484,2,418968,4.8,QRIS
+ORD-2000,2026-07-29,Banten,Fashion & Apparel,Shopee,233058,3,699174,5.0,Virtual Account
+ORD-2001,2026-08-01,Jawa Tengah,Beauty & Skincare,Shopee,91708,1,91708,5.0,QRIS
+ORD-2002,2026-09-16,Jawa Barat,Fashion & Apparel,WhatsApp Business,311668,1,311668,4.5,QRIS
+ORD-2003,2026-08-17,Jawa Barat,Gadgets & Accessories,Shopee,325170,2,650340,5.0,Virtual Account
+ORD-2004,2026-08-22,DKI Jakarta,Home & Living,Shopee,660113,2,1320226,4.8,Bank Transfer
+ORD-2005,2026-10-11,DKI Jakarta,Fashion & Apparel,Tokopedia,101751,2,203502,4.5,Virtual Account
+ORD-2006,2026-08-24,Jawa Barat,Food & Beverage,Shopee,51370,2,102740,5.0,Bank Transfer
+ORD-2007,2026-07-23,DKI Jakarta,Beauty & Skincare,TikTok Shop,210371,2,420742,4.5,QRIS
+ORD-2008,2026-10-09,DI Yogyakarta,Food & Beverage,TikTok Shop,45369,1,45369,4.8,Bank Transfer
+ORD-2009,2026-10-04,Jawa Barat,Home & Living,Shopee,610790,1,610790,4.5,Bank Transfer
+ORD-2010,2026-08-13,DKI Jakarta,Food & Beverage,WhatsApp Business,60282,1,60282,5.0,QRIS
+ORD-2011,2026-09-18,DI Yogyakarta,Home & Living,TikTok Shop,346549,1,346549,5.0,COD
+ORD-2012,2026-07-22,DKI Jakarta,Home & Living,Tokopedia,190135,3,570405,4.8,Bank Transfer
+ORD-2013,2026-10-15,Jawa Timur,Gadgets & Accessories,WhatsApp Business,472593,2,945186,5.0,Virtual Account
+ORD-2014,2026-08-29,DKI Jakarta,Beauty & Skincare,TikTok Shop,215404,2,430808,4.0,Bank Transfer
+ORD-2015,2026-10-15,Jawa Barat,Home & Living,Tokopedia,215074,1,215074,5.0,Bank Transfer
+ORD-2016,2026-08-05,DKI Jakarta,Food & Beverage,Shopee,101575,1,101575,5.0,COD
+ORD-2017,2026-08-27,Jawa Barat,Gadgets & Accessories,Shopee,151505,1,151505,4.0,Virtual Account
+ORD-2018,2026-09-28,DKI Jakarta,Beauty & Skincare,Tokopedia,66493,3,199479,5.0,Virtual Account
+ORD-2019,2026-08-26,Jawa Barat,Home & Living,WhatsApp Business,641228,1,641228,4.5,COD
+ORD-2020,2026-08-01,Jawa Tengah,Home & Living,Shopee,643910,1,643910,4.0,Bank Transfer
+ORD-2021,2026-08-19,Jawa Barat,Gadgets & Accessories,WhatsApp Business,50370,1,50370,5.0,QRIS
+ORD-2022,2026-09-07,Jawa Barat,Fashion & Apparel,WhatsApp Business,83572,5,417860,5.0,Virtual Account
+ORD-2023,2026-08-25,Jawa Barat,Food & Beverage,TikTok Shop,68209,1,68209,4.5,QRIS
+ORD-2024,2026-08-10,Jawa Timur,Fashion & Apparel,Tokopedia,132175,4,528700,4.5,Virtual Account
+ORD-2025,2026-09-19,DKI Jakarta,Home & Living,TikTok Shop,353564,2,707128,5.0,QRIS
+ORD-2026,2026-08-02,Jawa Barat,Beauty & Skincare,Tokopedia,126693,2,253386,4.8,QRIS
+ORD-2027,2026-08-12,DKI Jakarta,Home & Living,Tokopedia,390693,2,781386,5.0,Bank Transfer
+ORD-2028,2026-08-04,DKI Jakarta,Fashion & Apparel,Tokopedia,159667,1,159667,4.5,Bank Transfer
+ORD-2029,2026-09-22,Jawa Tengah,Gadgets & Accessories,Shopee,461811,1,461811,5.0,Virtual Account
+ORD-2030,2026-10-04,Jawa Barat,Gadgets & Accessories,WhatsApp Business,307231,1,307231,4.8,COD
+ORD-2031,2026-09-09,DKI Jakarta,Food & Beverage,Tokopedia,63409,1,63409,4.8,QRIS
+ORD-2032,2026-09-07,Jawa Barat,Fashion & Apparel,TikTok Shop,97419,3,292257,5.0,COD
+ORD-2033,2026-08-26,Banten,Fashion & Apparel,Shopee,234413,1,234413,4.5,Bank Transfer
+ORD-2034,2026-09-07,Jawa Timur,Fashion & Apparel,WhatsApp Business,187150,1,187150,4.0,Bank Transfer
+ORD-2035,2026-09-26,Jawa Barat,Gadgets & Accessories,Shopee,291435,1,291435,4.8,Bank Transfer
+ORD-2036,2026-07-24,Jawa Barat,Fashion & Apparel,TikTok Shop,284417,3,853251,4.8,QRIS
+ORD-2037,2026-09-23,DKI Jakarta,Fashion & Apparel,TikTok Shop,251687,1,251687,4.5,COD
+ORD-2038,2026-07-25,DKI Jakarta,Food & Beverage,Tokopedia,55984,3,167952,5.0,Bank Transfer
+ORD-2039,2026-09-07,Sumatera Utara,Food & Beverage,Shopee,34969,3,104907,4.5,Virtual Account
+ORD-2040,2026-09-28,DKI Jakarta,Home & Living,Tokopedia,657639,4,2630556,4.0,QRIS
+ORD-2041,2026-08-29,Jawa Barat,Food & Beverage,Shopee,44569,1,44569,4.5,QRIS
+ORD-2042,2026-09-20,Jawa Timur,Beauty & Skincare,WhatsApp Business,116324,2,232648,5.0,COD
+ORD-2043,2026-08-02,Jawa Tengah,Fashion & Apparel,Shopee,283542,1,283542,4.8,Bank Transfer
+ORD-2044,2026-08-16,Jawa Timur,Home & Living,Shopee,503311,1,503311,5.0,Bank Transfer
+ORD-2045,2026-08-20,Jawa Timur,Gadgets & Accessories,TikTok Shop,237805,5,1189025,5.0,COD
+ORD-2046,2026-08-14,Jawa Barat,Fashion & Apparel,TikTok Shop,230049,2,460098,4.8,Bank Transfer
+ORD-2047,2026-08-23,Jawa Barat,Food & Beverage,Shopee,57328,5,286640,4.8,COD
+ORD-2048,2026-08-16,DKI Jakarta,Gadgets & Accessories,WhatsApp Business,437527,1,437527,4.8,Virtual Account
+ORD-2049,2026-08-25,DKI Jakarta,Food & Beverage,WhatsApp Business,117264,1,117264,4.0,QRIS
+ORD-2050,2026-09-13,Jawa Barat,Food & Beverage,TikTok Shop,92853,1,92853,4.8,Bank Transfer
+ORD-2051,2026-08-14,DKI Jakarta,Food & Beverage,TikTok Shop,32848,4,131392,5.0,QRIS
+ORD-2052,2026-09-11,Jawa Barat,Food & Beverage,Tokopedia,36294,3,108882,4.0,Virtual Account
+ORD-2053,2026-08-20,Jawa Barat,Fashion & Apparel,TikTok Shop,329174,2,658348,5.0,QRIS
+ORD-2054,2026-09-24,Jawa Barat,Home & Living,Tokopedia,167421,1,167421,5.0,Virtual Account
+ORD-2055,2026-10-12,DKI Jakarta,Beauty & Skincare,Tokopedia,143293,1,143293,4.8,Bank Transfer
+ORD-2056,2026-09-22,DI Yogyakarta,Home & Living,WhatsApp Business,312826,1,312826,4.8,COD
+ORD-2057,2026-07-28,Jawa Timur,Gadgets & Accessories,Tokopedia,201043,2,402086,5.0,QRIS
+ORD-2058,2026-07-23,Jawa Timur,Food & Beverage,Tokopedia,106371,1,106371,4.0,Bank Transfer
+ORD-2059,2026-09-30,Jawa Barat,Gadgets & Accessories,Shopee,345156,1,345156,5.0,COD
+ORD-2060,2026-08-25,Jawa Barat,Fashion & Apparel,Tokopedia,223348,1,223348,4.0,Virtual Account
+ORD-2061,2026-07-31,DKI Jakarta,Gadgets & Accessories,Shopee,479358,1,479358,5.0,Bank Transfer
+ORD-2062,2026-08-18,Jawa Barat,Home & Living,TikTok Shop,367531,3,1102593,5.0,QRIS
+ORD-2063,2026-09-03,Jawa Barat,Fashion & Apparel,TikTok Shop,278754,2,557508,4.8,Virtual Account
+ORD-2064,2026-10-14,Sumatera Utara,Home & Living,TikTok Shop,334750,1,334750,5.0,Virtual Account
+ORD-2065,2026-09-08,DI Yogyakarta,Gadgets & Accessories,Shopee,399454,1,399454,5.0,Bank Transfer
+ORD-2066,2026-09-12,DKI Jakarta,Fashion & Apparel,Shopee,125762,1,125762,4.8,COD
+ORD-2067,2026-08-02,Jawa Barat,Fashion & Apparel,TikTok Shop,182157,2,364314,5.0,Virtual Account
+ORD-2068,2026-08-16,Banten,Food & Beverage,Tokopedia,44510,1,44510,5.0,Bank Transfer
+ORD-2069,2026-07-26,Jawa Barat,Gadgets & Accessories,WhatsApp Business,77328,1,77328,4.0,QRIS
+ORD-2070,2026-07-23,DI Yogyakarta,Food & Beverage,TikTok Shop,97258,2,194516,5.0,QRIS
+ORD-2071,2026-08-16,DKI Jakarta,Fashion & Apparel,TikTok Shop,292220,2,584440,4.8,Bank Transfer
+ORD-2072,2026-09-03,Jawa Barat,Beauty & Skincare,TikTok Shop,130758,1,130758,4.5,QRIS
+ORD-2073,2026-09-24,DKI Jakarta,Food & Beverage,Tokopedia,36161,1,36161,4.8,Bank Transfer
+ORD-2074,2026-10-02,Banten,Fashion & Apparel,Tokopedia,348306,1,348306,5.0,COD
+ORD-2075,2026-09-01,Jawa Timur,Fashion & Apparel,Shopee,332416,2,664832,4.8,Bank Transfer
+ORD-2076,2026-07-20,DKI Jakarta,Home & Living,Shopee,652355,1,652355,5.0,COD
+ORD-2077,2026-08-14,DKI Jakarta,Fashion & Apparel,Tokopedia,189634,3,568902,4.5,COD
+ORD-2078,2026-08-23,Jawa Barat,Gadgets & Accessories,TikTok Shop,179560,2,359120,4.8,COD
+ORD-2079,2026-08-23,Jawa Timur,Food & Beverage,Shopee,34304,2,68608,5.0,Bank Transfer
+ORD-2080,2026-08-13,Jawa Tengah,Fashion & Apparel,Tokopedia,218748,1,218748,4.8,Bank Transfer
+ORD-2081,2026-08-30,DKI Jakarta,Food & Beverage,WhatsApp Business,91945,1,91945,5.0,QRIS
+ORD-2082,2026-08-14,DI Yogyakarta,Food & Beverage,TikTok Shop,78517,2,157034,4.8,COD
+ORD-2083,2026-09-25,Jawa Barat,Food & Beverage,Shopee,27402,2,54804,4.0,Bank Transfer
+ORD-2084,2026-08-07,DKI Jakarta,Gadgets & Accessories,Shopee,84112,1,84112,5.0,QRIS
+ORD-2085,2026-07-29,Banten,Food & Beverage,Tokopedia,56958,1,56958,4.8,Bank Transfer
+ORD-2086,2026-09-30,Jawa Barat,Food & Beverage,WhatsApp Business,99391,2,198782,4.8,Bank Transfer
+ORD-2087,2026-08-25,DKI Jakarta,Food & Beverage,Tokopedia,119792,4,479168,5.0,Bank Transfer
+ORD-2088,2026-07-24,DKI Jakarta,Home & Living,Shopee,279428,3,838284,4.0,Bank Transfer
+ORD-2089,2026-09-28,DKI Jakarta,Fashion & Apparel,Shopee,112067,1,112067,5.0,COD
+ORD-2090,2026-08-10,Jawa Timur,Home & Living,TikTok Shop,594649,2,1189298,4.8,Bank Transfer
+ORD-2091,2026-09-03,Sumatera Utara,Home & Living,Shopee,409878,1,409878,5.0,QRIS
+ORD-2092,2026-10-16,DKI Jakarta,Gadgets & Accessories,WhatsApp Business,278163,1,278163,4.0,COD
+ORD-2093,2026-09-02,Jawa Tengah,Gadgets & Accessories,Tokopedia,481915,2,963830,4.8,COD
+ORD-2094,2026-07-30,DKI Jakarta,Fashion & Apparel,WhatsApp Business,262965,1,262965,5.0,Virtual Account
+ORD-2095,2026-10-16,DI Yogyakarta,Food & Beverage,TikTok Shop,25364,2,50728,5.0,QRIS
+ORD-2096,2026-07-31,DKI Jakarta,Beauty & Skincare,TikTok Shop,241252,2,482504,4.5,QRIS
+ORD-2097,2026-09-18,Sumatera Utara,Beauty & Skincare,TikTok Shop,163759,1,163759,4.8,COD
+ORD-2098,2026-10-08,Jawa Timur,Home & Living,TikTok Shop,104507,5,522535,5.0,QRIS
+ORD-2099,2026-10-15,DKI Jakarta,Beauty & Skincare,TikTok Shop,112222,2,224444,4.5,Virtual Account
+ORD-2100,2026-09-16,Jawa Tengah,Food & Beverage,Shopee,36254,1,36254,5.0,COD
+ORD-2101,2026-08-30,Jawa Timur,Beauty & Skincare,Shopee,161451,1,161451,5.0,Virtual Account
+ORD-2102,2026-10-02,Banten,Beauty & Skincare,TikTok Shop,182826,1,182826,4.5,QRIS
+ORD-2103,2026-09-24,Sumatera Utara,Food & Beverage,WhatsApp Business,55697,1,55697,5.0,COD
+ORD-2104,2026-07-23,DKI Jakarta,Beauty & Skincare,Tokopedia,101529,1,101529,4.8,COD
+ORD-2105,2026-08-24,DKI Jakarta,Fashion & Apparel,Tokopedia,143122,1,143122,4.8,Virtual Account
+ORD-2106,2026-09-28,DKI Jakarta,Beauty & Skincare,TikTok Shop,210552,1,210552,4.8,COD
+ORD-2107,2026-08-18,DKI Jakarta,Beauty & Skincare,WhatsApp Business,130857,3,392571,4.0,Bank Transfer
+ORD-2108,2026-07-27,DI Yogyakarta,Beauty & Skincare,Shopee,132806,1,132806,5.0,QRIS
+ORD-2109,2026-09-07,Jawa Barat,Food & Beverage,Tokopedia,107215,3,321645,5.0,Bank Transfer
+ORD-2110,2026-08-16,DKI Jakarta,Gadgets & Accessories,Tokopedia,404547,1,404547,4.8,QRIS
+ORD-2111,2026-10-04,Bali,Gadgets & Accessories,TikTok Shop,181436,5,907180,4.5,COD
+ORD-2112,2026-08-27,Banten,Food & Beverage,WhatsApp Business,67029,1,67029,4.8,QRIS
+ORD-2113,2026-08-28,DKI Jakarta,Home & Living,Shopee,298715,1,298715,5.0,QRIS
+ORD-2114,2026-10-12,DKI Jakarta,Fashion & Apparel,TikTok Shop,125893,4,503572,4.5,Virtual Account
+ORD-2115,2026-07-29,Jawa Barat,Beauty & Skincare,Tokopedia,192045,2,384090,5.0,Virtual Account
+ORD-2116,2026-08-10,DKI Jakarta,Home & Living,Tokopedia,245152,3,735456,5.0,QRIS
+ORD-2117,2026-07-19,Jawa Timur,Beauty & Skincare,Shopee,184819,5,924095,5.0,QRIS
+ORD-2118,2026-09-02,DI Yogyakarta,Fashion & Apparel,TikTok Shop,210797,1,210797,4.8,Bank Transfer
+ORD-2119,2026-08-08,Jawa Tengah,Gadgets & Accessories,TikTok Shop,75457,1,75457,4.8,Bank Transfer
+ORD-2120,2026-10-16,DI Yogyakarta,Food & Beverage,WhatsApp Business,62089,1,62089,4.0,COD
+ORD-2121,2026-08-23,DKI Jakarta,Fashion & Apparel,Shopee,303748,2,607496,5.0,QRIS
+ORD-2122,2026-09-10,Jawa Timur,Food & Beverage,Tokopedia,116552,2,233104,5.0,Bank Transfer
+ORD-2123,2026-10-13,Banten,Fashion & Apparel,TikTok Shop,319288,1,319288,5.0,COD
+ORD-2124,2026-09-13,Jawa Barat,Fashion & Apparel,Tokopedia,239329,5,1196645,4.5,QRIS
+ORD-2125,2026-07-19,Jawa Barat,Gadgets & Accessories,Shopee,84743,2,169486,4.5,Virtual Account
+ORD-2126,2026-09-19,Jawa Barat,Fashion & Apparel,WhatsApp Business,209035,1,209035,5.0,COD
+ORD-2127,2026-09-10,Jawa Barat,Fashion & Apparel,Shopee,341656,1,341656,4.8,QRIS
+ORD-2128,2026-09-11,DKI Jakarta,Gadgets & Accessories,WhatsApp Business,114591,2,229182,4.8,Virtual Account
+ORD-2129,2026-08-27,Sumatera Utara,Home & Living,Tokopedia,457851,2,915702,4.0,Virtual Account
+ORD-2130,2026-08-02,DKI Jakarta,Food & Beverage,Tokopedia,61382,1,61382,4.8,Virtual Account
+ORD-2131,2026-08-08,DKI Jakarta,Fashion & Apparel,TikTok Shop,334252,1,334252,5.0,QRIS
+ORD-2132,2026-09-03,Jawa Tengah,Home & Living,TikTok Shop,612472,2,1224944,5.0,COD
+ORD-2133,2026-09-29,Jawa Barat,Fashion & Apparel,Tokopedia,338653,1,338653,5.0,Bank Transfer
+ORD-2134,2026-09-09,Sumatera Utara,Gadgets & Accessories,Shopee,434546,1,434546,4.8,QRIS
+ORD-2135,2026-07-27,DKI Jakarta,Home & Living,TikTok Shop,345840,4,1383360,4.5,Virtual Account
+ORD-2136,2026-09-30,Banten,Home & Living,Tokopedia,459267,1,459267,4.5,COD
+ORD-2137,2026-09-08,Jawa Tengah,Gadgets & Accessories,Tokopedia,171292,2,342584,4.5,QRIS
+ORD-2138,2026-09-13,Jawa Timur,Food & Beverage,WhatsApp Business,63314,1,63314,4.5,COD
+ORD-2139,2026-08-13,DKI Jakarta,Beauty & Skincare,Shopee,95708,2,191416,4.0,COD
+ORD-2140,2026-08-28,Jawa Barat,Food & Beverage,Tokopedia,60057,1,60057,4.0,Bank Transfer
+ORD-2141,2026-08-22,Bali,Fashion & Apparel,Shopee,123926,1,123926,5.0,COD
+ORD-2142,2026-09-19,Jawa Barat,Home & Living,Tokopedia,583791,1,583791,5.0,Bank Transfer
+ORD-2143,2026-08-12,Jawa Timur,Fashion & Apparel,Tokopedia,106568,2,213136,4.8,Virtual Account
+ORD-2144,2026-10-16,Jawa Barat,Gadgets & Accessories,TikTok Shop,288755,1,288755,4.8,COD
+ORD-2145,2026-10-01,DKI Jakarta,Food & Beverage,WhatsApp Business,107476,1,107476,5.0,Bank Transfer
+ORD-2146,2026-08-25,Jawa Barat,Food & Beverage,TikTok Shop,44522,1,44522,4.0,COD
+ORD-2147,2026-07-20,Jawa Tengah,Gadgets & Accessories,WhatsApp Business,310123,1,310123,4.8,Virtual Account
+ORD-2148,2026-07-25,Jawa Barat,Fashion & Apparel,WhatsApp Business,315201,2,630402,5.0,Bank Transfer
+ORD-2149,2026-10-08,DKI Jakarta,Beauty & Skincare,WhatsApp Business,134153,1,134153,4.0,QRIS
+ORD-2150,2026-08-21,DI Yogyakarta,Gadgets & Accessories,TikTok Shop,361896,1,361896,4.5,QRIS
+ORD-2151,2026-08-04,Jawa Timur,Home & Living,Tokopedia,413760,1,413760,5.0,Virtual Account
+ORD-2152,2026-08-30,Jawa Timur,Home & Living,Tokopedia,369482,1,369482,5.0,QRIS
+ORD-2153,2026-09-15,Jawa Barat,Beauty & Skincare,Tokopedia,64318,1,64318,5.0,QRIS
+ORD-2154,2026-09-07,Sumatera Utara,Beauty & Skincare,Shopee,183909,1,183909,5.0,QRIS
+ORD-2155,2026-09-10,Jawa Barat,Fashion & Apparel,Tokopedia,210222,3,630666,5.0,Virtual Account
+ORD-2156,2026-08-11,DKI Jakarta,Gadgets & Accessories,Shopee,349087,1,349087,4.8,Bank Transfer
+ORD-2157,2026-08-12,Jawa Timur,Home & Living,Shopee,401129,2,802258,4.0,COD
+ORD-2158,2026-09-27,DKI Jakarta,Home & Living,Shopee,152635,1,152635,5.0,QRIS
+ORD-2159,2026-09-08,DKI Jakarta,Food & Beverage,Tokopedia,48671,2,97342,5.0,COD
+ORD-2160,2026-09-26,DKI Jakarta,Gadgets & Accessories,Tokopedia,154733,1,154733,4.5,Bank Transfer
+ORD-2161,2026-10-14,Jawa Timur,Fashion & Apparel,Tokopedia,230260,2,460520,4.8,QRIS
+ORD-2162,2026-08-20,Banten,Fashion & Apparel,Tokopedia,214045,2,428090,5.0,QRIS
+ORD-2163,2026-09-05,Jawa Barat,Food & Beverage,Tokopedia,113263,3,339789,5.0,QRIS
+ORD-2164,2026-08-16,DKI Jakarta,Food & Beverage,TikTok Shop,110053,1,110053,4.8,Virtual Account
+ORD-2165,2026-09-19,Jawa Tengah,Fashion & Apparel,TikTok Shop,272298,5,1361490,5.0,COD
+ORD-2166,2026-08-09,Jawa Tengah,Food & Beverage,Tokopedia,62271,3,186813,4.8,Virtual Account
+ORD-2167,2026-08-13,DKI Jakarta,Gadgets & Accessories,TikTok Shop,458366,1,458366,4.8,QRIS
+ORD-2168,2026-08-15,Jawa Barat,Gadgets & Accessories,TikTok Shop,150819,3,452457,5.0,COD
+ORD-2169,2026-10-11,DKI Jakarta,Fashion & Apparel,Shopee,336139,5,1680695,4.5,Bank Transfer
+ORD-2170,2026-09-05,DKI Jakarta,Home & Living,Tokopedia,331773,2,663546,4.5,Virtual Account
+ORD-2171,2026-09-27,Jawa Timur,Home & Living,WhatsApp Business,553028,1,553028,4.5,COD
+ORD-2172,2026-10-07,Jawa Barat,Food & Beverage,WhatsApp Business,52757,2,105514,4.5,COD
+ORD-2173,2026-10-10,Jawa Tengah,Gadgets & Accessories,WhatsApp Business,355495,3,1066485,4.5,Bank Transfer
+ORD-2174,2026-09-05,Jawa Tengah,Food & Beverage,TikTok Shop,36219,2,72438,5.0,COD
+ORD-2175,2026-08-07,DKI Jakarta,Home & Living,TikTok Shop,237852,1,237852,5.0,COD
+ORD-2176,2026-10-12,Jawa Tengah,Beauty & Skincare,Tokopedia,61528,2,123056,5.0,Virtual Account
+ORD-2177,2026-09-19,Jawa Barat,Gadgets & Accessories,WhatsApp Business,428769,3,1286307,5.0,COD
+ORD-2178,2026-09-17,Jawa Barat,Fashion & Apparel,TikTok Shop,329394,3,988182,5.0,QRIS
+ORD-2179,2026-09-05,DI Yogyakarta,Gadgets & Accessories,WhatsApp Business,342164,1,342164,4.5,Bank Transfer
+ORD-2180,2026-09-27,Jawa Tengah,Fashion & Apparel,TikTok Shop,317556,2,635112,4.5,Virtual Account
+ORD-2181,2026-07-19,Jawa Timur,Fashion & Apparel,TikTok Shop,274092,1,274092,5.0,Virtual Account
+ORD-2182,2026-07-31,Jawa Barat,Beauty & Skincare,WhatsApp Business,224223,1,224223,5.0,COD
+ORD-2183,2026-10-13,Sumatera Utara,Gadgets & Accessories,WhatsApp Business,338516,1,338516,5.0,COD
+ORD-2184,2026-09-07,Jawa Barat,Food & Beverage,WhatsApp Business,45968,1,45968,4.5,COD
+ORD-2185,2026-09-12,Jawa Timur,Gadgets & Accessories,Tokopedia,134193,3,402579,5.0,COD
+ORD-2186,2026-10-09,DI Yogyakarta,Food & Beverage,Tokopedia,108509,3,325527,5.0,QRIS
+ORD-2187,2026-09-18,DKI Jakarta,Gadgets & Accessories,Tokopedia,292431,2,584862,4.5,Virtual Account
+ORD-2188,2026-08-19,Jawa Barat,Home & Living,Shopee,242513,1,242513,4.0,COD
+ORD-2189,2026-08-17,Banten,Beauty & Skincare,Tokopedia,193115,2,386230,5.0,QRIS
+ORD-2190,2026-08-16,Jawa Barat,Beauty & Skincare,Shopee,69159,3,207477,4.5,Bank Transfer
+ORD-2191,2026-09-05,Jawa Barat,Fashion & Apparel,TikTok Shop,316876,2,633752,5.0,COD
+ORD-2192,2026-09-01,Jawa Barat,Gadgets & Accessories,WhatsApp Business,153021,5,765105,5.0,QRIS
+ORD-2193,2026-08-17,Jawa Barat,Food & Beverage,TikTok Shop,93684,1,93684,5.0,QRIS
+ORD-2194,2026-08-03,DKI Jakarta,Home & Living,TikTok Shop,107399,2,214798,4.8,Bank Transfer
+ORD-2195,2026-08-27,DKI Jakarta,Beauty & Skincare,Tokopedia,161077,2,322154,4.8,COD
+ORD-2196,2026-08-06,Jawa Tengah,Beauty & Skincare,TikTok Shop,136158,1,136158,4.8,COD
+ORD-2197,2026-08-05,Banten,Home & Living,Tokopedia,461548,5,2307740,5.0,COD
+ORD-2198,2026-07-19,Jawa Timur,Home & Living,TikTok Shop,651250,2,1302500,5.0,COD
+ORD-2199,2026-10-04,Jawa Barat,Fashion & Apparel,Tokopedia,302021,1,302021,4.5,QRIS
+ORD-2200,2026-09-03,Jawa Timur,Gadgets & Accessories,TikTok Shop,341909,4,1367636,4.8,Bank Transfer
+ORD-2201,2026-09-22,Bali,Food & Beverage,WhatsApp Business,71336,1,71336,5.0,Bank Transfer
+ORD-2202,2026-08-25,DI Yogyakarta,Beauty & Skincare,Tokopedia,227586,2,455172,4.8,Bank Transfer
+ORD-2203,2026-09-07,DKI Jakarta,Fashion & Apparel,Shopee,290375,3,871125,4.8,Virtual Account
+ORD-2204,2026-09-19,Jawa Barat,Beauty & Skincare,WhatsApp Business,154205,1,154205,5.0,COD
+ORD-2205,2026-07-22,DKI Jakarta,Beauty & Skincare,WhatsApp Business,68344,1,68344,4.0,Virtual Account
+ORD-2206,2026-07-19,DKI Jakarta,Food & Beverage,Tokopedia,106144,1,106144,5.0,COD
+ORD-2207,2026-07-26,DI Yogyakarta,Fashion & Apparel,Shopee,101797,1,101797,5.0,QRIS
+ORD-2208,2026-08-16,DI Yogyakarta,Home & Living,WhatsApp Business,697679,1,697679,4.8,Bank Transfer
+ORD-2209,2026-09-11,Jawa Tengah,Fashion & Apparel,TikTok Shop,83625,1,83625,4.8,QRIS
+ORD-2210,2026-07-21,DKI Jakarta,Gadgets & Accessories,Shopee,419436,1,419436,4.8,QRIS
+ORD-2211,2026-08-19,DKI Jakarta,Beauty & Skincare,Tokopedia,164605,3,493815,4.8,Bank Transfer
+ORD-2212,2026-07-28,Jawa Barat,Home & Living,Tokopedia,403931,1,403931,4.5,COD
+ORD-2213,2026-09-30,Jawa Barat,Gadgets & Accessories,Tokopedia,67152,1,67152,4.5,QRIS
+ORD-2214,2026-10-09,Sumatera Utara,Food & Beverage,TikTok Shop,108251,1,108251,4.5,Bank Transfer
+ORD-2215,2026-08-21,Banten,Fashion & Apparel,WhatsApp Business,271349,1,271349,5.0,Bank Transfer
+ORD-2216,2026-10-13,Jawa Barat,Food & Beverage,Tokopedia,49395,1,49395,5.0,Bank Transfer
+ORD-2217,2026-09-11,DKI Jakarta,Food & Beverage,WhatsApp Business,46346,1,46346,4.8,Bank Transfer
+ORD-2218,2026-08-19,Jawa Timur,Food & Beverage,Tokopedia,119238,2,238476,4.5,QRIS
+ORD-2219,2026-09-06,Sumatera Utara,Gadgets & Accessories,TikTok Shop,276494,1,276494,4.8,Bank Transfer
+ORD-2220,2026-07-25,Jawa Barat,Food & Beverage,Shopee,43402,3,130206,5.0,QRIS
+ORD-2221,2026-07-26,Jawa Barat,Fashion & Apparel,WhatsApp Business,348839,1,348839,4.8,QRIS
+ORD-2222,2026-09-21,DKI Jakarta,Gadgets & Accessories,TikTok Shop,455504,1,455504,5.0,Bank Transfer
+ORD-2223,2026-09-13,Banten,Fashion & Apparel,Shopee,309745,2,619490,4.5,Bank Transfer
+ORD-2224,2026-09-23,Jawa Timur,Gadgets & Accessories,WhatsApp Business,89218,3,267654,4.0,COD
+ORD-2225,2026-10-14,DI Yogyakarta,Fashion & Apparel,Shopee,94515,1,94515,4.8,Virtual Account
+ORD-2226,2026-10-13,Jawa Barat,Gadgets & Accessories,WhatsApp Business,339258,1,339258,4.0,QRIS
+ORD-2227,2026-09-15,DKI Jakarta,Gadgets & Accessories,WhatsApp Business,278024,1,278024,5.0,COD
+ORD-2228,2026-09-28,DKI Jakarta,Food & Beverage,WhatsApp Business,39961,3,119883,4.0,Bank Transfer
+ORD-2229,2026-09-10,Sumatera Utara,Beauty & Skincare,Tokopedia,120765,1,120765,4.8,Virtual Account
+ORD-2230,2026-09-23,DKI Jakarta,Fashion & Apparel,WhatsApp Business,340232,2,680464,4.8,Virtual Account
+ORD-2231,2026-09-07,Jawa Barat,Beauty & Skincare,WhatsApp Business,224698,4,898792,4.8,Bank Transfer
+ORD-2232,2026-07-26,Jawa Timur,Fashion & Apparel,Tokopedia,104430,1,104430,5.0,Bank Transfer
+ORD-2233,2026-08-21,Jawa Barat,Gadgets & Accessories,Shopee,314139,1,314139,5.0,QRIS
+ORD-2234,2026-08-22,Jawa Timur,Beauty & Skincare,TikTok Shop,151334,3,454002,4.0,Bank Transfer
+ORD-2235,2026-10-14,Bali,Fashion & Apparel,TikTok Shop,294739,1,294739,5.0,Bank Transfer
+ORD-2236,2026-10-04,Jawa Barat,Beauty & Skincare,TikTok Shop,214486,1,214486,4.5,QRIS
+ORD-2237,2026-08-19,Jawa Timur,Gadgets & Accessories,TikTok Shop,358979,1,358979,4.8,QRIS
+ORD-2238,2026-09-02,Bali,Home & Living,TikTok Shop,722672,1,722672,5.0,Bank Transfer
+ORD-2239,2026-08-03,Banten,Fashion & Apparel,WhatsApp Business,220763,2,441526,4.8,Virtual Account
+ORD-2240,2026-09-24,Jawa Barat,Fashion & Apparel,TikTok Shop,335300,2,670600,4.8,Bank Transfer
+ORD-2241,2026-08-24,Jawa Barat,Food & Beverage,Shopee,29008,1,29008,4.8,QRIS
+ORD-2242,2026-09-10,DKI Jakarta,Home & Living,Shopee,220118,2,440236,4.8,Virtual Account
+ORD-2243,2026-10-11,DKI Jakarta,Food & Beverage,TikTok Shop,41375,2,82750,5.0,Bank Transfer
+ORD-2244,2026-08-01,DI Yogyakarta,Home & Living,TikTok Shop,174489,2,348978,4.8,Virtual Account
+ORD-2245,2026-09-11,DKI Jakarta,Home & Living,WhatsApp Business,519627,1,519627,4.5,QRIS
+ORD-2246,2026-09-04,DKI Jakarta,Food & Beverage,TikTok Shop,97666,1,97666,4.5,Virtual Account
+ORD-2247,2026-10-08,DKI Jakarta,Food & Beverage,TikTok Shop,32548,1,32548,4.8,Bank Transfer
+ORD-2248,2026-07-25,DKI Jakarta,Gadgets & Accessories,TikTok Shop,146382,2,292764,5.0,Virtual Account
+ORD-2249,2026-09-30,Jawa Barat,Home & Living,WhatsApp Business,413612,2,827224,4.8,Virtual Account
+ORD-2250,2026-07-25,Jawa Tengah,Gadgets & Accessories,TikTok Shop,474861,1,474861,4.5,QRIS
+ORD-2251,2026-08-20,Jawa Barat,Fashion & Apparel,Shopee,275015,1,275015,4.5,Virtual Account
+ORD-2252,2026-08-10,Jawa Tengah,Fashion & Apparel,Shopee,191585,1,191585,5.0,Virtual Account
+ORD-2253,2026-10-11,DKI Jakarta,Home & Living,WhatsApp Business,277132,1,277132,5.0,COD
+ORD-2254,2026-08-06,DKI Jakarta,Home & Living,Tokopedia,700803,1,700803,5.0,QRIS
+ORD-2255,2026-08-06,Jawa Tengah,Food & Beverage,Shopee,78739,3,236217,4.8,Bank Transfer
+ORD-2256,2026-08-23,Banten,Home & Living,Shopee,429064,1,429064,4.8,QRIS
+ORD-2257,2026-08-16,Banten,Gadgets & Accessories,Tokopedia,335509,1,335509,5.0,COD
+ORD-2258,2026-09-16,Jawa Barat,Fashion & Apparel,Tokopedia,296716,1,296716,4.5,QRIS
+ORD-2259,2026-10-08,Banten,Food & Beverage,TikTok Shop,107681,1,107681,5.0,COD
+ORD-2260,2026-07-20,Jawa Barat,Gadgets & Accessories,TikTok Shop,251762,1,251762,5.0,Bank Transfer
+ORD-2261,2026-07-19,Jawa Barat,Beauty & Skincare,Tokopedia,51055,4,204220,5.0,QRIS
+ORD-2262,2026-09-03,Jawa Tengah,Beauty & Skincare,Shopee,103380,1,103380,4.8,COD
+ORD-2263,2026-09-25,Jawa Timur,Home & Living,WhatsApp Business,446874,4,1787496,4.5,Virtual Account
+ORD-2264,2026-08-07,DKI Jakarta,Fashion & Apparel,WhatsApp Business,218190,1,218190,4.8,QRIS
+ORD-2265,2026-07-29,Jawa Tengah,Gadgets & Accessories,TikTok Shop,170360,1,170360,5.0,Bank Transfer
+ORD-2266,2026-07-20,Jawa Timur,Food & Beverage,Tokopedia,26750,1,26750,5.0,QRIS
+ORD-2267,2026-09-23,Jawa Tengah,Fashion & Apparel,WhatsApp Business,267608,1,267608,5.0,COD
+ORD-2268,2026-10-13,DKI Jakarta,Gadgets & Accessories,WhatsApp Business,254541,2,509082,4.5,COD
+ORD-2269,2026-07-30,Jawa Barat,Beauty & Skincare,WhatsApp Business,100812,2,201624,4.5,Virtual Account
+ORD-2270,2026-08-07,DKI Jakarta,Food & Beverage,Shopee,98048,1,98048,5.0,COD
+ORD-2271,2026-07-23,Jawa Timur,Beauty & Skincare,Tokopedia,156723,2,313446,5.0,Virtual Account
+ORD-2272,2026-08-24,Jawa Barat,Beauty & Skincare,Shopee,55741,1,55741,4.5,QRIS
+ORD-2273,2026-08-25,Jawa Tengah,Home & Living,TikTok Shop,309304,2,618608,5.0,COD
+ORD-2274,2026-07-27,Jawa Timur,Fashion & Apparel,WhatsApp Business,97462,1,97462,4.5,QRIS
+ORD-2275,2026-09-09,Sumatera Utara,Gadgets & Accessories,WhatsApp Business,227505,2,455010,5.0,Bank Transfer
+ORD-2276,2026-08-31,Bali,Gadgets & Accessories,WhatsApp Business,304084,1,304084,5.0,COD
+ORD-2277,2026-10-12,Jawa Timur,Beauty & Skincare,Shopee,186169,1,186169,4.8,COD
+ORD-2278,2026-08-11,DKI Jakarta,Fashion & Apparel,Tokopedia,325309,1,325309,5.0,Virtual Account
+ORD-2279,2026-10-07,Jawa Barat,Fashion & Apparel,TikTok Shop,173938,4,695752,5.0,Bank Transfer
+ORD-2280,2026-09-30,DKI Jakarta,Food & Beverage,Shopee,46061,1,46061,5.0,COD
+ORD-2281,2026-08-17,Sumatera Utara,Food & Beverage,Tokopedia,89808,4,359232,4.0,Bank Transfer
+ORD-2282,2026-09-15,DKI Jakarta,Beauty & Skincare,Shopee,60588,1,60588,5.0,Bank Transfer
+ORD-2283,2026-10-13,Banten,Beauty & Skincare,TikTok Shop,184011,4,736044,5.0,Bank Transfer
+ORD-2284,2026-10-07,DKI Jakarta,Beauty & Skincare,Tokopedia,229992,3,689976,4.5,COD
+ORD-2285,2026-10-07,DKI Jakarta,Gadgets & Accessories,Tokopedia,133211,1,133211,4.5,Virtual Account
+ORD-2286,2026-08-01,Sumatera Utara,Food & Beverage,WhatsApp Business,73926,3,221778,4.8,Virtual Account
+ORD-2287,2026-07-27,Jawa Barat,Food & Beverage,Tokopedia,39799,2,79598,4.8,Virtual Account
+ORD-2288,2026-08-27,Jawa Timur,Beauty & Skincare,WhatsApp Business,198346,1,198346,5.0,Virtual Account
+ORD-2289,2026-09-22,Jawa Barat,Gadgets & Accessories,Shopee,264992,1,264992,4.0,Virtual Account
+ORD-2290,2026-08-12,Jawa Barat,Food & Beverage,WhatsApp Business,98527,4,394108,5.0,COD
+ORD-2291,2026-09-29,Jawa Tengah,Home & Living,Shopee,680985,5,3404925,5.0,COD
+ORD-2292,2026-08-09,DI Yogyakarta,Gadgets & Accessories,Shopee,413270,1,413270,4.8,Virtual Account
+ORD-2293,2026-07-22,DKI Jakarta,Fashion & Apparel,Shopee,276466,2,552932,4.5,Bank Transfer
+ORD-2294,2026-08-13,Jawa Barat,Fashion & Apparel,Tokopedia,143447,2,286894,5.0,QRIS
+ORD-2295,2026-09-14,Jawa Tengah,Home & Living,Shopee,511249,2,1022498,5.0,Virtual Account
+ORD-2296,2026-08-16,Jawa Barat,Gadgets & Accessories,TikTok Shop,400500,2,801000,5.0,QRIS
+ORD-2297,2026-10-13,Jawa Tengah,Home & Living,WhatsApp Business,462205,1,462205,5.0,COD
+ORD-2298,2026-08-24,Jawa Barat,Food & Beverage,WhatsApp Business,74063,1,74063,4.8,COD
+ORD-2299,2026-10-01,DKI Jakarta,Beauty & Skincare,Shopee,109567,1,109567,4.8,COD
+ORD-2300,2026-09-26,Jawa Timur,Home & Living,WhatsApp Business,349465,1,349465,4.0,QRIS
+ORD-2301,2026-08-05,Jawa Timur,Fashion & Apparel,WhatsApp Business,143232,2,286464,4.5,COD
+ORD-2302,2026-10-11,DKI Jakarta,Beauty & Skincare,TikTok Shop,165313,2,330626,4.5,Virtual Account
+ORD-2303,2026-08-29,DI Yogyakarta,Food & Beverage,Tokopedia,96934,1,96934,4.8,COD
+ORD-2304,2026-08-28,Jawa Tengah,Gadgets & Accessories,Tokopedia,395851,3,1187553,5.0,QRIS
+ORD-2305,2026-08-25,Jawa Timur,Food & Beverage,Shopee,96468,2,192936,4.5,QRIS
+ORD-2306,2026-08-21,Jawa Tengah,Gadgets & Accessories,WhatsApp Business,422523,2,845046,5.0,QRIS
+ORD-2307,2026-08-04,Jawa Tengah,Beauty & Skincare,TikTok Shop,85497,5,427485,5.0,Bank Transfer
+ORD-2308,2026-08-24,Banten,Beauty & Skincare,Shopee,166566,1,166566,4.0,COD
+ORD-2309,2026-08-12,DKI Jakarta,Beauty & Skincare,WhatsApp Business,135464,2,270928,4.5,Bank Transfer
+ORD-2310,2026-10-02,Jawa Barat,Gadgets & Accessories,TikTok Shop,419999,2,839998,4.8,QRIS
+ORD-2311,2026-10-13,DI Yogyakarta,Gadgets & Accessories,Shopee,232124,2,464248,4.8,QRIS
+ORD-2312,2026-10-12,DKI Jakarta,Beauty & Skincare,Tokopedia,211848,2,423696,4.5,Virtual Account
+ORD-2313,2026-10-11,DKI Jakarta,Food & Beverage,Tokopedia,86807,3,260421,4.0,QRIS
+ORD-2314,2026-08-14,Jawa Barat,Home & Living,Tokopedia,721839,1,721839,5.0,Virtual Account
+ORD-2315,2026-09-13,Jawa Barat,Home & Living,WhatsApp Business,643634,1,643634,4.8,Virtual Account
+ORD-2316,2026-08-18,DKI Jakarta,Fashion & Apparel,Tokopedia,252175,1,252175,4.5,COD
+ORD-2317,2026-07-24,Jawa Barat,Gadgets & Accessories,WhatsApp Business,246955,1,246955,5.0,Virtual Account
+ORD-2318,2026-08-27,Jawa Timur,Beauty & Skincare,Tokopedia,144515,2,289030,5.0,QRIS
+ORD-2319,2026-07-30,Jawa Barat,Food & Beverage,Shopee,86993,1,86993,4.8,Virtual Account
+ORD-2320,2026-09-09,DKI Jakarta,Beauty & Skincare,Shopee,149372,2,298744,4.0,QRIS
+ORD-2321,2026-09-27,Banten,Home & Living,Shopee,424888,1,424888,5.0,COD
+ORD-2322,2026-07-28,Jawa Tengah,Beauty & Skincare,TikTok Shop,58562,2,117124,5.0,COD
+ORD-2323,2026-09-01,Jawa Timur,Beauty & Skincare,Tokopedia,140415,5,702075,4.8,COD
+ORD-2324,2026-08-04,Sumatera Utara,Gadgets & Accessories,Tokopedia,236381,1,236381,4.5,Virtual Account
+ORD-2325,2026-08-13,DKI Jakarta,Gadgets & Accessories,Shopee,381301,2,762602,4.8,Bank Transfer
+ORD-2326,2026-10-11,Bali,Beauty & Skincare,TikTok Shop,185995,5,929975,5.0,Bank Transfer
+ORD-2327,2026-09-18,Jawa Barat,Beauty & Skincare,WhatsApp Business,142290,1,142290,4.8,QRIS
+ORD-2328,2026-09-02,Jawa Timur,Food & Beverage,TikTok Shop,25634,2,51268,4.5,Virtual Account
+ORD-2329,2026-09-20,Jawa Timur,Gadgets & Accessories,WhatsApp Business,371792,1,371792,5.0,COD
+ORD-2330,2026-07-20,DKI Jakarta,Fashion & Apparel,WhatsApp Business,147219,1,147219,4.8,COD
+ORD-2331,2026-09-10,DKI Jakarta,Beauty & Skincare,WhatsApp Business,209950,1,209950,4.5,Bank Transfer
+ORD-2332,2026-09-21,Jawa Timur,Fashion & Apparel,Shopee,262435,2,524870,4.8,QRIS
+ORD-2333,2026-09-07,Banten,Fashion & Apparel,WhatsApp Business,310654,3,931962,5.0,Virtual Account
+ORD-2334,2026-09-09,Jawa Tengah,Gadgets & Accessories,Tokopedia,92039,2,184078,4.5,COD
+ORD-2335,2026-08-23,Banten,Gadgets & Accessories,TikTok Shop,478583,1,478583,5.0,QRIS
+ORD-2336,2026-08-13,Bali,Gadgets & Accessories,TikTok Shop,218090,2,436180,5.0,Bank Transfer
+ORD-2337,2026-08-16,DKI Jakarta,Home & Living,Shopee,533855,3,1601565,5.0,COD
+ORD-2338,2026-08-08,DKI Jakarta,Fashion & Apparel,Shopee,110814,5,554070,4.0,QRIS
+ORD-2339,2026-07-29,DKI Jakarta,Fashion & Apparel,WhatsApp Business,98052,1,98052,4.5,Bank Transfer
+ORD-2340,2026-08-27,Jawa Tengah,Fashion & Apparel,Shopee,77419,2,154838,5.0,Virtual Account
+ORD-2341,2026-07-29,Sumatera Utara,Beauty & Skincare,Tokopedia,128497,5,642485,4.8,COD
+ORD-2342,2026-08-23,DKI Jakarta,Fashion & Apparel,TikTok Shop,296490,1,296490,4.5,COD
+ORD-2343,2026-09-15,Bali,Gadgets & Accessories,TikTok Shop,494165,1,494165,4.8,Bank Transfer
+ORD-2344,2026-08-26,DI Yogyakarta,Gadgets & Accessories,Tokopedia,230786,2,461572,5.0,QRIS
+ORD-2345,2026-09-10,Jawa Timur,Gadgets & Accessories,WhatsApp Business,167116,5,835580,5.0,COD
+ORD-2346,2026-09-11,Jawa Barat,Gadgets & Accessories,Tokopedia,361869,2,723738,5.0,Bank Transfer
+ORD-2347,2026-08-11,DKI Jakarta,Food & Beverage,WhatsApp Business,116080,2,232160,4.8,COD
+ORD-2348,2026-08-09,Jawa Timur,Fashion & Apparel,TikTok Shop,81050,2,162100,5.0,Bank Transfer
+ORD-2349,2026-09-25,Jawa Barat,Home & Living,Tokopedia,580579,5,2902895,5.0,Virtual Account
+ORD-2350,2026-09-12,Jawa Timur,Home & Living,Tokopedia,366013,3,1098039,4.8,Virtual Account
+ORD-2351,2026-08-20,Jawa Barat,Home & Living,TikTok Shop,123446,1,123446,4.0,Virtual Account
+ORD-2352,2026-08-23,DI Yogyakarta,Gadgets & Accessories,TikTok Shop,471424,1,471424,4.8,Virtual Account
+ORD-2353,2026-08-07,Jawa Timur,Food & Beverage,TikTok Shop,38782,3,116346,4.5,COD
+ORD-2354,2026-10-09,DI Yogyakarta,Gadgets & Accessories,Tokopedia,275075,1,275075,4.8,COD
+ORD-2355,2026-10-07,DI Yogyakarta,Gadgets & Accessories,Tokopedia,293966,1,293966,4.8,Bank Transfer
+ORD-2356,2026-09-18,Jawa Barat,Home & Living,TikTok Shop,309137,1,309137,5.0,Virtual Account
+ORD-2357,2026-09-29,DKI Jakarta,Gadgets & Accessories,Tokopedia,377193,1,377193,4.8,COD
+ORD-2358,2026-08-13,DKI Jakarta,Fashion & Apparel,Tokopedia,247438,2,494876,5.0,Bank Transfer
+ORD-2359,2026-09-22,Jawa Barat,Beauty & Skincare,TikTok Shop,125010,2,250020,5.0,COD
+ORD-2360,2026-09-29,Jawa Timur,Gadgets & Accessories,TikTok Shop,494580,1,494580,4.8,Bank Transfer
+ORD-2361,2026-09-29,Jawa Barat,Food & Beverage,Tokopedia,30913,3,92739,4.5,Bank Transfer
+ORD-2362,2026-08-27,Jawa Barat,Beauty & Skincare,Tokopedia,181401,3,544203,4.8,COD
+ORD-2363,2026-08-04,DI Yogyakarta,Fashion & Apparel,Shopee,266634,1,266634,5.0,Virtual Account
+ORD-2364,2026-07-19,Sumatera Utara,Beauty & Skincare,Tokopedia,241149,1,241149,5.0,Bank Transfer
+ORD-2365,2026-10-15,DKI Jakarta,Fashion & Apparel,TikTok Shop,143147,3,429441,5.0,Bank Transfer
+ORD-2366,2026-09-17,Jawa Barat,Food & Beverage,TikTok Shop,105146,1,105146,4.5,COD
+ORD-2367,2026-08-30,DI Yogyakarta,Gadgets & Accessories,Shopee,126394,2,252788,5.0,Bank Transfer
+ORD-2368,2026-08-29,Jawa Barat,Beauty & Skincare,TikTok Shop,91722,1,91722,4.8,Virtual Account
+ORD-2369,2026-08-12,Jawa Barat,Fashion & Apparel,Tokopedia,296281,1,296281,5.0,QRIS
+ORD-2370,2026-08-26,Jawa Timur,Food & Beverage,WhatsApp Business,59674,5,298370,4.8,QRIS
+ORD-2371,2026-08-22,DKI Jakarta,Fashion & Apparel,Tokopedia,332471,3,997413,4.8,COD
+ORD-2372,2026-07-21,Sumatera Utara,Food & Beverage,TikTok Shop,88365,1,88365,5.0,Bank Transfer
+ORD-2373,2026-08-31,Sumatera Utara,Food & Beverage,TikTok Shop,63428,1,63428,4.5,Virtual Account
+ORD-2374,2026-09-07,Banten,Home & Living,Shopee,490659,2,981318,4.0,Virtual Account
+ORD-2375,2026-07-30,DKI Jakarta,Food & Beverage,TikTok Shop,40003,1,40003,5.0,COD
+ORD-2376,2026-08-06,Bali,Beauty & Skincare,TikTok Shop,116446,1,116446,5.0,COD
+ORD-2377,2026-08-31,Jawa Barat,Gadgets & Accessories,TikTok Shop,380080,1,380080,5.0,Virtual Account
+ORD-2378,2026-09-15,DKI Jakarta,Beauty & Skincare,WhatsApp Business,65701,2,131402,5.0,Virtual Account
+ORD-2379,2026-09-05,Jawa Timur,Home & Living,WhatsApp Business,199280,4,797120,5.0,Bank Transfer
+ORD-2380,2026-09-17,Jawa Barat,Fashion & Apparel,Tokopedia,238947,2,477894,5.0,Virtual Account
+ORD-2381,2026-08-04,Jawa Barat,Beauty & Skincare,WhatsApp Business,53809,2,107618,5.0,QRIS
+ORD-2382,2026-09-30,Banten,Beauty & Skincare,Shopee,96023,1,96023,4.0,Bank Transfer
+ORD-2383,2026-09-13,DKI Jakarta,Fashion & Apparel,WhatsApp Business,92300,2,184600,5.0,QRIS
+ORD-2384,2026-09-11,Sumatera Utara,Home & Living,WhatsApp Business,110360,2,220720,4.5,Bank Transfer
+ORD-2385,2026-09-03,Jawa Timur,Beauty & Skincare,Tokopedia,77209,1,77209,4.8,Bank Transfer
+ORD-2386,2026-07-30,Jawa Barat,Home & Living,Shopee,486060,2,972120,4.8,QRIS
+ORD-2387,2026-09-18,Jawa Barat,Food & Beverage,Tokopedia,82803,2,165606,4.5,Bank Transfer
+ORD-2388,2026-10-06,DKI Jakarta,Beauty & Skincare,Tokopedia,170321,2,340642,4.5,Bank Transfer
+ORD-2389,2026-10-14,Jawa Tengah,Home & Living,TikTok Shop,638057,1,638057,4.8,Virtual Account
+ORD-2390,2026-10-09,Jawa Tengah,Gadgets & Accessories,Shopee,194542,3,583626,4.5,COD
+ORD-2391,2026-07-26,Banten,Fashion & Apparel,Tokopedia,256844,1,256844,4.5,QRIS
+ORD-2392,2026-08-08,DKI Jakarta,Beauty & Skincare,Shopee,195931,2,391862,5.0,Virtual Account
+ORD-2393,2026-10-07,Jawa Barat,Gadgets & Accessories,Tokopedia,250935,2,501870,4.8,Virtual Account
+ORD-2394,2026-10-13,Banten,Home & Living,Shopee,346300,2,692600,4.8,QRIS
+ORD-2395,2026-10-06,Jawa Barat,Beauty & Skincare,TikTok Shop,53810,2,107620,5.0,QRIS
+ORD-2396,2026-09-26,DKI Jakarta,Food & Beverage,WhatsApp Business,31163,1,31163,4.5,COD
+ORD-2397,2026-09-28,Jawa Barat,Fashion & Apparel,Shopee,254420,2,508840,4.5,QRIS
+ORD-2398,2026-08-12,Jawa Barat,Food & Beverage,Shopee,65391,3,196173,4.8,Virtual Account
+ORD-2399,2026-10-08,Jawa Tengah,Food & Beverage,WhatsApp Business,53460,2,106920,4.0,COD
+ORD-2400,2026-10-15,DKI Jakarta,Home & Living,Tokopedia,468427,1,468427,5.0,QRIS
+ORD-2401,2026-07-30,Jawa Barat,Beauty & Skincare,TikTok Shop,76325,1,76325,5.0,QRIS
+ORD-2402,2026-08-02,Jawa Tengah,Food & Beverage,WhatsApp Business,87751,1,87751,4.8,Bank Transfer
+ORD-2403,2026-09-15,DKI Jakarta,Beauty & Skincare,WhatsApp Business,127850,1,127850,5.0,COD
+ORD-2404,2026-08-13,Jawa Timur,Gadgets & Accessories,Tokopedia,183021,2,366042,4.8,COD
+ORD-2405,2026-08-13,DKI Jakarta,Home & Living,Shopee,407736,1,407736,4.5,QRIS
+ORD-2406,2026-09-03,DKI Jakarta,Food & Beverage,Shopee,39456,2,78912,4.0,Virtual Account
+ORD-2407,2026-08-19,Jawa Barat,Gadgets & Accessories,TikTok Shop,57432,4,229728,4.8,QRIS
+ORD-2408,2026-07-28,Bali,Gadgets & Accessories,TikTok Shop,371243,1,371243,4.8,Bank Transfer
+ORD-2409,2026-08-03,DKI Jakarta,Food & Beverage,WhatsApp Business,25557,2,51114,5.0,Virtual Account
+ORD-2410,2026-09-27,DKI Jakarta,Home & Living,Tokopedia,696822,2,1393644,5.0,QRIS
+ORD-2411,2026-08-04,DKI Jakarta,Food & Beverage,Tokopedia,118433,1,118433,4.0,Bank Transfer
+ORD-2412,2026-08-10,Jawa Barat,Gadgets & Accessories,Shopee,234681,4,938724,5.0,QRIS
+ORD-2413,2026-08-13,Jawa Barat,Home & Living,Shopee,174469,1,174469,4.8,COD
+ORD-2414,2026-10-11,Jawa Barat,Home & Living,Shopee,484474,5,2422370,4.8,Virtual Account
+ORD-2415,2026-10-12,DKI Jakarta,Fashion & Apparel,TikTok Shop,84415,2,168830,4.0,QRIS
+ORD-2416,2026-07-25,Sumatera Utara,Fashion & Apparel,Shopee,185205,2,370410,5.0,QRIS
+ORD-2417,2026-08-01,Jawa Timur,Beauty & Skincare,Shopee,93147,2,186294,5.0,Virtual Account
+ORD-2418,2026-10-05,Jawa Tengah,Food & Beverage,WhatsApp Business,29861,1,29861,4.8,COD
+ORD-2419,2026-07-25,Banten,Fashion & Apparel,Tokopedia,117923,2,235846,4.0,Bank Transfer
+ORD-2420,2026-07-27,Jawa Timur,Fashion & Apparel,Shopee,219013,1,219013,4.5,Bank Transfer
+ORD-2421,2026-09-04,Bali,Home & Living,Tokopedia,330502,1,330502,5.0,COD
+ORD-2422,2026-09-28,Jawa Timur,Home & Living,WhatsApp Business,370855,1,370855,4.8,COD
+ORD-2423,2026-09-15,Jawa Barat,Home & Living,Tokopedia,365237,3,1095711,4.5,Bank Transfer
+ORD-2424,2026-10-13,DKI Jakarta,Gadgets & Accessories,TikTok Shop,147819,2,295638,4.5,QRIS
+ORD-2425,2026-10-08,Jawa Barat,Food & Beverage,TikTok Shop,27340,3,82020,4.0,Virtual Account
+ORD-2426,2026-08-26,Jawa Timur,Food & Beverage,Shopee,80797,1,80797,4.8,Bank Transfer
+ORD-2427,2026-08-05,Jawa Barat,Food & Beverage,Tokopedia,87040,2,174080,4.8,QRIS
+ORD-2428,2026-09-15,Jawa Tengah,Beauty & Skincare,TikTok Shop,107923,2,215846,4.5,QRIS
+ORD-2429,2026-08-04,DKI Jakarta,Home & Living,Tokopedia,669955,2,1339910,5.0,QRIS
+ORD-2430,2026-08-01,Jawa Barat,Gadgets & Accessories,TikTok Shop,107560,2,215120,4.8,QRIS
+ORD-2431,2026-08-18,Jawa Timur,Home & Living,WhatsApp Business,380141,3,1140423,5.0,Bank Transfer
+ORD-2432,2026-08-11,Jawa Barat,Beauty & Skincare,Tokopedia,235010,2,470020,4.8,QRIS
+ORD-2433,2026-09-16,Jawa Timur,Home & Living,Tokopedia,106764,5,533820,4.5,QRIS
+ORD-2434,2026-09-01,Sumatera Utara,Gadgets & Accessories,Shopee,333083,2,666166,4.8,Bank Transfer
+ORD-2435,2026-07-21,Jawa Timur,Fashion & Apparel,WhatsApp Business,331160,1,331160,4.8,QRIS
+ORD-2436,2026-08-24,DKI Jakarta,Fashion & Apparel,Tokopedia,185573,1,185573,4.5,QRIS
+ORD-2437,2026-08-30,Banten,Beauty & Skincare,TikTok Shop,203650,2,407300,4.5,Virtual Account
+ORD-2438,2026-08-27,Jawa Barat,Beauty & Skincare,Shopee,50056,2,100112,5.0,Bank Transfer
+ORD-2439,2026-10-16,Jawa Barat,Gadgets & Accessories,TikTok Shop,116483,2,232966,4.8,Virtual Account
+ORD-2440,2026-09-11,Banten,Home & Living,Shopee,234607,2,469214,5.0,QRIS
+ORD-2441,2026-10-13,Jawa Timur,Fashion & Apparel,WhatsApp Business,110079,1,110079,4.8,Virtual Account
+ORD-2442,2026-08-26,Jawa Barat,Fashion & Apparel,TikTok Shop,121105,2,242210,4.8,Virtual Account
+ORD-2443,2026-08-02,Bali,Food & Beverage,WhatsApp Business,118034,1,118034,4.8,Bank Transfer
+ORD-2444,2026-07-22,Jawa Timur,Fashion & Apparel,Tokopedia,148277,1,148277,4.8,Virtual Account
+ORD-2445,2026-10-12,Sumatera Utara,Home & Living,WhatsApp Business,279559,1,279559,4.5,COD
+ORD-2446,2026-08-12,Jawa Barat,Beauty & Skincare,Tokopedia,186666,2,373332,4.5,Bank Transfer
+ORD-2447,2026-07-31,Jawa Timur,Food & Beverage,WhatsApp Business,68158,1,68158,5.0,COD
+ORD-2448,2026-10-08,Jawa Tengah,Gadgets & Accessories,Shopee,296464,1,296464,5.0,Bank Transfer
+ORD-2449,2026-08-20,Jawa Timur,Gadgets & Accessories,WhatsApp Business,471396,1,471396,4.0,COD
+ORD-2450,2026-08-03,DKI Jakarta,Food & Beverage,WhatsApp Business,50198,1,50198,4.8,COD
+ORD-2451,2026-08-29,DI Yogyakarta,Home & Living,Shopee,147003,1,147003,4.5,COD
+ORD-2452,2026-09-22,DKI Jakarta,Food & Beverage,WhatsApp Business,77800,1,77800,4.8,QRIS
+ORD-2453,2026-09-11,DKI Jakarta,Food & Beverage,Tokopedia,113678,1,113678,4.0,COD
+ORD-2454,2026-08-29,Jawa Timur,Home & Living,TikTok Shop,187687,2,375374,4.5,Bank Transfer
+ORD-2455,2026-08-21,Jawa Barat,Fashion & Apparel,TikTok Shop,102584,3,307752,5.0,QRIS
+ORD-2456,2026-08-17,Jawa Timur,Food & Beverage,WhatsApp Business,101816,2,203632,5.0,Bank Transfer
+ORD-2457,2026-07-31,Jawa Timur,Food & Beverage,Shopee,53768,2,107536,4.8,COD
+ORD-2458,2026-07-31,Jawa Tengah,Beauty & Skincare,Shopee,65419,2,130838,4.8,COD
+ORD-2459,2026-08-05,DKI Jakarta,Gadgets & Accessories,WhatsApp Business,206546,1,206546,4.8,Virtual Account
+ORD-2460,2026-08-19,DKI Jakarta,Food & Beverage,Shopee,80152,1,80152,5.0,Bank Transfer
+ORD-2461,2026-08-26,Banten,Home & Living,Tokopedia,552220,4,2208880,5.0,COD
+ORD-2462,2026-09-02,Jawa Timur,Gadgets & Accessories,Shopee,360725,2,721450,5.0,QRIS
+ORD-2463,2026-08-16,Jawa Barat,Home & Living,TikTok Shop,711369,3,2134107,4.5,QRIS
+ORD-2464,2026-09-18,DKI Jakarta,Gadgets & Accessories,WhatsApp Business,416573,3,1249719,4.0,Bank Transfer
+ORD-2465,2026-09-18,DKI Jakarta,Gadgets & Accessories,WhatsApp Business,176372,1,176372,5.0,Bank Transfer
+ORD-2466,2026-09-13,Jawa Timur,Beauty & Skincare,Tokopedia,67256,1,67256,5.0,QRIS
+ORD-2467,2026-08-03,Jawa Tengah,Beauty & Skincare,Tokopedia,217848,5,1089240,5.0,QRIS
+ORD-2468,2026-09-12,DI Yogyakarta,Home & Living,TikTok Shop,199704,3,599112,4.0,COD
+ORD-2469,2026-07-28,Jawa Tengah,Home & Living,WhatsApp Business,120448,1,120448,5.0,Bank Transfer
+ORD-2470,2026-08-17,DKI Jakarta,Beauty & Skincare,Tokopedia,225725,2,451450,5.0,QRIS
+ORD-2471,2026-08-12,Jawa Tengah,Home & Living,Shopee,516232,2,1032464,4.0,QRIS
+ORD-2472,2026-10-10,Jawa Timur,Beauty & Skincare,WhatsApp Business,62823,1,62823,4.5,Virtual Account
+ORD-2473,2026-07-23,Jawa Tengah,Home & Living,Shopee,682176,1,682176,5.0,Virtual Account
+ORD-2474,2026-09-21,Jawa Barat,Beauty & Skincare,WhatsApp Business,237973,1,237973,4.5,Bank Transfer
+ORD-2475,2026-09-05,DKI Jakarta,Beauty & Skincare,TikTok Shop,121835,1,121835,4.0,COD
+ORD-2476,2026-07-21,Jawa Tengah,Home & Living,TikTok Shop,640027,1,640027,4.8,COD
+ORD-2477,2026-09-01,DKI Jakarta,Beauty & Skincare,TikTok Shop,175332,1,175332,4.8,Virtual Account
+ORD-2478,2026-08-01,DKI Jakarta,Gadgets & Accessories,Tokopedia,212776,3,638328,4.8,Virtual Account
+ORD-2479,2026-08-17,Jawa Tengah,Home & Living,Tokopedia,370877,1,370877,4.5,Bank Transfer
+ORD-2480,2026-09-24,DKI Jakarta,Fashion & Apparel,WhatsApp Business,257643,1,257643,4.8,Virtual Account
+ORD-2481,2026-08-05,Jawa Timur,Fashion & Apparel,WhatsApp Business,306946,2,613892,5.0,Bank Transfer
+ORD-2482,2026-09-18,Jawa Barat,Food & Beverage,Shopee,39404,2,78808,4.5,COD
+ORD-2483,2026-08-24,DKI Jakarta,Fashion & Apparel,WhatsApp Business,156455,2,312910,4.0,COD
+ORD-2484,2026-08-12,DKI Jakarta,Gadgets & Accessories,WhatsApp Business,66740,2,133480,4.0,Virtual Account
+ORD-2485,2026-09-04,Banten,Home & Living,Tokopedia,409815,1,409815,4.5,Virtual Account
+ORD-2486,2026-09-21,Jawa Barat,Food & Beverage,Tokopedia,75639,4,302556,5.0,QRIS
+ORD-2487,2026-09-09,Banten,Beauty & Skincare,WhatsApp Business,242995,1,242995,5.0,COD
+ORD-2488,2026-10-05,DKI Jakarta,Beauty & Skincare,WhatsApp Business,238511,2,477022,4.8,COD
+ORD-2489,2026-09-29,DI Yogyakarta,Beauty & Skincare,WhatsApp Business,69748,1,69748,5.0,COD
+ORD-2490,2026-08-02,Jawa Barat,Home & Living,WhatsApp Business,522122,3,1566366,4.8,QRIS
+ORD-2491,2026-09-05,Jawa Timur,Beauty & Skincare,WhatsApp Business,77738,3,233214,5.0,Virtual Account
+ORD-2492,2026-10-14,Jawa Barat,Beauty & Skincare,Shopee,106271,2,212542,4.5,QRIS
+ORD-2493,2026-09-24,Jawa Barat,Fashion & Apparel,TikTok Shop,270868,1,270868,4.8,Bank Transfer
+ORD-2494,2026-07-30,Jawa Tengah,Home & Living,Tokopedia,332321,2,664642,4.8,Virtual Account
+ORD-2495,2026-09-15,Jawa Timur,Beauty & Skincare,Tokopedia,152903,1,152903,4.5,QRIS
+ORD-2496,2026-08-24,Jawa Timur,Fashion & Apparel,Tokopedia,114986,1,114986,4.8,QRIS
+ORD-2497,2026-09-17,Banten,Fashion & Apparel,Shopee,248620,2,497240,5.0,COD
+ORD-2498,2026-08-30,DKI Jakarta,Food & Beverage,Tokopedia,34114,1,34114,4.8,Virtual Account
+ORD-2499,2026-09-26,Jawa Tengah,Home & Living,WhatsApp Business,446990,3,1340970,4.5,Bank Transfer
